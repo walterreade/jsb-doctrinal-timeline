@@ -105,6 +105,47 @@ class GeminiClient:
         logger.info(f"Extracted {len(principles)} principles")
         return principles
 
+    @retry(
+        stop=stop_after_attempt(3),
+        wait=wait_exponential(multiplier=1, min=2, max=10),
+    )
+    def glean_principles(
+        self,
+        chunk_text: str,
+        existing_principles: list[dict[str, str]],
+        document_context: dict[str, Any],
+    ) -> list[PrincipleAssertion]:
+        """Find additional principles missed by the initial extraction.
+
+        Args:
+            chunk_text: Text to re-analyze
+            existing_principles: Already-extracted principles (list of dicts with
+                'principle' and 'quote' keys)
+            document_context: Metadata about the source document
+
+        Returns:
+            List of newly found PrincipleAssertion objects
+        """
+        prompt = self._build_glean_prompt(chunk_text, existing_principles, document_context)
+
+        logger.debug(f"Sending glean request for {len(chunk_text)} chars "
+                     f"({len(existing_principles)} existing)")
+
+        try:
+            response = self.client.models.generate_content(
+                model=self.model_name,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    temperature=0.3,
+                ),
+            )
+            return self._parse_response(response)
+
+        except Exception as e:
+            logger.error(f"Glean failed: {e}")
+            raise
+
     def _build_extraction_prompt(
         self, chunk_text: str, document_context: dict[str, Any]
     ) -> str:
@@ -181,3 +222,58 @@ Output: []
 **Task:** Extract all doctrinal, philosophical, or theological principles taught by Joseph Smith in the above text. Return ONLY a valid JSON array (no markdown formatting, no code blocks).
 """
         return prompt
+
+    def _build_glean_prompt(
+        self,
+        chunk_text: str,
+        existing_principles: list[dict[str, str]],
+        document_context: dict[str, Any],
+    ) -> str:
+        """Build the glean prompt for finding missed principles.
+
+        Args:
+            chunk_text: Text chunk to re-analyze
+            existing_principles: Already-extracted principles
+            document_context: Document metadata for context
+
+        Returns:
+            Complete prompt string
+        """
+        title = document_context.get("title", "Unknown")
+        recorder = document_context.get("recorder", "Unknown")
+        date = document_context.get("event_date_edtf", "Unknown date")
+
+        existing_json = json.dumps(existing_principles, indent=2)
+
+        return f"""You are an expert historian analyzing the writings of Joseph Smith Jr. A first-pass extraction has already identified some doctrinal principles from this passage. Your task is to find any ADDITIONAL principles that were MISSED.
+
+**Document Context:**
+- Title: {title}
+- Recorder/Scribe: {recorder}
+- Date: {date}
+
+**Rules:**
+1. Only report NEW principles not already covered by the existing list
+2. Each principle must be grounded in a verbatim quote from the passage
+3. Copy `verbatim_quote` EXACTLY character-for-character (NEVER paraphrase)
+4. Flag each as "explicit" (directly stated) or "inferred" (logically entailed but not verbatim)
+5. If nothing was missed, return an empty array []
+
+**Passage:**
+
+{chunk_text}
+
+**Already Extracted ({len(existing_principles)} principles):**
+{existing_json}
+
+**Output Format:**
+Return a JSON array of objects with these fields:
+- principle_statement (string): The new principle
+- verbatim_quote (string): Exact quote from source text
+- explicit_or_inferred (string): Either "explicit" or "inferred"
+- reasoning (string): Why this was missed and why it qualifies
+- confidence (number): 0.0 to 1.0
+- audience_hint (string or null): Audience context if identifiable
+
+Return ONLY a valid JSON array (no markdown, no code blocks). Return [] if nothing new.
+"""

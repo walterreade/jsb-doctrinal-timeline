@@ -13,6 +13,7 @@ from pipeline.stages.stage_0_ingest import ingest_main
 from pipeline.stages.stage_1_chunk import chunk_main
 from pipeline.stages.stage_2_extract import extract_main
 from pipeline.stages.stage_3_verify import verify_main
+from pipeline.stages.stage_4_glean import glean_main
 from pipeline.utils.db import Database
 
 
@@ -189,6 +190,32 @@ def verify_command(document_sha256: str) -> None:
     _run_with_error_handling(_run)
 
 
+def glean_command(document_sha256: str) -> None:
+    """Run glean pass to find missed principles.
+
+    Args:
+        document_sha256: SHA-256 hash of document to glean
+    """
+    def _run():
+        setup_logging()
+        print(f"Gleaning principles from document: {document_sha256}")
+        print("(This will re-analyze all chunks - may take several minutes)")
+
+        summary = glean_main(
+            document_sha256=document_sha256,
+            db_path=str(config.db_path),
+        )
+
+        print(f"\n✓ Glean complete:")
+        print(f"  Total chunks: {summary['total_chunks']}")
+        print(f"  Chunks with existing principles: {summary['chunks_with_existing']}")
+        print(f"  Chunks yielding new principles: {summary['chunks_with_new']}")
+        print(f"  New principles found: {summary['total_new']} (unverified)")
+        print(f"\nNext step: Run verification to validate new quotes")
+
+    _run_with_error_handling(_run)
+
+
 def stats_command(comprehensive: bool = False) -> None:
     """Display pipeline statistics.
 
@@ -249,6 +276,14 @@ def _handle_verify(args: list[str]) -> None:
     verify_command(args[0])
 
 
+def _handle_glean(args: list[str]) -> None:
+    """Handle glean command."""
+    if len(args) < 1:
+        print("ERROR: Missing document SHA-256", file=sys.stderr)
+        sys.exit(1)
+    glean_command(args[0])
+
+
 def _handle_stats(args: list[str]) -> None:
     """Handle stats command."""
     comprehensive = "--comprehensive" in args
@@ -262,6 +297,7 @@ COMMANDS: dict[str, Callable[[list[str]], None]] = {
     "chunk": _handle_chunk,
     "extract": _handle_extract,
     "verify": _handle_verify,
+    "glean": _handle_glean,
     "stats": _handle_stats,
 }
 
@@ -275,6 +311,7 @@ def main() -> None:
         print("  python -m pipeline.main chunk <document_sha256>")
         print("  python -m pipeline.main extract <document_sha256>")
         print("  python -m pipeline.main verify <document_sha256>")
+        print("  python -m pipeline.main glean <document_sha256>")
         print("  python -m pipeline.main stats [--comprehensive]")
         sys.exit(1)
 
