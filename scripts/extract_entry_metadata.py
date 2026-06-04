@@ -1,6 +1,8 @@
 """Extract journal entry metadata and map to assertions."""
 
+import bisect
 import logging
+import re
 import sys
 from pathlib import Path
 
@@ -40,8 +42,48 @@ def _extract_entry_date(date_elem: etree._Element | None, ns: dict) -> tuple[str
     return entry_date, date_text
 
 
+MONTH_NAMES = [
+    "January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December",
+]
+
+
+def _iso_to_text_date(iso_date: str) -> str:
+    """Convert '1833-10-06' to '6 October 1833'."""
+    parts = iso_date.split("-")
+    if len(parts) != 3:
+        return ""
+    year, month, day = parts
+    try:
+        month_idx = int(month) - 1
+        if not (0 <= month_idx < 12):
+            return ""
+        return f"{int(day)} {MONTH_NAMES[month_idx]} {year}"
+    except ValueError:
+        return ""
+
+
+def _find_with_word_boundary(pattern: str, text: str, start: int) -> int:
+    """Find pattern in text ensuring the match starts at a word boundary.
+
+    Uses regex \\b to prevent '6 October' matching inside '26 October'.
+    """
+    match = re.search(r'\b' + re.escape(pattern), text[start:])
+    if match is None:
+        return -1
+    return start + match.start()
+
+
 def _find_entry_start(date_text: str, entry_date: str | None, normalized_text: str, entries: list[dict]) -> int:
     """Find entry start position in normalized text.
+
+    Searches forward from the previous entry's start to avoid matching
+    earlier mentions of the same date string (e.g. in editorial headnotes).
+
+    The normalized text uses "D Month YYYY" format (e.g. "6 October 1833"),
+    while XML dividers may use ranges ("6–12 October 1833") or ISO dates.
+    We try the text-format date with word-boundary matching to avoid
+    "6 October" matching inside "26 October".
 
     Args:
         date_text: Date text to search for
@@ -52,16 +94,24 @@ def _find_entry_start(date_text: str, entry_date: str | None, normalized_text: s
     Returns:
         Character start position
     """
-    # Try to find date in normalized text
-    for pattern in [date_text, entry_date or ""]:
-        if pattern:
-            pattern_clean = pattern.replace("–", "-").replace("—", "-")
-            pos = normalized_text.find(pattern_clean)
+    search_from = entries[-1]["char_start"] + 1 if entries else 0
+
+    text_date = _iso_to_text_date(entry_date) if entry_date else ""
+
+    # Try text-format date first (most reliable in normalized text)
+    if text_date:
+        pos = _find_with_word_boundary(text_date, normalized_text, search_from)
+        if pos != -1:
+            return pos
+
+    # Try the XML date_text as-is and with dash normalization
+    if date_text:
+        for variant in [date_text, date_text.replace("–", "-").replace("—", "-")]:
+            pos = _find_with_word_boundary(variant, normalized_text, search_from)
             if pos != -1:
                 return pos
 
-    # Fallback: use previous entry's end or beginning of text
-    return entries[-1].get("char_end", 0) if entries else 0
+    return -1
 
 
 def _print_progress(current: int, total: int, interval: int = 20) -> None:
@@ -110,6 +160,9 @@ def extract_journal_entry_boundaries(xml_path: str, normalized_text: str) -> lis
         if entry_date is not None or date_text:
             entry_start = _find_entry_start(date_text, entry_date, normalized_text, entries)
 
+            if entry_start == -1:
+                continue
+
             # Update previous entry's end
             if entries:
                 entries[-1]["char_end"] = entry_start
@@ -123,7 +176,8 @@ def extract_journal_entry_boundaries(xml_path: str, normalized_text: str) -> lis
 
             _print_progress(i, len(dividers))
 
-    print(f"\nExtracted {len(entries)} journal entries with dates")
+    skipped = len(dividers) - len(entries)
+    print(f"\nExtracted {len(entries)} journal entries with dates (skipped {skipped} dividers not found in text)")
 
     # Print sample
     if entries:
@@ -140,6 +194,9 @@ def extract_journal_entry_boundaries(xml_path: str, normalized_text: str) -> lis
 def map_assertions_to_entries(db: Database, entry_boundaries: list[dict]) -> int:
     """Map assertions to journal entries and update metadata.
 
+    Uses bisect for O(n + m) mapping since both assertions and entries
+    are sorted by char_start.
+
     Args:
         db: Database connection
         entry_boundaries: List of entry metadata from extract_journal_entry_boundaries
@@ -147,38 +204,26 @@ def map_assertions_to_entries(db: Database, entry_boundaries: list[dict]) -> int
     Returns:
         Number of assertions updated
     """
-    # Get all assertions
     cursor = db.execute("SELECT id, char_start FROM assertions ORDER BY char_start")
     assertions = cursor.fetchall()
 
     print(f"\nMapping {len(assertions)} assertions to {len(entry_boundaries)} entries...")
 
+    starts = [e["char_start"] for e in entry_boundaries]
     updated_count = 0
 
     for assertion in assertions:
         assertion_id = assertion["id"]
         assertion_offset = assertion["char_start"]
 
-        # Find which entry this assertion belongs to
-        matched_entry = None
-        for entry in entry_boundaries:
-            if entry["char_start"] <= assertion_offset < entry["char_end"]:
-                matched_entry = entry
-                break
-
-        if matched_entry:
-            # Update assertion with entry date
+        idx = bisect.bisect_right(starts, assertion_offset) - 1
+        if idx >= 0 and assertion_offset < entry_boundaries[idx]["char_end"]:
             db.execute(
-                """
-                UPDATE assertions
-                SET event_date_edtf = ?
-                WHERE id = ?
-                """,
-                (matched_entry["event_date_edtf"], assertion_id)
+                "UPDATE assertions SET event_date_edtf = ? WHERE id = ?",
+                (entry_boundaries[idx]["event_date_edtf"], assertion_id),
             )
             updated_count += 1
         else:
-            # No match found - use document-level date
             logger.warning(f"Assertion {assertion_id} at offset {assertion_offset} "
                          f"not matched to any entry")
 
