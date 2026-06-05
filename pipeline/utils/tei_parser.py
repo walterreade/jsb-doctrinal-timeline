@@ -130,6 +130,10 @@ class TEIParser:
             "fw",  # Form work (page numbers, headers)
         }
 
+        # Skip non-element nodes (comments, processing instructions)
+        if not isinstance(elem.tag, str):
+            return ""
+
         # Get tag without namespace
         tag = etree.QName(elem).localname
 

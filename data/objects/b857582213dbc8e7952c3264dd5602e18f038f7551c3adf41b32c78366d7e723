@@ -1,0 +1,483 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" pm:docDesc="Latter Day Saints, 1844 (Rupp)" pm:title="JSPPH1" pm:entry="26024" pm:status="Active" pm:url="x4786" xml:id="x4786" pm:link-target-type="relatedDocument" lds:ResourceType="Text-Document" lds:AccessionNumber="4786" lds:DateJustification="Rupp wrote JS in July 1843 requesting chapter on Mormonism. JS acknowledged receiving a published copy of Rupps history by 5 Jun 1844." lds:ResourceFormat="Text" pm:docDateMax="1844-06-04" pm:docDateMin="1843-07-01" pm:docDate="1843-07-01" pm:sortkey="1843-07-01 015" lds:WorkflowStage="Transcribe" lds:WorkflowStageStatus="Complete">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title type="editorial">“Latter Day Saints,”
+1844</title>
+                    <title type="formal"/>
+                    <title type="alternative"/>
+                </titleStmt><lds:Tracking lds:TranscriptState="3LV" lds:PublishImage="Y" lds:HasPubPermissions="Y" lds:PublishClearText="N" lds:docComponents="Img,Trn,FSN,FHI,Ann" lds:WebPublishStatus="FinalContent"/>
+                <publicationStmt>
+                    <publisher>The Church of Jesus Christ of Latter Day Saints</publisher>
+                </publicationStmt>
+                <seriesStmt>
+                    <title>Unknown</title>
+                </seriesStmt>
+                <notesStmt>
+                    <note/>
+                </notesStmt>
+                <sourceDesc>
+                    <bibl type="abstract"> </bibl>
+                    <listPerson>
+                        <person role="author">
+                            <persName>
+                                <ref pm:link-pointer-type="person" target="per46">Joseph Smith
+                                    Jr.</ref>
+                            </persName>
+                        </person>
+                        <person>
+                            <persName/>
+                        </person>
+                    </listPerson>
+                    <listPlace>
+                        <place type="author">
+                            <placeName>
+                                <ref pm:link-pointer-type="place" target="plc12">Nauvoo, Hancock,
+                                    Illinois, United States </ref>
+                            </placeName>
+                        </place>
+                        <place>
+                            <placeName/>
+                        </place>
+                    </listPlace>
+                    <msDesc lds:Complete="Unknown" lds:Authenticity="Blank" lds:FirstFiveWords="The Church of Jesus Christ" lds:Extant="No" lds:ShortHand="Unknown" lds:Ciphers="Unknown" lds:OtherLanguages="Unknown" lds:NonTextualElements="Unknown" lds:Signature="Unknown" lds:Certification="Unknown" lds:Enclosure="Unknown" lds:Seal="Unknown" lds:Addressing="Unknown" lds:Posting="Unknown" lds:Redaction="Unknown" lds:Dockets="Unknown" lds:HandwritingType="Unknown" lds:InscriptionMethod="Unknown">
+                        <msIdentifier>
+                            <placeName>
+                                <address>
+                                    <addrLine>15 East North Temple Street</addrLine>
+                                    <addrLine>Salt Lake City, UT, 84150-1600</addrLine>
+                                </address>
+                            </placeName>
+                            <institution>Church History Library</institution>
+                            <repository>Church History Library</repository>
+                            <collection/>
+                            <idno type="call-number">277.3 O69 1844 (100000379945)</idno>
+                            <msName>He Pasa Ekklesia, pp. 404–410</msName>
+                        </msIdentifier>
+                        <msContents>
+                            <summary/>
+                            <textLang mainLang="en"/>
+                        </msContents>
+                        <physDesc>
+                            <p>Need copy for control file. Account printed under title,
+                                “Latter
+                                Day
+                                Saints,”
+                                in I. Daniel Rupp, an Original History of the Religious
+                                Denominations at Present Existing in the United States
+                                (Philadelphia, 1844), 404-10. See PJS 1:445-458.</p>
+                            <objectDesc facs="imageurlshere" form="paper">
+                                <supportDesc material="paper">
+                                    <support>Medium desc. here.</support>
+                                    <extent>
+                                        <dimensions scope="all" type="leaf" unit="inch">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition/>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <p>Unknown</p>
+                            </handDesc>
+                            <decoDesc>
+                                <p/>
+                            </decoDesc>
+                        </physDesc>
+                        <history>
+                            <origin/>
+                            <provenance/>
+                            <acquisition/>
+                        </history>
+                        <additional>
+                            <adminInfo>
+                                <availability lds:DocumentAccess="Yes">
+                                    <p/>
+                                </availability>
+                                <custodialHist>
+                                    <custEvent/>
+                                </custodialHist>
+                                <note type="disposition"/>
+                            </adminInfo>
+                            <surrogates/>
+                            <listBibl type="print-volume-location">
+                                <bibl><ref pm:link-pointer-type="web" target="http://www.josephsmithpapers.org/publishedVolumes/histories-volume-1-joseph-smith-histories-1832-1844"><title>JSP,</title> H1:502–516</ref></bibl>
+                            </listBibl>
+                        </additional>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation/>
+                <textClass>
+                    <classCode scheme="inscription-method">Unknown</classCode>
+                </textClass>
+            </profileDesc>
+            <revisionDesc><change who="s" when="2014-01-08T19:32:43.14Z"><label>posted to website</label><desc>29 Oct 2013</desc></change><change who="NNW" when="2010-12-07T22:34:55.75Z"><label>Accepted changes, 2010-12-07 at about 3:35pm</label><desc/></change>
+                <change who="CDC" when="2009-08-18">
+                    <label>Added footnotes from Word file</label>
+                    <desc>Squashed tagging of people, places, etc.  Needs re-merge or re-tagging.</desc>
+                </change>
+                <change when="2006-08-15T15:01:11" who="Rachel">
+                    <label>Last Update</label>
+                    <desc>Last updated by Rachel, 2006-08-15T15:01:11</desc>
+                </change>
+                <change when="2009-01-01" who="SFP">
+                    <label>Initial Creation</label>
+                    <desc>Complete</desc>
+                </change><change who="NNW" when="2011-08-09T22:59:18.56Z"><label>Changes Accepted</label><desc>2011-08-09 5:00pm</desc></change>
+            </revisionDesc>
+        </teiHeader>
+        <text>
+<body><div1><div2 type="docfront"><div3 type="sourcenote"><msDesc><msIdentifier><msName>“Latter Day Saints,”
+1844</msName></msIdentifier><msContents><summary><p rend="indent"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>, “Latter Day Saints,” pp. 404–410 in <ref pm:link-pointer-type="person" target="x4544" n="Rupp, Israel Daniel">Israel Daniel Rupp</ref> (ed.), <title>He Pasa Ekklesia <hi rend="normal">[The whole church].</hi> An Original History of the Religious Denominations at Present Existing in the United States. Containing Authentic Accounts of Their Rise, Progress, Statistics and Doctrines. Written Expressly for the Work by Eminent Theological Professors, Ministers, and Lay-Members, of the Respective Denominations. Projected, Compiled and Arranged by I. Daniel Rupp, of Lancaster, Pa. Author of “Der Maertyrer Geschichte,” Etc. Etc.;</title> Philadelphia: James Y. Humphreys; Harrisburg, PA: Clyde and Williams; printed by C. Sherman; 1844; i–viii, 9–734 pp. The copy used for transcription is held at CHL; includes redactions and archival marking.</p></summary></msContents><physDesc><p rend="indent">The history is the twenty-second of forty-three chapters in the volume. It comprises seven pages that measure 9⅛ x 5⅝ inches (23 x 14 cm) within a book measuring 9½ x 6½ x 2 inches (24 x 17 x 5 cm). The copy used for transcription has apparently been in continuous church custody since its purchase in 1905.<note type="editorial-footnote" resp="W" pm:link-target-type="text">This copy was purchased 21 June 1905 from a Salt Lake City bookstore for the Church Historian’s Office. The lower right corner of the inside front cover bears a sticker of the bookstore, “Shepard Book Company”, and the upper left corner bears a sticker of the “Historian’s Office Library”. Several “Historian’s Office” stamps are found throughout the book, including on the first page of the essay on the Latter-day Saints. A notation on the recto of the blank leaf preceding the title page indicates the day of purchase and a library number, “3493”, written in ink and later erased. “3493” corresponds to an entry made sometime after 1930 in an early Church Historian’s Office catalog book. (<ref target="XEDBB" pm:link-pointer-type="source">“Library Record,” book no. 3493</ref>.)</note></p></physDesc><history><provenance/></history></msDesc></div3><div3 type="historical-intro"><p rend="indent">In <date when-iso="1843-07">July 1843</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> received a
+letter from Clyde, Williams &amp; Co. of <ref pm:link-pointer-type="place" target="plc233" n="Harrisburg, Dauphin County, Pennsylvania">Harrisburg</ref>, Pennsylvania, announcing
+the planned publication of a volume of articles “written expressly for the
+Work, by distinguished Divines” from various religious denominations in the
+<ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref>. The letter invited JS or “some other competent person” representing the Latter-day Saints
+to submit an “impartial account of the Rise and Progress, Faith
+and Practice” of the church.<note type="editorial-footnote" pm:link-target-type="text"><ref target="X7151" pm:link-pointer-type="source">Clyde, Williams &amp; Co., Harrisburg, PA, to JS, Nauvoo, IL, ca. 15 July 1843, JS Collection, CHL</ref>.</note> On behalf of JS, <ref pm:link-pointer-type="person" target="per73" n="Phelps, William Wines">William
+W. Phelps</ref> prepared a letter in reply, promising that an article would be
+“matured and forwarded in season to meet your anticipations.”<note type="editorial-footnote" pm:link-target-type="text"><ref target="X7151" pm:link-pointer-type="source">JS per William W. Phelps,
+Nauvoo, IL, to Clyde, Williams &amp; Co., Harrisburg,
+PA, 1 Aug. 1843, JS Collection, CHL</ref>. Volumes describing various religious denominations were not uncommon in this time period.  In addition to <persName>John Hayward</persName>’s <date when-iso="1836">1836</date> <ns1:title xmlns:ns1="http://www.tei-c.org/ns/1.0">Religious Creeds and Statistics,</ns1:title> <persName>Robert Baird</persName> published <title>A View of Religion in America</title> in <placeName>Glasgow</placeName> in <date when-iso="1842">1842</date>, with  a revised edition, titled <ns1:title xmlns:ns1="http://www.tei-c.org/ns/1.0">Religion in America,</ns1:title> printed in the <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref> two years later and reprinted many times thereafter.  Other examples are <persName>P. Douglas Gorrie</persName>, <ns1:title xmlns:ns1="http://www.tei-c.org/ns/1.0">The Churches and Sects of the United States,</ns1:title> (New York: Lewis Colby, 1850), and <persName>Joseph Belcher</persName>, <ns1:title xmlns:ns1="http://www.tei-c.org/ns/1.0">The Religious Denominations in the United States,</ns1:title> (Philadelphia: J. E. Potter, 1854).  <ref pm:link-pointer-type="person" target="x4544" n="Rupp, Israel Daniel">Rupp</ref>’s volume is distinctive in that it is a collection of essays written by representatives of the respective denominations.</note></p><p rend="indent"> The resulting essay, published as “Latter Day Saints,” was a revised version of “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,” an overview of Latter-day Saint history and doctrine recently written in response to a similar request and published in the church newspaper.<note type="editorial-footnote" resp="W" pm:link-target-type="text">See <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref><!--,-->”</ref><!-- pp. 489–501 herein-->. When <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> composed “Church History,” he quoted from <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Orson Pratt</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x6554"><title>A[n] Interesting Account of Several Remarkable Visions.<!--,--></title></ref><!-- reproduced in the appendix herein. Light gray shading in the
+appendix indicates language used in “Church History” and in “Latter Day
+Saints.”--></note> Taken as a whole, the revisions highlight <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s emphasis on revelation, with a new opening paragraph explaining the revelatory foundations of the church and JS’s prophetic calling. The revised essay, composed in <date when-iso="1843-09">September 1843</date>, also expanded on the achievements of
+the hardworking Latter-day Saints, noting the progress of <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>, Illinois, during the
+eighteen months since the publication of “Church History.” Whereas the earlier version noted
+simply, “We have commenced to build a city called ‘Nauvoo’” and alluded
+only briefly to the city charter, the Nauvoo Legion, and the Saints’
+missionary outreach, “Latter Day Saints” elaborated on these now-implemented plans.<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,” 709</ref><!--, pp. 498–499 herein-->.</note>
+The Nauvoo Legion was growing in numbers, and the University of Nauvoo was to
+be a place “where all the arts and sciences will grow.” The newly begun
+<ref pm:link-pointer-type="place" target="x7411" n="Temple, Nauvoo, Hancock County, Illinois">temple</ref> received a descriptive paragraph of its own. While “Church History” emphasized the departure of missionaries to many parts of
+the world, the updated version announced that “thousands have already
+gathered with their kindred saints, to this the cornerstone of Zion.”</p><p rend="indent">“Latter Day Saints” was written on behalf of <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and appeared under his name. JS approved of and may have collaborated on the content, but apparently it was <ref pm:link-pointer-type="person" target="per73" n="Phelps, William Wines">William W. Phelps</ref> who wrote the
+additions to “Church History.” Phelps’s handwriting appears in a three-page document containing drafts of passages
+that correspond to the changes to “Church History,” including both the
+initial paragraph of the revised text and the new section that
+precedes the concluding list of beliefs. The verso of the document’s second
+page reads, “Additions to an article in the Times &amp; Seasons. Sent to Clyde
+Williams and Co. Publishe[r]s—<ref pm:link-pointer-type="place" target="plc233" n="Harrisburg, Dauphin County, Pennsylvania">Harrisburgh</ref>—<date when-iso="1843-09">September—1843</date>.”<note type="editorial-footnote" pm:link-target-type="text"><ref target="X2682" pm:link-pointer-type="source">William W. Phelps,
+“Additions to an Article in the Times &amp; Seasons,” Sept. 1843, CHL</ref>.</note> In <date from-iso="1844-04-01" to-iso="1844-04-10">early April 1844</date>, JS’s essay was published in
+the volume <title>He Pasa Ekklesia</title> [The whole church],
+edited by German-American author and translator <ref pm:link-pointer-type="person" target="x4544" n="Rupp, Israel Daniel">Israel Daniel Rupp</ref>.<note type="editorial-footnote" resp="W" pm:link-target-type="text">The book was published in or shortly after <date when-iso="1844-04">April 1844</date>, the date found in its preface. (<ref target="XDFB9" pm:link-pointer-type="source">Rupp, <title>He Pasa Ekklesia,</title> vi</ref>.)</note> The text
+presented herein is a transcription of the published version, with notes indicating textual
+variations from Phelps’s draft and from “Church History.”</p><p rend="indent">On <date when-iso="1844-06-05">5 June 1844</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> wrote to <ref pm:link-pointer-type="person" target="x4544" n="Rupp, Israel Daniel">Rupp</ref>
+acknowledging receipt of a copy of <title>He Pasa Ekklesia:</title> “I feel very thankful for so valueable a
+treasure. The design, the propriety, the wisdom of letting every sect tell its
+own story; and the elegant manner in which the work appears, have filled my
+breast with encomiums upon it, wishing you <hi rend="underscore">God’s</hi> <hi rend="underscore">speed</hi>.” He continued, “I
+shall be pleased to furnish further information, at a proper time, and render
+you such service as the work, and vast extension of our church may demand for
+the benefit of truth, virtue, and holiness.” He then assured Rupp that “your
+work will be suitably noticed in our paper, for your benefit.”<note type="editorial-footnote" pm:link-target-type="text"><ref target="X7151" pm:link-pointer-type="source">JS, Nauvoo, IL, to Israel
+Daniel Rupp, Lancaster City, PA, 5 June 1844, copy, JS Collection, CHL</ref>.
+</note> On <date when-iso="1844-06-26">26 June</date>, the day before JS was killed, the promised
+endorsement appeared in the Mormon-owned community newspaper, the <title>Nauvoo Neighbor,</title> noting that “every sect is its own witness” and declaring, “Such a work
+is actually worth its weight in gold. The author has our blessing for his
+success.”<note type="editorial-footnote" pm:link-target-type="text"><ref target="X5662" pm:link-pointer-type="source">“He
+Pasa Ekklesia,” <title>Nauvoo Neighbor,</title> 26 June 1844,
+[2]</ref>.</note></p></div3></div2><div2 type="docbody"><p rend="center"><handShift resp="seniels" scribe="per5137"/>LATTER DAY SAINTS.</p><note type="formatting-note" resp="RES" pm:link-target-type="text">Extra leading here.</note><p> </p><p rend="center">BY <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JOSEPH SMITH</ref>.</p><p rend="center"><hi rend="small-caps"><ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">nauvoo</ref>, illinois</hi>.</p><note type="formatting-note" resp="RES" pm:link-target-type="text">Extra leading here.</note><p> </p><p rend="indent"><hi rend="small-caps">The</hi>
+Church of Jesus Christ of Latter Day Saints, was founded <lb/>upon direct
+revelation, as the true church of God has ever been, ac<lb/>cording to the
+scriptures (Amos, iii. 7, and Acts i. 2.) And through <lb/>the will and blessings of God, I have been an
+instrument in his hands, <lb/>thus far, to move forward the cause of Zion.
+Therefore, in order to <lb/>fulfil the solicitation of your letter of <date when-iso="1843-07">July last</date>, I
+shall commence with <lb/>my life.<note type="editorial-footnote" pm:link-target-type="text">This first paragraph is based on <ref target="X2682" pm:link-pointer-type="source">William W. Phelps, “Additions to an Article in the Times and Seasons,” Sept. 1843, CHL</ref>.</note></p><p rend="indent">I was born in the
+town of <placeName>Sharon</placeName>, Windsor county, Vermont, on <lb/>the <date when-iso="1805-12-23">23d of December, A. D. 1805</date>.
+When ten years old, my parents <lb/>removed to <ref pm:link-pointer-type="place" target="x7208" n="Palmyra, Palmyra Township, Wayne County, New York">Palmyra</ref>, New York,<note xml:id="JSPPH1_d1e58640" type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per58" n="Smith, Joseph, Sr.">Joseph Smith Sr.</ref> left
+                                <ref pm:link-pointer-type="place" target="x6199" n="Vermont">Vermont</ref> in <date from-iso="1816-08" to-iso="1816-10">late summer or early fall 1816</date>, when <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was ten years
+                                old. The rest of the Smith family
+                                joined him in <ref pm:link-pointer-type="place" target="x7208" n="Palmyra, Palmyra Township, Wayne County, New York">Palmyra</ref> in <date from-iso="1817-01" to-iso="1817-03">early 1817</date>, shortly after JS turned eleven.
+                                 (<ref target="XA334" pm:link-pointer-type="source">Palmyra, NY, Record of Highway Taxes, 1817, Copies of Old Village Records, 1793–1867, microfilm 812,869, U.S. and Canada Record Collection, FHL</ref>; <ref target="X7868" pm:link-pointer-type="source">Lucy Mack Smith, History, 1844–1845, <ref pm:link-pointer-type="text" target="XE91EA19A-9EEF-4CC4-99C2-483444265FCD">bk. 3, [3]–[6]</ref></ref>; <ref target="X0029" pm:link-pointer-type="source">JS History, vol. A-1, <ref pm:link-pointer-type="text" target="X6557049B-280F-4665-8910-D50ED2E6C093">131nA</ref></ref>.)</note> where we resided
+about four years, <lb/>and from thence we removed to the town of <ref pm:link-pointer-type="place" target="plc15" n="Manchester Township, Ontario County, New York">Manchester</ref>, a
+distance <lb/>of six miles.<note type="editorial-footnote" pm:link-target-type="text">The last five words do not appear in  “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>.”<!-- On the Smiths’ move from <ref pm:link-pointer-type="place" target="x7208" n="Palmyra, Palmyra Township, Wayne County, New York" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">Palmyra</ref> village, see 205n40 herein.--></note></p><p rend="indent">My <ref pm:link-pointer-type="person" target="per58" n="Smith, Joseph, Sr.">father</ref> was a farmer, and
+taught me the art of husbandry. When <lb/>about fourteen years of age, I began to
+reflect upon the importance of <lb/>being prepared for a future state; and upon
+inquiring the place<note type="editorial-footnote" pm:link-target-type="text">For both instances of “place” in this sentence, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>” has
+“plan.”<!-- (See p. 492 herein.)--></note> of <lb/>salvation, I found that there was a great clash in
+religious sentiment; <lb/>if I went to one society they referred me to one place,
+and another to <lb/>another; each one pointing to his own particular creed as the
+“sum<lb/>mum bonum” of perfection. Considering that all could not be right, <lb/>and
+that God could not be the author of so much confusion, I deter<lb/>mined to
+investigate the subject more fully, believing that if God had <lb/>a church, it
+would not be split up into factions, and that if he taught <lb/>one society to
+worship one way, and administer in one set of ordi<lb/>nances, he would not teach
+another principles which were diametri<lb/>cally opposed. Believing the word of God,
+I had confidence in the <lb/>declaration of James, “If any man lack wisdom let him
+ask of God, <lb/>who giveth to all men liberally and upbraideth not, and it shall be
+<lb/>given him.”<note type="editorial-footnote" pm:link-target-type="text">James 1:5.</note></p><p rend="indent">I retired to a secret place in
+a grove, and began to call upon the <pb type="present" n="404" facs="4786_104783-LIBR-88_404.jpg"/> Lord. While fervently engaged in
+supplication, my mind was taken <lb/>away from the objects with which I was
+surrounded, and I was en<lb/>rapt in a heavenly vision, and saw two glorious
+personages, who <lb/>exactly resembled each other in features and likeness,
+surrounded <lb/>with a brilliant light, which eclipsed the sun at noonday.<note xml:id="JSPPH1_d1e58736" type="editorial-footnote" resp="W" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> identified these two personages as God the Father and Jesus Christ. (<!--JS History Drafts, 1838–ca. 1841, p. 214 herein--><ref target="X0029" pm:link-pointer-type="source">JS History, vol. A-1, <ref pm:link-pointer-type="text" target="XD639164C-A923-4957-AEDD-C6EBE9E6E63A">3</ref></ref>; see also <ref target="X2675" pm:link-pointer-type="source">JS <ref pm:link-pointer-type="relatedDocument" target="x6547">History, ca. Summer 1832</ref>, 2</ref><!--, pp. 11–13 herein-->; JS, Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11 Nov. 1835</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:87–88 [see also later version, p. 115–116 herein]-->; and <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,” 706–707</ref><!--, p. 494 herein-->.</note> They told
+<lb/>me that all the religious denominations were believing in incorrect <lb/>doctrines,
+and that none of them was acknowledged of God as his <lb/>church and kingdom. And I
+was expressly commanded to “go not <lb/>after them,”<note xml:id="JSPPH1_d1e58778" type="editorial-footnote" pm:link-target-type="text">See Luke
+                                17:23.</note> at the same time receiving
+a promise that the fulness of <lb/>the gospel should at some future time be made
+known unto me.</p><p rend="indent">On the evening of the <date when-iso="1823-09-21">21st
+September, A. D. 1823</date>, while I was <lb/>praying unto God and endeavouring to exercise
+faith in the precious <lb/>promises of scripture, on a sudden a light like that of
+day, only of a <lb/>far purer and more glorious appearance and brightness, burst
+into the <lb/>room; indeed the first sight was as though the house was filled with
+<lb/>consuming fire. The appearance produced a shock that affected the <lb/>whole body.
+In a moment a personage stood before me surrounded <lb/>with a glory yet greater
+than that with which I was already sur<lb/>rounded.<note xml:id="JSPPH1_d1e58790" type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> also recounted this experience in <ref target="X2675" pm:link-pointer-type="source">JS <ref pm:link-pointer-type="relatedDocument" target="x6547">History, ca. Summer 1832</ref>, 3</ref><!--, pp. 13–14 herein-->; JS, Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11 Nov. 1835</ref><!--, in JSP, J1:88–89 (see also later version, pp. 116–117 herein)-->; <!--JS History Drafts, 1838–ca. 1841, pp. 220–233 herein--><ref target="X0029" pm:link-pointer-type="source">JS History, vol. A-1, <ref pm:link-pointer-type="text" target="XD639164C-A923-4957-AEDD-C6EBE9E6E63A">4</ref></ref>; and <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,” 707</ref><!--, pp. 484–495 herein-->. He previously identified the messenger as
+                                Moroni. (<ref target="X2632" pm:link-pointer-type="source">[JS], Editorial, <title>Elders’ Journal,</title> July 1838, 42–44</ref>.) </note> This messenger proclaimed
+himself to be an angel of God, <lb/>sent to bring the joyful tidings, that the
+covenant which God made <lb/>with ancient Israel was at hand to be fulfilled; that
+the preparatory <lb/>work for the second coming of the Messiah was speedily to
+com<lb/>mence; that the time was at hand for the gospel in all its fulness to <lb/>be
+preached in power, unto all nations, that a people might be prepared <lb/>for the
+millennial reign.</p><p rend="indent">I was informed that I was
+chosen to be an instrument in the hands <lb/>of God to bring about some of his
+purposes in this glorious dispensa<lb/>tion.</p><p rend="indent">I was
+informed also concerning the aboriginal inhabitants of this <lb/>country, and shown
+who they were, and from whence they came;—a <lb/>brief sketch of their origin,
+progress, civilization, laws, governments, <lb/>of their righteousness and iniquity,
+and the blessings of God being <lb/>finally withdrawn from them as a people, was
+made known unto me. <lb/>I was also told where there was deposited some plates, on
+which <lb/>was engraven an abridgment of the records of the ancient prophets <lb/>that
+had existed on this continent. The angel appeared to me three <lb/>times the same
+night and unfolded the same things. After having <lb/>received many visits from the
+angels of God, unfolding the majesty <lb/>and glory of the events that should
+transpire in the last days, on the <lb/>morning of the <date when-iso="1827-09-22">22d of September, A. D. 1827</date>,
+the angel of the Lord <lb/>delivered the records into my hands.</p><p rend="indent">These records were engraven on plates which had the appearance <lb/>of
+gold; each plate was six inches wide and eight inches long, and <pb type="present" n="405" facs="4786_104783-LIBR-88_405.jpg"/> not
+quite so thick as common tin. They were filled with engravings <lb/>in Egyptian
+characters, and bound together in a volume, as the leaves <lb/>of a book, with three
+rings running through the whole. The volume <lb/>was something near six inches in
+thickness, a part of which was <lb/>sealed. The characters on the unsealed part were
+small and beauti<lb/>fully engraved. The whole book exhibited many marks of
+antiquity <lb/>in its construction, and much skill in the art of engraving. With the
+<lb/>records was found a curious instrument which the ancients called <lb/>“Urim and
+Thummim,” which consisted of two transparent stones <lb/>set in the rim on<note type="editorial-footnote" pm:link-target-type="text"> “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>” has
+“of.”<!-- (See p. 495 herein.)--></note> a bow fastened to a breastplate.</p><p rend="indent">Through the medium of the Urim and Thummim I translated the <lb/>record, by
+the gift and power of God.</p><p rend="indent">In this important and
+interesting book the history of ancient Ame<lb/>rica is unfolded, from its first
+settlement by a colony that came from <lb/>the tower of Babel, at the confusion of
+languages, to the beginning of <lb/>the fifth century of the Christian era.</p><p rend="indent">We are informed by these records, that America, in
+ancient times, <lb/>has been inhabited by two distinct races of people. The first
+were <lb/>called Jaredites, and came directly from the tower of Babel. The <lb/>second
+race came directly from the city of Jerusalem, about six <lb/>hundred years before
+Christ. They were principally Israelites, of the <lb/>descendants of Joseph. The
+Jaredites were destroyed, about the <lb/>time that the Israelites came from
+Jerusalem, who succeeded them <lb/>in the inheritance of the country. The principal
+nation of the second <lb/>race fell in battle towards the close of the fourth
+century. The <lb/>remnant are the Indians who now inhabit this <ref pm:link-pointer-type="place" target="x5117" n="United States of America">country</ref>. This book
+<lb/>also tells us that our Saviour made his appearance upon this continent <lb/>after
+his resurrection; that he planted the gospel here in all its fulness, <lb/>and
+richness, and power, and blessing; that they had apostles, <lb/>prophets, pastors,
+teachers, and evangelists; the same order, the same <lb/>priesthood, the same
+ordinances, gifts, powers, and blessing, as was <lb/>enjoyed on the eastern
+continent; that the people were cut off in con<lb/>sequence of their transgressions;
+that the last of their prophets who <lb/>existed among them was commanded to write
+an abridgment of their <lb/>prophecies, history, &amp;c., and to hide it up in the
+earth, and that it <lb/>should come forth and be united with the Bible, for the
+accomplish<lb/>ment of the purposes of God, in the last days. For a more particular
+<lb/>account, I would refer to the Book of Mormon, which can be pur<lb/>chased at <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>,
+or from any of our travelling elders.</p><p rend="indent">As soon as
+the news of this discovery was made known, false re<lb/>ports, misrepresentation and
+slander flew, as on the wings of the <lb/>wind, in every direction; my house was frequently beset by mobs, <pb type="present" n="406" facs="4786_104783-LIBR-88_406.jpg"/> and evil
+designing persons; several times I was shot at, and very <lb/>narrowly escaped, and
+every device was made use of to get the plates <lb/>away from me; but the power and
+blessing of God attended me, and <lb/>several began to believe my testimony. </p><p rend="indent">On the <date when-iso="1830-04-06">6th April, 1830</date>, the “Church of Jesus Christ of
+Latter Day <lb/>Saints,” was first organized, in the town of <ref pm:link-pointer-type="place" target="plc15" n="Manchester Township, Ontario County, New York">Manchester</ref>, Ontario
+Co., <lb/>State of New York.<!--<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="XDCD80E1D-3CDE-4131-9059-48E67AAB5FDC" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">On the name of the church and the location of its organizational meeting, see 496n21 herein.</note>--> Some few were called and ordained by the <lb/>Spirit
+of revelation and prophecy, and began to preach as the <lb/>Spirit gave them
+utterance, and though weak, yet were they strength<lb/>ened by the power of God; and
+many were brought to repentance, <lb/>were immersed in the water, and were filled
+with the Holy Ghost by <lb/>the laying on of hands. They saw visions and prophesied,
+devils <lb/>were cast out, and the sick healed by the laying on of hands. From <lb/>that
+time the work rolled forth with astonishing rapidity, and churches <lb/>were soon
+formed in the States of <ref pm:link-pointer-type="place" target="plc96" n="New York">New York</ref>, <ref pm:link-pointer-type="place" target="x5202" n="Pennsylvania">Pennsylvania</ref>, <ref pm:link-pointer-type="place" target="x5092" n="Ohio">Ohio</ref>, <lb/><placeName>Indiana</placeName>, <ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>, and
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>; in the last named state a considerable <lb/>settlement was formed in
+<ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">Jackson county</ref>; numbers joined the church, <lb/>and we were increasing rapidly; we
+made large purchases of land, <lb/>our farms teemed with plenty, and peace and
+happiness were enjoyed <lb/>in our domestic circle and throughout our neighbourhood;
+but as we <lb/>could not associate with our neighbours,—who were, many of them, <lb/>of
+the basest of men, and had fled from the face of civilized society <lb/>to the
+frontier country, to escape the hand of justice—in their midnight <lb/>revels,
+their sabbath-breaking, horse-racing, and gambling, they com<lb/>menced at first to
+ridicule, then to persecute, and finally an organized <lb/>mob assembled and burned
+our houses, tarred and feathered and <lb/>whipped many of our brethren, and finally
+drove them from their <lb/>habitations; these, houseless and homeless, contrary to
+law, justice, <lb/>and humanity, had to wander on the bleak prairies till the
+children <lb/>left the tracks of their blood on the prairie. This took place in the
+<lb/><date when-iso="1833-11">month of November</date>, and they had no other covering but the canopy <lb/>of
+heaven, in that inclement season of the year. This proceeding was <lb/>winked at by
+the government; and although we had warrantee deeds <lb/>for our land, and had
+violated no law, we could obtain no redress. <lb/>There were many sick who were thus
+inhumanly driven from their <lb/>houses, and had to endure all this abuse, and to
+seek homes where <lb/>they could be found. The result was, that a great many of them
+<lb/>being deprived of the comforts of life, and the necessary attendance, <lb/>died;
+many children were left orphans; wives, widows; and hus<lb/>bands, widowers. Our
+farms were taken possession of by the mob, <lb/>many thousands of cattle, sheep,
+horses, and hogs were taken, and <lb/>our household goods, store goods, and printing
+press and types were <lb/>broken, taken, or otherwise destroyed. <pb type="present" n="407" facs="4786_104783-LIBR-88_407.jpg"/></p><p rend="indent">Many of our brethren removed to <ref pm:link-pointer-type="place" target="plc91" n="Clay County, Missouri">Clay county</ref>, where they con<lb/>tinued
+until <date when-iso="1836">1836</date> (three years); there was no violence offered, but <lb/>there were
+threatenings of violence. But in the <date from-iso="1836-06" to-iso="1836-09">summer of 1836</date> <lb/>these threatenings began to
+assume a more serious aspect; from <lb/>threats, public meetings were called,
+resolutions were passed, ven<lb/>geance and destruction were threatened, and affairs
+again assumed a <lb/>fearful attitude; <ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">Jackson county</ref> was a sufficient precedent,
+and as <lb/>the authorities in that county did not interfere, they boasted that they
+<lb/>would not in this; which on application to the authorities we found <lb/>to be too
+true; and, after much violence, privation, and loss of pro<lb/>perty, we were again
+driven from our homes.<note xml:id="JSPPH1_d1e58963" type="editorial-footnote" pm:link-target-type="text">Although some of
+                                the original settlers of <ref pm:link-pointer-type="place" target="plc91" n="Clay County, Missouri">Clay County</ref> were determined to see the
+                                Latter-day Saints leave the county, the conditions surrounding the Saints’ departure were markedly less violent than was the
+                                earlier episode in <ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">Jackson County</ref>. (See <ref target="X0023" pm:link-pointer-type="source">Parkin, “History of the
+                                Latter-day Saints in Clay County,” chap. 8</ref>.)</note></p><p rend="indent">We next settled in
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref> and <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess</ref> counties, where we made <lb/>large and extensive settlements
+thinking to free ourselves from the <lb/>power of oppression by settling in new
+counties, with a very few in<lb/>habitants in them; but here we were not allowed to
+live in peace; <lb/>and in <date when-iso="1838">1838</date> were again attacked by mobs; an exterminating order
+<lb/>was issued by <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor <supplied resp="Nathan Waite">Lilburn W.</supplied> Boggs,</ref> and under the sanction of law, an
+<lb/>organized banditti ravaged<note type="editorial-footnote" pm:link-target-type="text">“<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>” has “ranged through.” <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Boggs</ref> charged
+                                the state militia with restoring peace to northwest <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>. If
+                                necessary, the governor ordered, the Mormons were to be
+                                “exterminated or driven from the state.” (<ref target="X9264" pm:link-pointer-type="source">Lilburn W. Boggs, Jefferson City, MO, to John B. Clark, Fayette, MO, 27 Oct. 1838, Mormon War Papers, MSA</ref>.)</note>
+the country, robbing us of our cattle, <lb/>sheep, horses, hogs, &amp;c.; many of
+our people were murdered in cold <lb/>blood,<note xml:id="JSPPH1_d1e58997" type="editorial-footnote" pm:link-target-type="text">About twenty Mormons were killed during the “Mormon War” in
+                                <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>. (<ref target="X5126" pm:link-pointer-type="source">LeSueur, <title>1838 Mormon War in Missouri,</title>
+                                    162–168</ref>; <ref target="X0651" pm:link-pointer-type="source">Baugh, “Call
+                                to Arms,” 238–240, 253–298</ref>.)</note> the chastity of our women was violated,
+and we were forced <lb/>to sign away our property at the point of the sword; and
+after en<lb/>during every indignity that could be heaped upon us by an inhuman,
+<lb/>ungodly band of marauders,—from twelve to fifteen thousand souls, <lb/>men, women,
+and children, were driven from their own firesides, and <lb/>from lands for which
+they had warrantee deeds, to wander houseless, <lb/>friendless, and homeless, (in
+the depth of winter,) as exiles on the <lb/>earth, or to seek an asylum in a more
+genial clime, and among a less <lb/>barbarous people.<note xml:id="JSPPH1_d1e59004" type="editorial-footnote" pm:link-target-type="text">Although the number of
+                                Mormons driven from <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> is unknown, the estimate of “twelve to fifteen thousand” appears to be too high.
+                                Others estimated that about eight thousand Mormons were driven from Missouri. (<ref target="X96CC" pm:link-pointer-type="source">Eliza
+                                R. Snow, Caldwell Co., MO, to Isaac Streator, Streetsborough, OH,
+                                22 Feb. 1839, photocopy, CHL</ref>; see also <ref target="X7932" pm:link-pointer-type="source">Hartley, “Almost Too Intolerable a Burthen,” 7n2</ref>.)</note> </p><p rend="indent">Many sickened and died in consequence of the cold and hardships <lb/>they
+had to endure, many wives were left widows, and children or<lb/>phans and
+destitute.</p><p rend="indent">It would take more time than I am able to devote to your service, <lb/>at present,
+              to describe the injustice, the wrongs, the murders, the <lb/>bloodshed, thefts, misery
+              and wo that have been committed upon <lb/>our people by the barbarous, inhuman, and
+              lawless proceedings of <lb/>the State of <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>. And I would refer you, and the readers
+              of <lb/>your history who may be desirous of further information on this topic, <lb/>to
+              the evidence taken on my recent trial before the Municipal Court <lb/>of <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>, on Saturday,
+                <date when-iso="1843-07-01">July 1st, 1843</date>, on a writ of <ref pm:link-pointer-type="topic" target="x41899" n="Habeas corpus">habeas corpus</ref>,
+              <lb/>which is published in pamphlet form by Messrs. <ref pm:link-pointer-type="person" target="per126" n="Taylor, John"><supplied resp="Nathan Waite">John</supplied>
+                Taylor</ref> &amp; <ref pm:link-pointer-type="person" target="per508" n="Woodruff, Wilford"><supplied resp="Nathan Waite">Wilford</supplied>
+                Woodruff</ref>, <lb/>of this <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">city</ref>.<note type="editorial-footnote" pm:link-target-type="text">This sentence does not appear
+                in “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,”
+                and no manuscript source is known. The publication referred to is <ref target="X14FF" pm:link-pointer-type="source">JS, <title>Evidence Taken on the
+                    Trial of Mr. Smith, before the Municipal Court of Nauvoo, on Saturday, July 1,
+                    1843. Respecting the Late Persecution of the Latter Day Saints, in the State of
+                    Missouri, North America.</title> (Nauvoo, IL: Taylor and Woodruff,
+                [1843])</ref>. The thirty-eight-page pamphlet was reprinted from transcripts of the
+                affidavits that appeared in both the <ref target="X5662" pm:link-pointer-type="source"><title>Nauvoo Neighbor</title></ref> (5, 12, 19, and
+                26 July 1843) and the <ref target="X8296" pm:link-pointer-type="source"><title>Times
+                    and Seasons</title></ref> (1 and 15 July and 1 Aug. 1843); the signed affidavits
+                may also be found in <ref target="X52D6" pm:link-pointer-type="source">Nauvoo, IL,
+                  Records, CHL</ref>.</note>
+            </p><p rend="indent"><note type="editorial-footnote" resp="W" pm:link-target-type="text">From this point, the text is based on
+<ref pm:link-pointer-type="person" target="per73" n="Phelps, William Wines">William W. Phelps</ref>’s manuscript providing additions to “Church History.” The manuscript, which begins “From this awful, bloody, and inhuman expulsion by the government, and people, from <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>,” provides the basis for the text up until the commencement of the thirteen points of doctrine beginning “We believe in God.” The only exception is the paragraph beginning “The temple of God,” which does not appear in Phelps’s manuscript. (<ref target="X2682" pm:link-pointer-type="source">William W. Phelps, “Additions to an Article in the Times &amp; Seasons,” Sept. 1843, CHL</ref>.)</note>After being thus inhumanly expelled by the government and people <lb/>from <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>, we found an asylum and
+friends in the State of <pb type="present" n="408" facs="4786_104783-LIBR-88_408.jpg"/> <ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>. Here, in the <date from-iso="1839-09" to-iso="1839-12">fall of 1839</date>, we
+commenced a city called <lb/><ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>,<note type="editorial-footnote" pm:link-target-type="text">The Saints began settling in <ref pm:link-pointer-type="place" target="plc32" n="Commerce (now Nauvoo), Hancock County, Illinois">Commerce</ref>, Illinois, in
+<date from-iso="1839-03" to-iso="1839-06">spring 1839</date>, and by <date from-iso="1839-09" to-iso="1839-12">that fall</date>, they began referring to the area as
+<ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>. (See <ref target="X9501" pm:link-pointer-type="source">Leonard, <title>Nauvoo,</title>
+chap. 3</ref>; and <ref target="X7181" pm:link-pointer-type="source">“<ref pm:link-pointer-type="relatedContent" target="X7186">Nauvoo Journals, December 1841–April 1843</ref>,” in <title>JSP,</title> J2:xv</ref>.)</note> in Hancock county, which, in <date when-iso="1840-12">December, 1840</date>, received an <lb/>act of
+incorporation from the Legislature of <ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>, and is endowed <lb/>with as liberal
+powers as any city in the <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref>.<note type="editorial-footnote" pm:link-target-type="text">The <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref> charter was passed by the <ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>
+legislature and signed by the <ref pm:link-pointer-type="person" target="per463" n="Carlin, Thomas">governor</ref> in <date when-iso="1840-12">December 1840</date>.
+(<ref target="X5849" pm:link-pointer-type="source"><title>Journal of the Senate . . . of Illinois,</title> 9 Dec. 1840, 61</ref>; <ref target="X0944" pm:link-pointer-type="source"><title>Journal of the House of Representatives . . . of Illinois,</title> 12 Dec. 1840, 110</ref>; <ref target="X359B" pm:link-pointer-type="source">An Act to Incorporate the City of Nauvoo [16 Dec. 1840], <title>Laws of the State of Illinois</title> [1840–1841], pp. 52–57</ref>.)</note>
+<ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>, in <lb/>every respect, connected with increase and prosperity, has exceeded
+<lb/>the most sanguine expectations of thousands. It now contains near <lb/>1500 houses,
+and more than 15,000 inhabitants. The charter con<lb/>tains, amongst its important
+powers, privileges, or immunities, a grant <lb/>for the “University of Nauvoo,”
+with the same liberal powers of the <lb/><ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">city</ref>, where all the arts and sciences will
+grow with the growth, and <lb/>strengthen the strength of this beloved city of the
+“saints of the last <lb/>days.”<note type="editorial-footnote" pm:link-target-type="text">The <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref> charter granted the city’s university trustees “full power to pass, ordain, establish, and execute all such laws and ordinances as they may consider necessary for the welfare and prosperity of said university, its officers and students: Provided, That the said laws and ordinances shall not be repugnant to the Constitution of the <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref> or of this <ref pm:link-pointer-type="place" target="x6189" n="Illinois">State</ref>.”  (<ref target="X359B" pm:link-pointer-type="source">An Act to Incorporate the City of Nauvoo [16 Dec. 1840], <title>Laws of the State of Illinois</title> [1840–1841], pp. 56–57, sec. 24</ref>; see also <ref target="XB828" pm:link-pointer-type="source">Bennett and Cope, “City on a Hill,” 23–25</ref>.)</note> Another very
+commendatory provision of the charter is, <lb/>that that portion of the citizens
+subject to military duty are organized <lb/>into a body of independent military men,
+styled the “Nauvoo Legion,” <lb/>whose highest officer holds the rank, and is
+commissioned lieutenant-<lb/>general.<note type="editorial-footnote" pm:link-target-type="text">See section 25 of the <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref> charter. (<ref target="X359B" pm:link-pointer-type="source">An Act to Incorporate
+the City of Nauvoo [16 Dec. 1840], <title>Laws of the State of Illinois</title> [1840–1841], p. 57, sec. 25</ref>.)</note> This legion,
+like other independent bodies of troops in this <lb/>republican government, is at
+the disposal of the Governor of this <lb/><ref pm:link-pointer-type="place" target="x6189" n="Illinois">State</ref>, and President of the <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref>.
+There is also an act of <lb/>incorporation for an agricultural and manufacturing
+association, as <lb/>well as the <ref pm:link-pointer-type="place" target="x7395" n="Nauvoo House, Nauvoo, Hancock County, Illinois">Nauvoo House</ref> Association.<note type="editorial-footnote" pm:link-target-type="text">The <ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref> legislature
+passed an act on <date when-iso="1841-02-23">23 February 1841</date> to incorporate the <ref pm:link-pointer-type="place" target="x7395" n="Nauvoo House, Nauvoo, Hancock County, Illinois">Nauvoo House</ref> Association,
+authorizing the association to “erect and furnish a public house of entertainment” or
+boarding house to accommodate visitors to <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>. Four days later, <date when-iso="1841-02-27">27 February
+1841</date>, the legislature passed the act to incorporate the Nauvoo Agricultural and
+Manufacturing Association. (<ref target="X359B" pm:link-pointer-type="source">An Act to Incorporate the Nauvoo House Association [23 Feb. 1841], <title>Laws of the State of Illinois</title> [1840–1841], 131–132</ref>; <ref target="X359B" pm:link-pointer-type="source">An Act to Incorporate the Nauvoo Agricultural and Manufacturing Association, in the County of Hancock [27 Feb. 1841], <title>Laws of the State of Illinois</title> [1840–1841],139–141</ref>.)</note></p><p rend="indent">The <ref pm:link-pointer-type="place" target="x7411" n="Temple, Nauvoo, Hancock County, Illinois">temple</ref> of God, now in the course
+of erection, being already <lb/>raised one story, and which is 120 feet by 80 feet,
+of stone, with po<lb/>lished pilasters, of an entire new order of architecture, will
+be a <lb/>splendid house for the worship of God, as well as an unique wonder <lb/>for the
+world, it being built by the direct revelation of Jesus Christ <lb/>for the
+salvation of the living and the dead.<note type="editorial-footnote" pm:link-target-type="text"><ref target="X5479" pm:link-pointer-type="source"><ref pm:link-pointer-type="relatedDocument" target="x4671">Revelation, 19 Jan. 1841</ref>, in Doctrine and Covenants
+103:10–12, 1844 ed. [D&amp;C 124:26–39]</ref>, gave instructions for the building
+of the <ref pm:link-pointer-type="place" target="x7411" n="Temple, Nauvoo, Hancock County, Illinois">temple</ref> at <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Hancock County, Illinois">Nauvoo</ref> and described its purpose as a holy place in which to
+perform rites for church members and by proxy for deceased
+persons.</note></p><p rend="indent">Since the organization of this
+church its progress has been rapid, <lb/>and its gain in numbers regular. Besides
+these <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref>, where <lb/>nearly every place of notoriety has heard the glad
+tidings of the <lb/>gospel of the Son of God, <placeName>England</placeName>, <placeName>Ireland</placeName>, and <placeName>Scotland</placeName>,
+have <lb/>shared largely in the
+fulness of the everlasting gospel,<note type="editorial-footnote" pm:link-target-type="text">The text omits
+<placeName>Wales</placeName>, which is included in “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>.” About 250 people had
+joined the church in Wales by <date when-iso="1844">1844</date>. (<ref target="X8296" pm:link-pointer-type="source">JS, “Church History,” 709</ref><!--, p. 499 herein-->; <ref target="X41FC" pm:link-pointer-type="source">Dennis, “The Welsh and the
+Gospel,” 237–241</ref>.)</note> and thousands <lb/>have already gathered with
+their kindred saints, to this the corner<lb/>stone of Zion. Missionaries of this
+church have gone to the <placeName>East <lb/>Indies</placeName>, to <placeName>Australia</placeName>, <placeName>Germany</placeName>, <placeName>Constantinople</placeName>,
+<placeName>Egypt</placeName>, <placeName>Palestine</placeName>, the <lb/><placeName>Islands of the Pacific</placeName>, and are now preparing to open the
+door in the <lb/>extensive dominions of <placeName>Russia</placeName>.<note type="editorial-footnote" pm:link-target-type="text">In addition to the assignments mentioned in “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,” <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> here
+adds <placeName>Constantinople</placeName>, <placeName>Egypt</placeName>, <placeName>the Pacific islands</placeName>, and <placeName>Russia</placeName> as missionary
+destinations. <ref pm:link-pointer-type="person" target="per79" n="Hyde, Orson">Orson Hyde</ref> visited Constantinople and Egypt during his
+mission to the Jews.<note type="toe-note" resp="RES" pm:link-target-type="text"><ref target="X4FD9" pm:link-pointer-type="source">Hyde, <title>Voice from Jerusalem,</title>  22–23</ref>.</note> Missionaries had by this time also been assigned to the
+<placeName>Sandwich Islands</placeName>, though they actually went to the <placeName>Society Islands</placeName>, in <placeName>French Polynesia</placeName>.<note type="toe-note" resp="RES" pm:link-target-type="text"><ref target="X0307" pm:link-pointer-type="source">JS, Journal, <ref pm:link-pointer-type="text" target="F885CD52-346A-4B93-BB68-28042C1BC05A">23 May
+1843</ref>, JS Collection, CHL</ref>; see also <ref target="X05F7" pm:link-pointer-type="source">Pratt, Journals, 20 Sept. 1843–28 Apr. 1847</ref>; and <ref target="X7820" pm:link-pointer-type="source">Britsch, <title>Unto the Isles of the Sea,</title> chap. 1</ref>.</note> In <date from-iso="1843-03" to-iso="1843-06">spring 1843</date>, Hyde and <ref pm:link-pointer-type="person" target="x4308" n="Adams, George Washington Joshua">George J. Adams</ref> were appointed
+to open missionary work in Russia, though they did not fulfill the assignment.<note type="toe-note" resp="RES" pm:link-target-type="text"><ref target="X8296" pm:link-pointer-type="source">“Recommendatory,” <title>Times and Seasons,</title> 1 June 1843, 4:218</ref>.</note></note></p><p rend="indent">There are no correct data by
+which the exact number of members <lb/>composing this now extensive, and still
+extending, Church of Jesus <lb/>Christ of Latter Day Saints can be known. Should it
+be supposed <lb/>at 150,000, it might still be short of the truth.<note type="editorial-footnote" pm:link-target-type="text">Historian Dean L. May gave a conservative estimate of approximately thirty thousand Latter-day Saints by <date when-iso="1846">1846</date>; other sources indicate as many as thirty-five to forty thousand. In any case, the figure given is  too high. (<ref target="XB061" pm:link-pointer-type="source">May, “Demographic Portrait of the Mormons,” 123</ref>.)</note> </p><p rend="indent">Believing the Bible to say what it means and mean what it says; <lb/>and
+guided by revelation according to the ancient order of the fathers <pb type="present" n="409" facs="4786_104783-LIBR-88_409.jpg"/> to
+whom came what little light we enjoy; and circumscribed only <lb/>by the eternal
+limits of truth: this church must continue the even <lb/>tenor of her way, and
+“spread undivided, and operate unspent.”<note type="editorial-footnote" resp="W" pm:link-target-type="text">See Alexander Pope (1688–1744), <title>Essay on Man,</title> Epistle I, line 274.</note></p><p rend="indent">We
+believe in God the Eternal Father, and in his son Jesus Christ, <lb/>and in the Holy
+Ghost.</p><p rend="indent">We believe that men will be punished for
+their own sins and not <lb/>for Adam’s transgression.</p><p rend="indent">We believe that through the atonement of Christ all men may be <lb/>saved
+by obedience to the laws and ordinances of the gospel.</p><p rend="indent">We believe that these ordinances are: 1st, Faith in the Lord <lb/>Jesus
+Christ; 2d, Repentance; 3d, Baptism by immersion for the <lb/>remission of sins;
+4th, Laying on of hands for the gift of the Holy <lb/>Ghost.</p><p rend="indent">We believe that a man must be called of God by “prophecy, and <lb/>by
+laying on of hands,”<note type="editorial-footnote" pm:link-target-type="text">See 1 Timothy 4:14.</note> by those who are in
+authority to preach the <lb/>gospel and administer in the ordinances thereof.</p><p rend="indent">We believe in the same organization that existed in the
+primitive <lb/>church, viz. apostles, prophets, pastors, teachers, evangelists,
+&amp;c.<note type="editorial-footnote" resp="O" pm:link-target-type="text" xml:id="XFE3C3042-DC25-4270-A677-07DF3DDD81A0">See Ephesians 4:11.</note></p><p rend="indent">We believe in the gift of tongues,
+prophecy, revelation, visions, <lb/>healing, interpretation of tongues,
+&amp;c.</p><p rend="indent">We believe the Bible to be the word of God
+as far as it is trans<lb/>lated correctly; we also believe the Book of Mormon to be
+the word <lb/>of God. </p><p rend="indent">We believe all that God has
+revealed, all that he does now reveal, <lb/>and we believe that he will yet reveal
+many great and important <lb/>things pertaining to the kingdom of God.</p><p rend="indent">We believe in the literal gathering of Israel, and in
+the restoration <lb/>of the Ten Tribes. That Zion will be built upon this continent.
+<lb/>That Christ will reign personally upon the earth, and that the earth <lb/>will be
+renewed and receive its paradisal glory.</p><p rend="indent">We claim
+the privilege of worshipping Almighty God according <lb/>to the dictates of our
+conscience, and allow all men the same privi<lb/>lege, let them worship how, where,
+or what they may.</p><p rend="indent">We believe in being subject to
+kings, presidents, rulers, and ma<lb/>gistrates; in obeying, honouring, and
+sustaining the law.</p><p rend="indent">We believe in being honest,
+true, chaste, benevolent, virtuous, <lb/>and in doing good to all men; indeed we may
+say that we follow <lb/>the admonition of Paul; “we believe all things: we hope
+all things:”<note type="editorial-footnote" resp="O" pm:link-target-type="text" xml:id="X93D9BEC7-7A15-41D5-B49F-D7ADAF31F5DA">See 1 Corinthians 13:7.</note> <lb/>we have endured many things, and hope to be able to endure all
+<lb/>things. If there is any thing virtuous, lovely, or of good report, or
+<lb/>praiseworthy, we seek thereafter.<note type="editorial-footnote" pm:link-target-type="text">See Philippians
+4:8.</note> <pb type="present" n="410" facs="4786_104783-LIBR-88_410.jpg"/></p></div2></div1></body>            
+        </text>
+    </TEI>

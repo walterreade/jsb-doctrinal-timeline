@@ -1,0 +1,1344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" pm:docDesc="Appendix: Orson Pratt, A[n] Interesting Account of Several Remarkable Visions, 1840" pm:title="JSPPH1" pm:entry="26022" pm:status="Active" pm:url="x6554" xml:id="x6554" pm:link-target-type="relatedDocument" lds:ResourceType="Text-Document" lds:AccessionNumber="6554" lds:DateJustification="Pratt likely met JS in Philadelphia. JS arrived there 21 Dec 1839. Must have finished before sending letter Geo. A. Smith that manuscript was at the press on 24 Sep 1840." lds:ResourceFormat="Text" pm:docDateMax="1840-09-24" pm:docDateMin="1839-12-21" pm:docDate="1839-12-21" pm:sortkey="Appendix 1839-12-21 005">
+        <teiHeader>
+            <fileDesc>
+                <titleStmt>
+                    <title type="editorial">Appendix: Orson Pratt, <hi rend="italic">A[n] Interesting Account of Several Remarkable Visions,</hi> 1840</title>
+                    <title type="formal">A[n] Interesting Account of Several Remarkable Visions, and
+                        of the Late Discovery of Ancient American Records</title>
+                    <title type="alternative"/>
+                </titleStmt><lds:Tracking lds:TranscriptState="3LV" lds:PublishImage="Y" lds:HasPubPermissions="Y" lds:PublishClearText="N" lds:docComponents="Img,Trn,FSN,FHI,Ann" lds:WebPublishStatus="FinalContent"/>
+                <publicationStmt>
+                    <publisher>The Church of Jesus Christ of Latter Day Saints</publisher>
+                </publicationStmt>
+                <seriesStmt>
+                    <title>History 1</title>
+                </seriesStmt>
+                <notesStmt>
+                    <note xml:id="JSPPH1_d1e55980"/>
+                </notesStmt>
+                <sourceDesc>
+                    <bibl xml:id="JSPPH1_d1e55985" type="abstract"> </bibl>
+                    <listPerson>
+                        <person role="author">
+                            <persName>
+                                <ref pm:link-pointer-type="person" target="per123">Orson Pratt
+                                </ref>
+                            </persName>
+                        </person>
+                        <person>
+                            <persName/>
+                        </person>
+                    </listPerson>
+                    <listPlace>
+                        <place>
+                            <placeName/>
+                        </place>
+                    </listPlace>
+                    <msDesc lds:Complete="Yes" lds:Authenticity="Blank" lds:FirstFiveWords="A[N] INTERESTING ACCOUNT OF SEVERAL " lds:Extant="Yes" lds:ShortHand="No" lds:Ciphers="No" lds:OtherLanguages="No" lds:NonTextualElements="No" lds:Signature="No" lds:Certification="No" lds:Enclosure="No" lds:Seal="No" lds:Addressing="No" lds:Posting="No" lds:Redaction="No" lds:Dockets="No" lds:HandwritingType="Unknown" lds:InscriptionMethod="Unknown">
+                        <msIdentifier>
+                            <placeName>
+                                <address>
+                                    <addrLine>15 East North Temple Street</addrLine>
+                                    <addrLine>Salt Lake City, UT, 84150-1600</addrLine>
+                                </address>
+                            </placeName>
+                            <institution>Church History Library</institution>
+                            <repository>Church History Library</repository>
+                            <collection/>
+                            <idno type="call-number">M273.2 P9164i (100001087072)</idno>
+                            <msName>A[n] Interesting Account of Several Remarkable Visions, pp.
+                                1–31</msName>
+                        </msIdentifier>
+                        <msContents>
+                            <summary/>
+                            <textLang mainLang="en"/>
+                        </msContents>
+                        <physDesc>
+                            <p xml:id="JSPPH1_d1e56048"/>
+                            <objectDesc facs="imageurlshere" form="paper">
+                                <supportDesc material="paper">
+                                    <support>Medium desc. here.</support>
+                                    <extent>
+                                        <dimensions scope="all" type="leaf" unit="inch">
+                                            <height/>
+                                            <width/>
+                                        </dimensions>
+                                    </extent>
+                                    <condition/>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <p xml:id="JSPPH1_d1e56078">Unknown</p>
+                            </handDesc>
+                            <decoDesc>
+                                <p xml:id="JSPPH1_d1e56084"/>
+                            </decoDesc>
+                        </physDesc>
+                        <history>
+                            <origin/>
+                            <provenance/>
+                            <acquisition/>
+                        </history>
+                        <additional>
+                            <adminInfo>
+                                <availability lds:CustodianRestrictions="N" lds:DocumentAccess="No">
+                                    <p xml:id="JSPPH1_d1e56103"/>
+                                </availability>
+                                <custodialHist>
+                                    <custEvent/>
+                                </custodialHist>
+                                <note xml:id="JSPPH1_d1e56111" type="disposition"/>
+                            </adminInfo>
+                            <surrogates/>
+                            <listBibl type="print-volume-location">
+                                <bibl><ref pm:link-pointer-type="web" target="http://www.josephsmithpapers.org/publishedVolumes/histories-volume-1-joseph-smith-histories-1832-1844"><title>JSP,</title> H1:517–546</ref></bibl>
+                            </listBibl>
+                        </additional>
+                    </msDesc>
+                </sourceDesc>
+            </fileDesc>
+            <profileDesc>
+                <creation/>
+                <textClass>
+                    <classCode scheme="inscription-method">Unknown</classCode>
+                </textClass>
+            </profileDesc>
+            <revisionDesc><change who="s" when="2014-01-08T19:32:43.14Z"><label>posted to website</label><desc>29 Oct 2013</desc></change><change who="NNW" when="2010-12-07T17:56:32.47Z"><label>Changes Accepted 2010-12-07 at about 10:56am</label><desc/></change>
+                <change when="2009-03-10T14:40:09" who="Jeffrey">
+                    <label>Document Created</label>
+                    <desc>Created by Jeffrey, 2009-03-10T14:40:09</desc>
+                </change>
+                <change when="2009-01-01" who="SFP">
+                    <label>Initial Creation</label>
+                    <desc>Complete</desc>
+                </change><change who="NNW" when="2011-08-09T21:56:48.42Z"><label>Changes accepted</label><desc>2011-08-09 3:55pm</desc></change>
+            </revisionDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <div1>
+                    <div2 xml:id="JSPPH1_d1e56159" type="docfront">
+                        <div3 xml:id="JSPPH1_d1e56161" type="sourcenote">
+                            <msDesc>
+                                <msIdentifier>
+                                    <msName>Appendix: Orson Pratt, A[n] Interesting Account of Several Remarkable Visions, 1840</msName>
+                                </msIdentifier>
+                                <msContents>
+                                    <summary>
+                                        <p xml:id="JSPPH1_d1e56179" rend="indent"><ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Orson Pratt</ref>, <title>A Interesting Account of Several Remarkable Visions, and of the Late Discovery of Ancient American Records</title>; 1–31 pp.; Edinburgh, Scotland: Ballantyne and Hughes, 1840. The copy used for transcription is held at CHL.</p>
+                                    </summary>
+                                </msContents>
+                                <history>
+                                    <provenance/>
+                                </history>
+                            </msDesc>
+                        </div3>
+                        <div3 xml:id="JSPPH1_d1e56209" type="historical-intro">
+                            <p xml:id="JSPPH1_d1e56211" rend="indent"><ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Orson Pratt</ref> was twenty-three years old when he was
+                                appointed to the newly organized Quorum of the Twelve Apostles in
+                                <date when-iso="1835">1835</date>, and along with others of the
+                                Twelve, he served as a proselytizing missionary to the <placeName>British Isles</placeName>
+                                from <date from-iso="1840" to-iso="1841">1840 to 1841</date>. While traveling to his mission, he stopped for
+                                a number of weeks in the eastern <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref> and spent time in the
+                                company of <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>, who was in the East petitioning the federal
+                                government for redress for the Latter-day Saints’ <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> losses.
+                                Pratt attended speeches that JS delivered during his stay in the area and accompanied him on a journey from
+                                <ref pm:link-pointer-type="place" target="plc24" n="Philadelphia, Philadelphia County, Pennsylvania">Philadelphia</ref>, Pennsylvania, to <ref pm:link-pointer-type="place" target="x8196" n="Monmouth County, New Jersey">Monmouth</ref>, New Jersey, in <date when-iso="1839-12">December 1839</date>.<note xml:id="JSPPH1_d1e56230" type="editorial-footnote" pm:link-target-type="text"><ref target="X8296" pm:link-pointer-type="source">Orson
+                                    Pratt, New York City, NY, to Sarah Bates Pratt, Nauvoo, IL, 6 Jan.
+                                    1840, <title>Times and Seasons,</title> Feb. 1840, 1:61</ref>.</note> He likely heard JS recount
+                                his early visions, a subject JS publicly addressed while in the
+                                eastern states.<note xml:id="JSPPH1_d1e56236" type="editorial-footnote" pm:link-target-type="text">See <ref target="X8296" pm:link-pointer-type="source">Benjamin Winchester, Philadelphia, PA, to “Dear Brother in the Lord,” 10 Feb. 1840, <title>Times and Seasons,</title> May 1840, 1:104</ref>; and <ref target="X9722" pm:link-pointer-type="source">Pratt, <title>Autobiography,</title>
+                                        330</ref>.</note> As a member of one of the Latter-day Saints’ governing bodies, Pratt had earlier opportunities to hear JS
+                                speak of his early visionary experiences, but JS’s  lectures on the East Coast may have left those visions fresh in Pratt’s mind as he journeyed   across the Atlantic. The next year he published the pamphlet <title>A[n] Interesting Account
+                                    of Several Remarkable Visions, and of the Late Discovery of
+                                    Ancient American Records,</title> which focused on JS’s personal history
+                                and included the earliest printed account of his first vision of Deity.<note xml:id="JSPPH1_d1e56256" type="editorial-footnote" pm:link-target-type="text">Similarity of phrasing, especially in describing <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+                                    rudimentary education, suggests that <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> may have had access
+                                    to JS’s unpublished <date from-iso="1832-06" to-iso="1832-09">circa summer 1832</date> <ref pm:link-pointer-type="relatedDocument" target="x6547">history</ref>.<!--( See p. 11 herein.)--></note> Pratt published the pamphlet in <placeName>Edinburgh</placeName>, Scotland, in <date from-iso="1840-09-20" to-iso="1840-09-30">late September 1840</date>, and he informed fellow apostle <ref pm:link-pointer-type="person" target="per52" n="Smith, George Albert">George A. Smith</ref>, “I shall be at conference [in <ref pm:link-pointer-type="place" target="plc63" n="Manchester, England">Manchester</ref>, England] on
+                                the <date when-iso="1840-10-06">6<hi rend="superscript"><hi rend="underscore">th</hi></hi> of Oct</date>. if the Lord will. I
+                                shall bring about 2000 pamphlets with me which are now in the press.”<note xml:id="JSPPH1_d1e56288" type="editorial-footnote" pm:link-target-type="text"><ref target="X9E59" pm:link-pointer-type="source">Orson Pratt, Edinburgh, Scotland, to
+                                    George A. Smith, London, England, 24 Sept. 1840, George Albert Smith, Papers, CHL</ref>.</note></p>
+                            <p xml:id="JSPPH1_d1e56291" rend="indent"><ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> began his thirty-one-page pamphlet by describing <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s first vision of Deity and the later visit JS received from “the angel of the Lord.”  In relating how JS obtained the gold plates of the Book of Mormon, Pratt quoted extensively from the historical letters by <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref>
+                                printed in the <title>Latter Day Saints’ Messenger and
+                                    Advocate</title> in <ref pm:link-pointer-type="place" target="plc13" n="Kirtland Township, Geauga County (now in Lake County), Ohio">Kirtland</ref>, Ohio, in <date from-iso="1834" to-iso="1835">1834–1835</date>.<note xml:id="JSPPH1_d1e56322" type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Cowdery</ref>’s
+                                    letters were copied into <ref target="X2125" pm:link-pointer-type="source">JS History, 1834–1836, <ref pm:link-pointer-type="text" target="XEC7279AC-D0DE-4E03-8335-C3E346B72773">46–103</ref></ref><!--, pp. 40–89 herein-->.</note> He summarized the contents of the Book of Mormon, reprinted the statements of two groups of witnesses who saw the gold plates, and concluded with a fifteen-point “sketch of the faith and doctrine of this Church.”</p>
+                            <p xml:id="JSPPH1_d1e56333" rend="indent">In his description of the Book of Mormon, <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Orson Pratt</ref>
+                                superimposed his understanding of Book of Mormon geography onto the Western Hemisphere by placing the Nephites in <placeName>South America</placeName> and the Jaredites in
+                                <placeName>North America</placeName>. Pratt’s association of Book of Mormon peoples with the
+                                history of all of North and South America matched common
+                                understanding of early Latter-day Saints. Shortly thereafter, when <persName>John Lloyd Stephens</persName>’s <title>Incidents of Travel in Central America, Chiapas,
+                                    and Yucatan</title> became available in
+                                <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref> in about <date when-iso="1842">1842</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> greeted it enthusiastically and
+                                church members used it to map Book of Mormon sites in a Central American setting.<note xml:id="JSPPH1_d1e56373" type="editorial-footnote" pm:link-target-type="text">John L. Stephens, <title>Incidents of Travel in Central America, Chiapas, and Yucatan,</title> 2 vols. (New York: Harper &amp; Brothers, 1841); see also <ref target="X8296" pm:link-pointer-type="source">“Facts Are Stubborn Things,” <title>Times and Seasons,</title> 15 Sept. 1842, 3:921–922</ref>; <ref target="X8296" pm:link-pointer-type="source">“Zarahemla,” <title>Times and Seasons,</title> 1 Oct. 1842, 3:927–928</ref>; <ref target="X7151" pm:link-pointer-type="source">JS, Nauvoo, IL, to John Bernhisel, New York City, NY, <ref pm:link-pointer-type="relatedDocument" target="x712">16 Nov. 1841</ref>, JS Collection, CHL</ref>; and <ref target="X0872" pm:link-pointer-type="source">Givens, <title>By the Hand of Mormon,</title>
+                                    chaps. 4–5</ref>.</note></p>
+                            <p xml:id="JSPPH1_d1e56412" rend="indent"><ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref>’s <title>Interesting Account of Several Remarkable
+                                    Visions</title> proved to be one of the more influential Mormon tracts to
+                                come out of this period. The first American edition was printed in
+                                <ref pm:link-pointer-type="place" target="plc35" n="New York City, New York County, New York">New York</ref> in <date when-iso="1841">1841</date>, and reprints appeared in <placeName>Europe</placeName>, <placeName>Australia</placeName>, and
+                                the <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref>.<note xml:id="JSPPH1_d1e56424" type="editorial-footnote" pm:link-target-type="text">Orson Pratt, <title>An Interesting Account of Several Remarkable Visions, and of the Late Discovery of Ancient American Records,</title> 1st American ed. (New York: Joseph W. Harrison, 1841); <ref target="X9F57" pm:link-pointer-type="source">Orson Pratt, <title>Remarkable Visions</title> (Liverpool: R. James, [1848])</ref>; Orson Pratt, <title>An Interesting Account of Several Remarkable Visions, and of the Late Discovery of Ancient American Records</title> (Sydney: Albert Mason, 1851); Orson Pratt, <title>An Interesting Account of Several Remarkable Visions, and of the Late Discovery of Ancient American Records,</title> 2nd American ed. (New York: Joseph W. Harrison, 1841); see also <ref target="X0918" pm:link-pointer-type="source">Crawley, <title>Descriptive Bibliography,</title> 1:160–161; 2:63–64, 262–265</ref>.</note> Pratt’s work was a principal source for <ref pm:link-pointer-type="person" target="per79" n="Hyde, Orson">Orson
+                                Hyde</ref>’s German-language pamphlet <title>Ein Ruf aus der Wüste</title> [A cry out of the
+                                wilderness], the earliest church publication in a language
+                                other than English, and for the first French-language
+                                pamphlet, <ref pm:link-pointer-type="person" target="per126" n="Taylor, John">John Taylor</ref>’s <title>Aux amis de  la
+                                    vérité religieuse</title> [To friends of religious truth].<note xml:id="JSPPH1_d1e56512" type="editorial-footnote" pm:link-target-type="text"><ref target="X2412" pm:link-pointer-type="source">Orson Hyde, <title>Ein Ruf aus der Wüste, eine Stimme aus dem Schoose der Erde</title> (Frankfurt: Im Selbstverlage des Verfassers [by the author], 1842)</ref>; John Taylor, <title>Aux amis de la vérité religieuse. Récit abrégé du commencement, des progrès, de l’établissement, des persécutions, de la foi et de la doctrine de l’Église de Jésus-Christ des Saints des Derniers Jours</title> (Paris: Marc Ducloux et Compagnie, 1850); see also <ref target="X0918" pm:link-pointer-type="source">Crawley, <title>Descriptive Bibliography,</title> 1:205–208; 2:166–167</ref>.
+                                </note> Pratt’s pamphlet was later translated into Danish, Swedish, and Dutch.<note xml:id="JSPPH1_d1e56583" type="editorial-footnote" pm:link-target-type="text">
+                                    Orson Pratt, <title>Mærkværdige syner</title> (Copenhagen: F. E. Bording, 1851); Orson Pratt, <title>Märkwärdiga syner</title> (Copenhagen: F. E. Bording, 1860); Orson Pratt, <title>Merkwaardige verschijningen</title> (Amsterdam?, [ca. 1865]); see also <ref target="X0918" pm:link-pointer-type="source">Crawley, <title>Descriptive Bibliography,</title> 2:240</ref>.
+                                </note></p>
+                            <p xml:id="JSPPH1_d1e56615" rend="indent"><title>Interesting Account</title> is not a <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> document, because JS did
+                                not write it, assign it, or supervise its creation. However, two JS documents in this volume, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>” <!--(pages 489–501 herein) -->and “<ref pm:link-pointer-type="relatedDocument" target="x4786">Latter Day Saints</ref>” (a later version of “Church History”<!--, pages 503–516 herein-->), quote extensively from <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref>’s pamphlet. These documents made use of Pratt’s language to describe
+                                JS’s early visionary experiences and built on Pratt’s summary of
+                                the church’s “faith and doctrine” for the thirteen-point
+                                statement of church beliefs that came to be known as the Articles of
+                                Faith. (The summary of beliefs in <title>Interesting Account</title> was in turn based on an earlier statement composed by Orson Pratt’s brother, <ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker">Parley P. Pratt</ref>.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="X97BA1EC8-B234-4B51-BD68-0411D043B5D4">See <ref target="XB069" pm:link-pointer-type="source">Pratt and Higbee, <title>An Address . . . to the Citizens of Washington</title></ref>; compare <ref target="X980D" pm:link-pointer-type="source">Pratt, <title>Late Persecution of the Church,</title> iii–xiii</ref>.</note>) <title>Interesting Account</title> is therefore included
+                                as an appendix <!--to this volume -->to allow convenient comparison with JS’s histories. Gray highlighting in the text indicates passages that later provided wording or content for “<ref xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch" pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>” and for “<ref pm:link-pointer-type="relatedDocument" target="x4786">Latter Day Saints</ref>.” Passages highlighted in Pratt’s concluding statement of beliefs show parallels to JS’s own list of beliefs in “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>.”</p></div3>
+                    </div2>
+                    <div2 xml:id="XF68C8C8F-C812-4DDE-80DF-764F7130B4E1" type="docbody" rend="indent">
+                        <p xml:id="JSPPH1_d1e56703" rend="center"><handShift resp="seniels" scribe="per5137"/><hi rend="small-caps">a</hi><note xml:id="JSPPH1_d1e56737" type="editorial-footnote-text" resp="W" pm:link-target-type="text">Later copies from this printing omit this <hi rend="italic">A.</hi> <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> originally intended the title to begin “An Interesting Account,” but the printer typeset the title as it appears here. When this error was discovered in the middle of the print run, the <hi rend="italic">A</hi> was removed. (See <ref target="X9E59" pm:link-pointer-type="source">Orson Pratt, Edinburgh, Scotland, to
+                                George A. Smith, London, England, 24 Sept. 1840, George Albert Smith, Papers, CHL</ref>; and <ref target="X0918" pm:link-pointer-type="source">Crawley, <title>Descriptive Bibliography,</title> 1:129</ref>.)</note></p>
+                        <p xml:id="JSPPH1_d1e56707" rend="center">INTERESTING ACCOUNT</p>
+                        <p xml:id="JSPPH1_d1e56710" rend="center"><hi rend="small-caps">of</hi></p>
+                        <p xml:id="JSPPH1_d1e56713" rend="center">SEVERAL REMARKABLE VISIONS,</p>
+                        <p xml:id="JSPPH1_d1e56716" rend="center"><hi rend="small-caps">and of</hi></p>
+                        <p xml:id="JSPPH1_d1e56720" rend="center">THE LATE DISCOVERY</p>
+                        <p xml:id="JSPPH1_d1e56723" rend="center"><hi rend="small-caps">of</hi></p>
+                        <p xml:id="JSPPH1_d1e56726" rend="center">ANCIENT AMERICAN RECORDS.</p>
+                        <note xml:id="JSPPH1_d1e56729" type="formatting-note" resp="RES" pm:link-target-type="text">extra leading here</note><p> </p><p xml:id="JSPPH1_d1e56731" rend="center">BY <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">O. PRATT</ref>,</p>
+                        <p xml:id="JSPPH1_d1e56734" rend="center"><hi rend="small-caps">minister of the gospel</hi>.</p>
+                        <note xml:id="JSPPH1_d1e56751" type="formatting-note" resp="RES" pm:link-target-type="text">extra leading here</note><p> </p><p xml:id="JSPPH1_d1e56753" rend="indent">“For there is nothing covered, that shall not be revealed;
+                            and hid, that shall <lb/>not be known.”—<hi rend="small-caps">Matt</hi>. x. 26.</p>
+                        <note xml:id="JSPPH1_d1e56759" type="formatting-note" resp="RES" pm:link-target-type="text">extra leading here</note><p> </p><p xml:id="JSPPH1_d1e56761" rend="center"><placeName>EDINBURGH</placeName>:</p>
+                        <p xml:id="JSPPH1_d1e56764" rend="center">PRINTED BY BALLANTYNE AND HUGHES,</p>
+                        <p xml:id="JSPPH1_d1e56767" rend="center"><date when-iso="1840">MDCCCXL</date>. <pb xml:id="JSPPH1_d1e56769" type="not-present" facs="6554_84183-LIBR-88_001.jpg" n="1"/></p>
+                        <note xml:id="JSPPH1_d1e56771" type="formatting-note" resp="RES" pm:link-target-type="text">extra leading here</note><p xml:id="JSPPH1_d1e56774" rend="center"><note xml:id="JSPPH1_d1e56775" type="editorial-comment" resp="NNW" pm:link-target-type="text">1 page blank</note> <pb xml:id="XF42EDA8C-B959-4375-9E44-904EA500E861" type="not-present" n="2" facs="6554_84183-LIBR-88_002.jpg"/></p>
+                        <p xml:id="JSPPH1_d1e56778" rend="center">FACTS</p>
+                        <p xml:id="JSPPH1_d1e56781" rend="center"><hi rend="small-caps">in relation to the late discovery of</hi></p>
+                        <p xml:id="JSPPH1_d1e56784" rend="center">ANCIENT AMERICAN RECORDS.</p>
+                        <note xml:id="JSPPH1_d1e56787" type="formatting-note" resp="RES" pm:link-target-type="text">Extra leading here</note><p> </p><p xml:id="JSPPH1_d1e56789" rend="indent"><hi rend="shading"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr."><hi rend="small-caps">Mr
+                                        Joseph Smith,</hi> jun.</ref>, who made the following
+                                im<lb/>portant discovery, was born in the town of
+                                    <placeName>Sharon</placeName>, Wind<lb/>sor county, Vermont, on
+                                the <date when-iso="1805-12-23">23d of December, <hi rend="small-caps">a.d.</hi> 1805</date>. <lb/>When ten years
+                                old, his parents, with their family, moved <lb/>to <ref pm:link-pointer-type="place" target="x7208" n="Palmyra, Palmyra Township, Wayne County, New York">Palmyra</ref>, New York; in the vicinity of which he
+                                resid<lb/>ed for about eleven years, the latter part in the town of
+                                    <lb/><ref pm:link-pointer-type="place" target="plc15" n="Manchester Township, Ontario County, New York">Manchester</ref>.</hi> Cultivating the earth for a livelihood
+                            was <lb/>his occupation, in which he employed the most of his <lb/>time.
+                            His advantages, for acquiring literary knowledge, <lb/>were exceedingly
+                            small; hence, his education was limited <lb/>to a slight acquaintance
+                            with two or three of the common <lb/>branches of learning. He could read
+                            without much diffi<lb/>culty, and write a very imperfect hand; and had a
+                            very <lb/>limited understanding of the ground rules of arithmetic.
+                            <lb/>These were his highest and only attainments; while the <lb/>rest of
+                            those branches, so universally taught in the com<lb/>mon schools
+                            throughout the <ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref>, were entirely
+                            <lb/>unknown to him. <hi rend="shading">When somewhere about fourteen or
+                                <lb/>fifteen years old, he began seriously to reflect upon the
+                                neces<lb/>sity of being prepared for a future state of
+                                existence:</hi> but <lb/>how, or in what way, to prepare himself,
+                            was a question, <lb/>as yet, undetermined in his own mind: he perceived
+                            that it <lb/>was a question of infinite importance, and that the
+                            salva<lb/>tion of his soul depended upon a correct understanding <lb/>of
+                            the same. He saw, that if he understood not the <pb xml:id="X9D1340BE-162E-4830-BF13-FFDB51BE022E" type="not-present" n="3" facs="6554_84183-LIBR-88_003.jpg"/> way, it would be
+                            impossible to walk in it, except by chance; <lb/>and the thought of
+                            resting his hopes of eternal life upon <lb/>chance, or uncertainties,
+                            was more than he could endure. <lb/>If he went to the religious
+                            denominations to seek infor<lb/>mation, each one <hi rend="shading">pointed to its particular</hi> tenets, saying—<lb/>“This is the
+                            way, walk ye in it;”<note xml:id="JSPPH1_d1e56798" type="editorial-footnote" pm:link-target-type="text">See Isaiah
+                                30:21.</note> while, at the same <lb/>time, the doctrines of each
+                            were, in many respects, in <lb/>direct opposition to one another. It,
+                            also, occurred to his <lb/>mind, that <hi rend="shading">God was not the
+                                author</hi> of but one doctrine, <lb/>and therefore could not
+                            acknowledge but one denomina<lb/>tion as his church; and that such
+                            denomination must be <lb/>a people, who believe, and teach, that one
+                            doctrine, (what<lb/>ever it may be,) and build upon the same. He then
+                            re<lb/>flected upon the immense number of doctrines, now, in <lb/>the
+                            world, which had given rise to many hundreds of <lb/>different
+                            denominations. The great question to be decid<lb/>ed in his mind, was—if
+                            any one of these denominations be <lb/>the Church of Christ, which one
+                            is it? Until he could <lb/>become satisfied, in relation to this
+                            question, he could not <lb/>rest contented. To trust to the decisions of
+                            fallible man, <lb/>and build his hopes upon the same, without any
+                            certainty, <lb/>and knowledge, of his own, would not satisfy the anxious
+                            <lb/>desires that pervaded his breast. To decide, without any
+                            <lb/>positive and definite evidence, on which he could rely, <lb/>upon a
+                            subject involving the future welfare of his soul, <lb/>was revolting to
+                            his feelings. The only alternative, that <lb/>seemed to be left him, was
+                            to read the Scriptures, and <lb/>endeavour to follow their directions.
+                            He, accordingly, <lb/>commenced perusing the sacred pages of the Bible,
+                            with <lb/>sincerity, believing the things that he read. His mind
+                            <lb/>soon caught hold of the following passage:—“If any of <lb/>you lack
+                            wisdom, let him ask of God, that giveth to all <lb/><hi rend="italic">men</hi> liberally, and upbraideth not; and it shall be given
+                            <lb/>him.”—James i. 5. From this promise he learned, that it <lb/>was
+                            the privilege of all men to ask God for wisdom, with <lb/>the sure and
+                            certain expectation of receiving, liberally; <lb/>without being
+                            upbraided for so doing. This was cheering <lb/>information to him:
+                            tidings that gave him great joy. It <lb/>was like a light shining forth
+                            in a dark place, to guide him <lb/>to the path in which he should walk.
+                            He, now, saw that <lb/>if he inquired of God, there was, not only, a
+                            possibility, <lb/>but a probability; yea, more, a certainty, that he
+                            should <pb xml:id="JSPPH1_d1e56807" type="present" facs="6554_84183-LIBR-88_004.jpg" n="4"/> obtain a knowledge, which,
+                            of all the doctrines, was the <lb/>doctrine of Christ; and, which, of
+                            all the churches, was <lb/>the church of Christ. He, therefore, <hi rend="shading">retired to a secret <lb/>place, in a grove,</hi> but
+                            a short distance from his <ref pm:link-pointer-type="person" target="per58" n="Smith, Joseph, Sr.">father</ref>’s <lb/>house, and
+                            knelt down, and <hi rend="shading">began to call upon the Lord.</hi>
+                            <lb/>At first, he was severely tempted by the powers of dark<lb/>ness,
+                            which endeavoured to overcome him; but he conti<lb/>nued to seek for
+                            deliverance, until darkness gave way from <lb/>his mind; and he was
+                            enabled to pray, in fervency of the <lb/>spirit, and in faith. And,
+                            while thus pouring out his soul, <lb/>anxiously desiring an answer from
+                            God, he, at length, saw <lb/>a very bright and glorious light in the
+                            heavens above; <lb/>which, at first, seemed to be at a considerable
+                            distance. He <lb/>continued praying, while the light appeared to be
+                            gradually <lb/>descending towards him; and, as it drew nearer, it
+                            increas<lb/>ed in brightness, and magnitude, so that, by the time that
+                            <lb/>it reached the tops of the trees, the whole wilderness, for
+                            <lb/>some distance around, was illuminated in a most glorious <lb/>and
+                            brilliant manner. He expected to have seen the <lb/>leaves and boughs of
+                            the trees consumed, as soon as the <lb/>light came in contact with them;
+                            but, perceiving that it <lb/>did not produce that effect, he was
+                            encouraged with the <lb/>hopes of being able to endure its presence. It
+                            continued <lb/>descending, slowly, until it rested upon the earth, and
+                            he <lb/>was enveloped in the midst of it. When it first came upon
+                            <lb/>him, it produced a peculiar sensation throughout his whole
+                            <lb/>system; and, immediately, <hi rend="shading">his mind was caught
+                                away, <lb/>from the natural objects with which he was surrounded;
+                                <lb/>and he was enwrapped in a heavenly vision, and saw two
+                                <lb/>glorious personages, who exactly resembled each other in
+                                <lb/>their features or likeness.</hi> He was informed, that his sins
+                            <lb/>were forgiven. He was also informed upon the subjects, <lb/>which
+                            had for some time previously agitated his mind, <lb/>viz.—<hi rend="shading">that all the religious denominations were believing
+                                <lb/>in incorrect doctrines; and, consequently, that none of
+                                <lb/>them was acknowledged of God, as his church and king<lb/>dom.
+                                And he was expressly commanded, to go not after <lb/>them; and he
+                                received a promise that the true doctrine—<lb/>the fulness of the
+                                gospel, should, at some future time, be <lb/>made known to him;</hi>
+                            after which, the vision withdrew, <lb/>leaving his mind in a state of
+                            calmness and peace, inde<lb/>scribable.<note xml:id="JSPPH1_d1e56812" type="editorial-footnote" resp="W" pm:link-target-type="text">For
+                                    <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s accounts of this vision of
+                                Deity, see <ref target="X2675" pm:link-pointer-type="source">JS
+                                    History, ca. Summer 1832, 1–3</ref><!--, pp. 11–13 herein-->;
+                                JS, Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11 Nov.
+                                1835</ref><!--, in <title>JSP,</title> J1:87–88 (see also later version, pp. 115–116 herein)-->;
+                                    <!--JS History Drafts, 1838–ca. 1841, pp. 210–215 herein--><ref target="X0029" pm:link-pointer-type="source">JS History, vol.
+                                    A-1, <ref pm:link-pointer-type="text" target="XD639164C-A923-4957-AEDD-C6EBE9E6E63A">3</ref></ref>; <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,” 706–707</ref><!--, p. 494 herein-->;
+                                and <ref target="XDFB9" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x4786">Latter
+                                        Day Saints</ref>,”
+                                404–405</ref><!--, p. 508 herein-->.</note> Some time after having
+                            received this glorious <pb xml:id="JSPPH1_d1e56865" type="present" n="5" facs="6554_84183-LIBR-88_005.jpg"/> manifestation, being young, he
+                            was again entangled in the <lb/>vanities of the world, of which he
+                            afterwards sincerely and <lb/>truly repented.</p>
+                        <p xml:id="JSPPH1_d1e56869" rend="indent">And it pleased God, <hi rend="shading">on the evening of the <date when-iso="1823-09-21">21st of Sep<lb/>tember, <hi rend="small-caps">a.d.</hi>
+                                    1823</date>,</hi> to again hear his prayers. For he had
+                            <lb/>retired to rest, as usual, only that his mind was drawn out,
+                            <lb/>in fervent prayer, and his soul was filled with the most
+                            <lb/>earnest desire, “to commune with some kind messenger, <lb/>who
+                            could communicate to him the desired information of <lb/>his acceptance
+                            with God,”<note xml:id="JSPPH1_d1e56875" type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref>’s quotation marks
+                                in this and the two following paragraphs indicate quotations or
+                                close paraphrases from <ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery, “Letter
+                                        IV,”<title> LDS Messenger and Advocate,</title> Feb. 1835,
+                                    1:78–79</ref><!-- (see also later version, pp. 57–58 herein)-->.</note>
+                            and also unfold the principles of <lb/>the doctrine of Christ, according
+                            to the promise which he <lb/>had received in the former vision. While he
+                            thus continued <lb/>to pour out his desires before the Father of all
+                            good; <hi rend="shading">en<lb/>deavouring to exercise faith in his
+                                precious promises; “on a <lb/>sudden, a light like that of day, only
+                                of a purer and far <lb/>more glorious appearance and brightness,
+                                burst into the <lb/>room. Indeed, the first sight was as though the
+                                house was <lb/>filled with consuming fire. This sudden appearance of
+                                a <lb/>light so bright, as must naturally be expected, occasioned
+                                <lb/>a shock or sensation visible to the extremities of the
+                                body.</hi>
+                            <lb/>It was, however, followed with a calmness and serenity of
+                            <lb/>mind, and an overwhelming rapture of joy, that surpassed
+                            <lb/>understanding, and, <hi rend="shading">in a moment, a personage
+                                stood before <lb/>him.”</hi></p>
+                        <p xml:id="JSPPH1_d1e56904" rend="indent">Notwithstanding the brightness of the light which
+                            pre<lb/>viously illuminated the room, “yet there seemed to be an <lb/>additional
+                            glory surrounding or accompanying this person<lb/>age, which shone with an
+                            increased degree of brilliancy, of <lb/>which he was in the midst; and though
+                            his countenance <lb/>was as lightning, yet, it was of a pleasing, innocent,
+                            and <lb/>glorious appearance; so much so, that every fear was <lb/>banished from
+                            the heart, and nothing but calmness per<lb/>vaded the soul.”</p>
+                        <p xml:id="JSPPH1_d1e56907" rend="indent">“The stature of this personage was a little above the
+                            <lb/>common size of men in this age; his garment was per<lb/>fectly white, and had
+                            the appearance of being without <lb/>seam.”</p>
+                        <p xml:id="JSPPH1_d1e56910" rend="indent"><hi rend="shading">This glorious
+                                being declared himself to be an Angel of <lb/>God,<note xml:id="JSPPH1_d1e56912" type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> identified
+                                    this angel as Moroni, the last prophet to write in the Book of
+                                    Mormon. (<ref target="X2632" pm:link-pointer-type="source">[JS],
+                                        Editorial, <title>Elders’ Journal,</title> July 1838,
+                                        42–44</ref><!--; see also 223n56 herein-->. For JS’s other
+                                    accounts of this experience, see <ref target="X2675" pm:link-pointer-type="source">JS <ref pm:link-pointer-type="relatedDocument" target="x6547">History, ca. Summer 1832</ref>,
+                                    4</ref><!--, pp. 13–14 herein-->; JS, Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11
+                                        Nov.
+                                    1835</ref><!--, in <title>JSP,</title> J1:88–89 [see also later version, pp. 116–117 herein]-->;
+                                        <!--JS History Drafts, 1838–ca. 1841, pp. 220–233 herein--><ref target="X0029" pm:link-pointer-type="source">JS History,
+                                        vol. A-1, <ref pm:link-pointer-type="text" target="XD639164C-A923-4957-AEDD-C6EBE9E6E63A">4</ref></ref>; <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>,”
+                                    707</ref><!--, pp. 494–495 herein-->; and <ref target="XDFB9" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x4786">Latter Days Saints</ref>,”
+                                    405</ref><!--, pp. 508–509 herein-->.)</note> sent forth,</hi>
+                            by commandment, to communicate to him <lb/>that his sins were forgiven,
+                            and that his prayers were <lb/>heard; and also, <hi rend="shading">to
+                                bring the joyful tidings, that the cove<lb/>nant which God made with
+                                ancient Israel, concerning their <pb xml:id="JSPPH1_d1e56997" type="present" n="6" facs="6554_84183-LIBR-88_006.jpg"/>
+                                posterity, was at hand to be fulfilled; that the great
+                                pre<lb/>paratory work for the second coming of the Messiah, was
+                                <lb/>speedily to commence; that the time was at hand for the
+                                <lb/>gospel, in its fulness, to be preached in power unto all
+                                <lb/>nations; that a people might be prepared with faith and
+                                <lb/>righteousness, for the Millennial reign of universal peace
+                                <lb/>and joy.</hi></p>
+                        <p xml:id="JSPPH1_d1e57000" rend="indent"><hi rend="shading">He was
+                                informed, that he was called and chosen to be an <lb/>instrument in
+                                the hands of God, to bring about some of <lb/>his marvellous
+                                purposes in this glorious dispensation.</hi> It <lb/>was also made
+                            manifest to him, that the “American In<lb/>dians” were a remnant of
+                            Israel; that when they first emi<lb/>grated to America, they were an
+                            enlightened people, pos<lb/>sessing a knowledge of the true God,
+                            enjoying his favour, <lb/>and peculiar blessings from his hand; that the
+                            prophets, <lb/>and inspired writers among them, were required to keep a
+                            <lb/>sacred history of the most important events transpiring <lb/>among
+                            them: which history was handed down for many <lb/>generations, till at
+                            length they fell into great wickedness: <lb/>the most part of them were
+                            destroyed, and the records, (by <lb/>commandment of God, to one of the
+                            last prophets among <lb/>them,) were safely deposited, to preserve them
+                            from the <lb/>hands of the wicked, who sought to destroy them. He was
+                            <lb/>informed, that these records contained many sacred revela<lb/>tions
+                            pertaining to the gospel of the kingdom, as well as <lb/>prophecies
+                            relating to the great events of the last days; <lb/>and that to fulfil
+                            his promises to the ancients, who wrote <lb/>the records, and to
+                            accomplish his purposes, in the resti<lb/>tution of their children,
+                            &amp;c., they were to come forth to <lb/>the knowledge of the people. If
+                            faithful, he was to be the <lb/>instrument, who should be thus highly
+                            favoured in bring<lb/>ing these sacred things to light: at the same
+                            time, being <lb/>expressly informed, that it must be done with an eye
+                            single <lb/>to the glory of God, that no one could be entrusted with
+                            <lb/>those sacred writings, who should endeavour to aggrandize
+                            <lb/>himself, by converting sacred things to unrighteous and
+                            <lb/>speculative purposes. After giving him many instructions
+                            <lb/>concerning things past and to come, which would be foreign <lb/>to
+                            our purpose to mention here, he disappeared, and the <lb/>light and
+                            glory of God withdrew, leaving his mind in per<lb/>fect peace, while a
+                            calmness and serenity indescribable <lb/>pervaded the soul. But, before
+                            morning, the vision was <pb xml:id="JSPPH1_d1e57002" type="present" n="7" facs="6554_84183-LIBR-88_007.jpg"/> twice renewed, instructing
+                            him further, and still further, <lb/>concerning the great work of God,
+                            about to be performed <lb/>on the earth. In the morning, he went out to
+                            his labour <lb/>as usual; but soon the vision was renewed—the Angel
+                            <lb/>again appeared; and having been informed by the previous
+                            <lb/>visions of the night, concerning the place where those <lb/>records
+                            were deposited, he was instructed to go immedi<lb/>ately and view
+                            them.</p>
+                        <p xml:id="JSPPH1_d1e57005" rend="indent">Accordingly, he repaired to the place, a brief description
+                            <lb/>of which shall be given, in the words of a gentleman, by <lb/>the name of
+                            <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref>, who has visited the spot.<note xml:id="JSPPH1_d1e57008" type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> quotes from and paraphrases <ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery, “Letter VII,” <title>LDS Messenger and Advocate,</title> July 1835, 1:158 </ref>; and <ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery, “Letter VIII,” <title>LDS Messenger and Advocate,</title> Oct. 1835, 2:195–199</ref><!-- (see also later version, pp. 76 and 79–85 herein)-->.</note></p>
+                        <p xml:id="JSPPH1_d1e57081" rend="indent">“As you pass on the mail-road, from <ref pm:link-pointer-type="place" target="x7208" n="Palmyra, Palmyra Township, Wayne County, New York">Palmyra</ref>, Wayne <lb/>county,
+                            to <ref pm:link-pointer-type="place" target="plc37" n="Canandaigua Township, Ontario County, New York">Canandaigua</ref>, Ontario county, New York, be<lb/>fore arriving at the little
+                            village of <ref pm:link-pointer-type="place" target="plc15" n="Manchester Township, Ontario County, New York">Manchester</ref>, say from <lb/>three to four, or about four miles from
+                            <ref pm:link-pointer-type="place" target="x7208" n="Palmyra, Palmyra Township, Wayne County, New York">Palmyra</ref>, you pass <lb/>a large hill on the east side of the road. Why I say
+                            large, <lb/>is because it is as large, perhaps, as any in that country.</p>
+                        <p xml:id="JSPPH1_d1e57085" rend="indent">“The north end rises quite suddenly until it assumes a
+                            <lb/>level with the more southerly extremity; and I think, I <lb/>may say, an
+                            elevation higher than at the south, a short <lb/>distance, say half or
+                            three-fourths of a mile. As you pass <lb/>towards <ref pm:link-pointer-type="place" target="plc37" n="Canandaigua Township, Ontario County, New York">Canandaigua</ref>, it lessens
+                            gradually, until the surface <lb/>assumes its common level, or is broken by
+                            other smaller <lb/>hills or ridges, water-courses and ravines. I think I am
+                            <lb/>justified in saying, that this is the highest hill for some <lb/>distance
+                            round, and I am certain, that its appearance, as it <lb/>rises so suddenly
+                            from a plain on the north, must attract <lb/>the notice of the traveller as
+                            he passes by.”—“The north <lb/>end,” which has been described as rising
+                            suddenly from the <lb/>plain, forms “a promontory without timber, but covered
+                            <lb/>with grass. As you pass to the south, you soon come to <lb/>scattering
+                            timber, the surface having been cleared by art <lb/>or wind; and a short
+                            distance further left, you are sur<lb/>rounded with the common forest of the
+                            country. It is <lb/>necessary to observe, that even the part cleared, was
+                            only <lb/>occupied for pasturage; its steep ascent, and narrow sum<lb/>mit not
+                            admitting the plough of the husbandman, with any <lb/>degree of ease or
+                            profit. It was at the second mentioned <lb/>place, where the record was found
+                            to be deposited, on the <lb/>west side of the hill, not far from the top down
+                            its side; <lb/>and when myself visited the place in the year <date when-iso="1830">1830</date>, there <lb/>were
+                            several trees standing—enough to cause a shade in <pb xml:id="JSPPH1_d1e57087" type="present" n="8" facs="6554_84183-LIBR-88_008.jpg"/> summer, but not
+                            so much as to prevent the surface being <lb/>covered with grass—which was
+                            also the case when the <lb/>record was first found.</p>
+                        <p xml:id="JSPPH1_d1e57091" rend="indent">“How far below the surface these records were” an<lb/>ciently
+                            “placed, I am unable to say; but from the fact, <lb/>that they had been some
+                            fourteen hundred years buried, <lb/>and that, too, on the side of a hill so
+                            steep, one is ready to <lb/>conclude, that they were some feet below, as the
+                            earth <lb/>would naturally wear, more or less, in that length of time. <lb/>But
+                            they, being placed toward the top of the hill, the <lb/>ground would not
+                            remove as much as at two-thirds, per<lb/>haps. Another circumstance would
+                            prevent a wearing of <lb/>the earth: in all probability, as soon as timber
+                            had time <lb/>to grow, the hill was covered,” “and the roots of the same
+                            <lb/>would hold the surface. However, on this point, I shall <lb/>leave every man
+                            to draw his own conclusion, and form his <lb/>own speculation.” But, suffice
+                            to say, “a hole of a sufficient <lb/>depth was dug. At the bottom of this was
+                            laid a stone of <lb/>suitable size, the upper surface being smooth. At each
+                            <lb/>edge, was placed a large quantity of cement, and into this <lb/>cement, at
+                            the four edges of this stone, were placed erect <lb/>four others; <hi rend="italic">their</hi> bottom edges resting <hi rend="italic">in</hi> the cement, at <lb/>the outer edges of the first stone. The four
+                            last named, <lb/>when placed erect, formed a box: the corners, or where <lb/>the
+                            edges of the four came in contact, were also cemented <lb/>so firmly, that
+                            the moisture from without was prevented <lb/>from entering. It is to be
+                            observed, also, that the inner <lb/>surfaces of the four erect or side
+                            stones, were smooth. <lb/>This box was sufficiently large to admit a
+                            breastplate, <lb/>such as was used by the ancients, to defend the chest,
+                            &amp;c., <lb/>from the arrows and weapons of their enemy. From the <lb/>bottom
+                            of the box, or from the breastplate, arose three small <lb/>pillars, composed
+                            of the same description of cement used on <lb/>the edges; and upon these
+                            three pillars were placed the <lb/>records.”—“This box, containing the
+                            records, was covered <lb/>with another stone, the bottom surface being flat,
+                            and the <lb/>upper crowning.” When it was first visited by <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref>, <lb/>on the
+                            morning of the <date when-iso="1823-09-22">22d of September 1823</date>, “a part of <lb/>the crowning stone was
+                            visible above the surface, while <lb/>the edges were concealed by the soil
+                            and grass.” From <lb/>which circumstance, it may be seen, “that however deep
+                            <lb/>this box might have been placed at first, the time had been <pb xml:id="JSPPH1_d1e57099" type="present" n="9" facs="6554_84183-LIBR-88_009.jpg"/>
+                            sufficient to wear the earth, so that it was easily discovered, <lb/>when
+                            once directed, and yet, not enough to make a per<lb/>ceivable difference to
+                            the passer-by.”—“After arriving at <lb/>the repository, a little exertion in
+                            removing the soil from <lb/>the edges of the top of the box, and a light pry,
+                            brought <lb/>to his natural vision its contents.” While viewing and
+                            <lb/>contemplating this sacred treasure with wonder and asto<lb/>nishment, behold!
+                            the Angel of the Lord, who had pre<lb/>viously visited him, again stood in
+                            his presence, and his <lb/>soul was again enlightened as it was the evening
+                            before, <lb/>and he was filled with the Holy Spirit, and the heavens <lb/>were
+                            opened, and the glory of the Lord shone round about <lb/>and rested upon him.
+                            While he thus stood gazing and <lb/>admiring, the Angel said, “Look!” And as
+                            he thus <lb/>spake, he beheld the Prince of Darkness, surrounded by <lb/>his
+                            innumerable train of associates. All this passed before <lb/>him, and the
+                            heavenly messenger said, “All this is shown, <lb/>the good and the evil, the
+                            holy and impure, the glory of <lb/>God, and the power of darkness, that you
+                            may know <lb/>hereafter the two powers, and never be influenced or <lb/>overcome
+                            by that wicked one. Behold, whatsoever enti<lb/>ceth and leadeth to good and
+                            to do good, is of God, and <lb/>whatsoever doth not, is of that wicked one.
+                            It is he that <lb/>filleth the hearts of men with evil, to walk in darkness
+                            and <lb/>blaspheme God; and you may learn from henceforth, that <lb/>his ways are
+                            to destruction, but the way of holiness is peace <lb/>and rest. You cannot at
+                            this time obtain this record, for <lb/>the commandment of God is strict, and
+                            if ever these sacred <lb/>things are obtained, they must be by prayer and
+                            faithfulness <lb/>in obeying the Lord. They are not deposited here for the
+                            <lb/>sake of accumulating gain and wealth for the glory of this <lb/>world; they
+                            were sealed by the prayer of faith, and because <lb/>of the knowledge which
+                            they contain, they are of no worth <lb/>among the children of men, only for
+                            their knowledge. On <lb/>them is contained the fulness of the gospel of Jesus
+                            Christ, <lb/>as it was given to his people on this land; and when it shall <lb/>be
+                            brought forth by the power of God, it shall be carried to <lb/>the Gentiles,
+                            of whom many will receive it, and after will <lb/>the seed of Israel be
+                            brought into the fold of their Re<lb/>deemer by obeying it also. Those who
+                            kept the command<lb/>ments of the Lord on this land, desired this at his
+                            hand, <lb/>and through the prayer of faith obtained the promise, that <pb xml:id="JSPPH1_d1e57103" type="present" n="10" facs="6554_84183-LIBR-88_010.jpg"/>
+                            if their descendants should transgress and fall away, that a <lb/>record
+                            should be kept, and in the last days come to their <lb/>children. These
+                            things are sacred, and must be kept so, <lb/>for the promise of the Lord
+                            concerning them must be fulfilled. <lb/>No man can obtain them if his heart
+                            is impure, because they <lb/>contain that which is sacred.” . . .<note xml:id="JSPPH1_d1e57110" type="editorial-footnote-text" pm:link-target-type="text">Ellipses in original. <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> here omits a fifty-five-word section of <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Cowdery</ref>’s
+                                letter. (<ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery, “Letter VIII,” <title>LDS Messenger and Advocate,</title> Oct. 1835, 2:198</ref><!-- [see also later version, p. 84 herein]-->.)</note> “By them will the <lb/>Lord work a great and
+                            marvellous work; the wisdom of the <lb/>wise shall become as nought, and the
+                            understanding of the <lb/>prudent shall be hid, and because the power of God
+                            shall <lb/>be displayed, those who profess to know the truth, but walk <lb/>in
+                            deceit, shall tremble with anger; but with signs and <lb/>with wonders, with
+                            gifts and with healings, with the mani<lb/>festations of the power of God,
+                            and with the Holy Ghost, <lb/>shall the hearts of the faithful be comforted.
+                            You have now <lb/>beheld the power of God manifested, and the power of Satan;
+                            <lb/>you see that there is nothing desirable in the works of dark<lb/>ness; that
+                            they cannot bring happiness; that those who are <lb/>overcome therewith are
+                            miserable; while, on the other hand, <lb/>the righteous are blessed with a
+                            place in the kingdom of God, <lb/>where joy unspeakable surrounds them. There
+                            they rest be<lb/>yond the power of the enemy of truth, where no evil can
+                            dis<lb/>turb them. The glory of God crowns them, and they conti<lb/>nually feast
+                            upon his goodness, and enjoy his smiles. Behold, <lb/>notwithstanding you
+                            have seen this great display of power, <lb/>by which you may ever be able to
+                            detect the evil one, yet <lb/>I give unto you another sign, and when it comes
+                            to pass <lb/>then know that the Lord is God, and that he will fulfil his
+                            <lb/>purposes, and that the knowledge which this record con<lb/>tains will go to
+                            every nation, and kindred, and tongue, and <lb/>people under the whole
+                            heaven. This is the sign: when <lb/>these things begin to be known, that is,
+                            when it is known <lb/>that the Lord has shown you these things, the workers
+                            of <lb/>iniquity will seek your overthrow. They will circulate false<lb/>hoods to
+                            destroy your reputation; and also will seek to take <lb/>your life; but
+                            remember this, if you are faithful, and shall <lb/>hereafter continue to keep
+                            the commandments of the Lord, <lb/>you shall be preserved to bring these
+                            things forth; for in due <lb/>time he will give you a commandment to come and
+                            take them. <lb/>When they are interpreted, the Lord will give the holy
+                            <lb/>priesthood to some, and they shall begin to proclaim this <lb/>gospel and
+                            baptize by water, and after that, they shall have <lb/>power to give the Holy
+                            Ghost by the laying on of their <pb xml:id="JSPPH1_d1e57136" type="present" n="11" facs="6554_84183-LIBR-88_011.jpg"/> hands. Then will persecution
+                            rage more and more; for <lb/>the iniquities of men shall be revealed, and
+                            those who are <lb/>not built upon the Rock will seek to overthrow the <lb/>church;
+                            but it will increase the more opposed, and spread <lb/>farther and farther,
+                            increasing in knowledge till they shall <lb/>be sanctified, and receive an
+                            inheritance where the glory of <lb/>God will rest upon them; and when this
+                            takes place, and <lb/>all things are prepared, the ten tribes of Israel will
+                            be re<lb/>vealed in the north country, whither they have been for a <lb/>long
+                            season; and when this is fulfilled will be brought to <lb/>pass that saying
+                            of the prophet,—‘And the Redeemer shall <lb/>come to Zion, and unto them
+                            that turn from transgression <lb/>in Jacob, saith the Lord.’<note xml:id="JSPPH1_d1e57138" type="editorial-footnote" pm:link-target-type="text">See Isaiah
+                                59:20.</note> But, notwithstanding the work<lb/>ers of iniquity shall
+                            seek your destruction, the arm of the <lb/>Lord will be extended, and you
+                            will be borne off conqueror <lb/>if you keep all his commandments. Your name
+                            shall be <lb/>known among the nations, for the work which the Lord <lb/>will
+                            perform by your hands shall cause the righteous to re<lb/>joice and the
+                            wicked to rage; with the one it shall be had <lb/>in honour, and with the
+                            other in reproach; yet, with these <lb/>it shall be a terror, because of the
+                            great and marvellous <lb/>work which shall follow the coming forth of this
+                            fulness of <lb/>the gospel. Now, go thy way, remembering what the <lb/>Lord has
+                            done for thee, and be diligent in keeping his <lb/>commandments, and he will
+                            deliver thee from temptations <lb/>and all the arts and devices of the wicked
+                            one. Forget <lb/>not to pray, that thy mind may become strong, that when <lb/>he
+                            shall manifest unto thee, thou mayest have power to <lb/>escape the evil, and
+                            obtain these precious things.”</p>
+                        <p xml:id="JSPPH1_d1e57145" rend="indent">We here remark, that the above quotation is an extract <lb/>from
+                            a letter written by Elder <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref>, which was <lb/>published in one of
+                            the numbers of the “Latter Day <lb/>Saints’ Messenger and Advocate.”<!--<note xml:id="JSPPH1_d1e57148" type="editorial-footnote" resp="W" pm:link-target-type="text" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">See 526n16 herein.</note>--></p>
+                        <p xml:id="JSPPH1_d1e57155" rend="indent">Although many more instructions
+                            were given by the <lb/>mouth of the angel to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref>, which we do not write <lb/>in this book, yet the
+                            most important items are contained <lb/>in the foregoing relation.
+                            During the period of the four <lb/>following years, he frequently
+                            received instruction from the <lb/>mouth of the heavenly messenger. And
+                                <hi rend="shading">on the morning <lb/>of the <date when-iso="1827-09-22">22d of September, <hi rend="small-caps">a.
+                                        d.</hi> 1827</date>, the angel of the Lord <lb/>delivered
+                                the records into his hands.</hi></p>
+                        <p xml:id="JSPPH1_d1e57161" rend="indent"><hi rend="shading">These records
+                                were engraved on plates, which had the <pb xml:id="JSPPH1_d1e57163" type="present" n="12" facs="6554_84183-LIBR-88_012.jpg"/>
+                                appearance of gold. Each plate was not far from seven by <lb/>eight
+                                inches in width and length, being not quite as thick <lb/>as common
+                                tin. They were filled on both sides with en<lb/>gravings, in
+                                Egyptian characters, and bound together in a <lb/>volume, as the
+                                leaves of a book, and fastened at one edge <lb/>with three rings
+                                running through the whole. This vo<lb/>lume was something near six
+                                inches in thickness, a part of <lb/>which was sealed. The characters
+                                or letters upon the un<lb/>sealed part were small, and beautifully
+                                engraved. The <lb/>whole book exhibited many marks of antiquity in
+                                its con<lb/>struction, as well as much skill in the art of
+                                engraving. <lb/>With the records was found “a curious instrument,
+                                called <lb/>by the ancients the Urim and Thummim, which consisted of
+                                <lb/>two transparent stones, clear as crystal, set in the two rims
+                                <lb/>of a bow.</hi> This was in use, in ancient times, by persons
+                            <lb/>called seers. It was an instrument, by the use of which, <lb/>they
+                            received revelation of things distant, or of things past <lb/>or
+                                future.”<note xml:id="JSPPH1_d1e57165" type="editorial-footnote" pm:link-target-type="text"> In this paragraph, <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> quotes from and paraphrases <ref target="X5660" pm:link-pointer-type="source">Parley P. Pratt, “Discovery of an
+                                    Ancient Record in America,” <title>LDS Millennial Star,</title>
+                                    June 1840, 1:30</ref>. Other similarities between the two works
+                                indicate that Orson Pratt relied on his brother <ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker">Parley</ref>’s article for his summary
+                                of the Book of Mormon.</note></p>
+                        <p xml:id="JSPPH1_d1e57193" rend="indent">In the mean time, the inhabitants of that vicinity, having
+                            <lb/>been informed that <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref> had seen heavenly visions, <lb/>and that he had
+                            discovered sacred records, began to ridicule <lb/>and mock at those things.
+                            And after having obtained <lb/>those sacred things, while proceeding home
+                            through the <lb/>wilderness and fields, he was waylaid by two ruffians, who
+                            <lb/>had secreted themselves for the purpose of robbing him of <lb/>the records.
+                            One of them struck him with a club before <lb/>he perceived them; but being a
+                            strong man, and large in <lb/>stature, with great exertion he cleared himself
+                            from them, <lb/>and ran towards home, being closely pursued until he came
+                            <lb/>near his <ref pm:link-pointer-type="person" target="per58" n="Smith, Joseph, Sr.">father</ref>’s house, when his pursuers, for fear of being <lb/>detected,
+                            turned and fled the other way.</p>
+                        <p xml:id="JSPPH1_d1e57196" rend="indent"><hi rend="shading">Soon the news
+                                of his discoveries spread abroad through<lb/>out all those parts.
+                                False reports, misrepresentations, and <lb/>base slanders, flew as
+                                if upon the wings of the wind in <lb/>every direction. The house was
+                                frequently beset by mobs <lb/>and evil designing persons. Several
+                                times he was shot at, <lb/>and very narrowly escaped. Every device
+                                was used to get <lb/>the plates away from him.</hi> And being
+                            continually in dan<lb/>ger of his life, from a gang of abandoned
+                            wretches, he at <lb/>length concluded to leave the place, and go to <ref pm:link-pointer-type="place" target="x5202" n="Pennsylvania">Pennsyl<lb/>vania</ref>; and, accordingly, packed up his goods,
+                            putting the <lb/>plates into a barrel of beans, and proceeded upon his
+                                jour<pb xml:id="JSPPH1_d1e57198" type="present" n="13" facs="6554_84183-LIBR-88_013.jpg"/>ney. He had not gone far, before
+                            he was overtaken by an <lb/>officer with a search-warrant, who flattered
+                            himself with the <lb/>idea, that he should surely obtain the plates;
+                            after search<lb/>ing very diligently, he was sadly disappointed at not
+                            finding <lb/>them. <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref> then drove on; but before he
+                            got to his <lb/>journey’s end, he was again overtaken by an officer on
+                            the <lb/>same business, and after ransacking the waggon very
+                            care<lb/>fully, he went his way, as much chagrined as the first, at not
+                            <lb/>being able to discover the object of his research. Without <lb/>any
+                            further molestation, he pursued his journey until he <lb/>came into the
+                            northern part of <ref pm:link-pointer-type="place" target="x5202" n="Pennsylvania">Pennsylvania</ref>, near the <ref pm:link-pointer-type="place" target="x5212" n="Susquehanna River">Sus<lb/>quehannah river</ref>, in which part his <ref pm:link-pointer-type="person" target="per54" n="Hale, Isaac">father-in-law</ref> resided.<note xml:id="JSPPH1_d1e57200" type="editorial-footnote" pm:link-target-type="text">In <date when-iso="1827-12">December 1827</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and <ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">Emma</ref> relocated to <ref pm:link-pointer-type="place" target="plc20" n="Harmony Township (now in Oakland Township), Susquehanna County, Pennsylvania">Harmony</ref>, Susquehanna County, Pennsylvania, where <ref pm:link-pointer-type="person" target="per54" n="Hale, Isaac">Isaac</ref> and <ref pm:link-pointer-type="person" target="per101" n="Hale, Elizabeth">Elizabeth Hale</ref>
+                                resided. (<ref target="X2675" pm:link-pointer-type="source">JS <ref pm:link-pointer-type="relatedDocument" target="x6547">History, ca. Summer 1832</ref>,
+                                5</ref><!--, p. 15 herein-->.)</note></p>
+                        <p xml:id="JSPPH1_d1e57216" rend="indent">Having provided himself with a
+                            home, <hi rend="shading">he commenced <lb/>translating the record, by
+                                the gift and power of God, <lb/>through the means of the Urim and
+                                Thummim;</hi> and being <lb/>a poor writer, he was under the
+                            necessity of employing a <lb/>scribe, to write the translation as it
+                            came from his mouth.</p>
+                        <p xml:id="JSPPH1_d1e57219" rend="indent">In the mean time, a few of the original characters were
+                            <lb/>accurately transcribed and translated by <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref>, which, <lb/>with the
+                            translation, were taken by a gentleman by the <lb/>name of <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Martin Harris</ref>, to
+                            the city of <ref pm:link-pointer-type="place" target="plc35" n="New York City, New York County, New York">New York</ref>, where <lb/>they were presented to a learned gentleman
+                            by the name <lb/>of <ref pm:link-pointer-type="person" target="x4326" n="Anthon, Charles"><supplied resp="Nathan Waite">Charles</supplied> Anthon</ref>, who professed to be extensively
+                            acquainted with <lb/>many languages, both ancient and modern. He examined
+                            <lb/>them; but was unable to decipher them correctly; but he <lb/>presumed, that
+                            if the original records could be brought, he <lb/>could assist in translating
+                                them.</p>
+                        <p xml:id="JSPPH1_d1e57226" rend="indent">But to return. <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref> continued the work of <lb/>translation,
+                            as his pecuniary circumstances would permit, <lb/>until he finished the
+                            unsealed part of the records. The part <lb/>translated is entitled the “Book
+                            of Mormon,” which con<lb/>tains nearly as much reading as the Old
+                                Testament.</p>
+                        <p xml:id="JSPPH1_d1e57230" rend="indent"><hi rend="shading">In this
+                                important and most interesting book, we can read <lb/>the history of
+                                ancient America, from its early settlement by <lb/>a colony who came
+                                from the tower of Babel, at the confu<lb/>sion of languages, to the
+                                beginning of the fifth century of <lb/>the Christian era. By these
+                                Records we are informed, <lb/>that America, in ancient times, has
+                                been inhabited by two <lb/>distinct races of people. The first, or
+                                more ancient race, <lb/>came directly from the great tower, being
+                                called Jaredites. <lb/>The second race came directly from the city
+                                of Jerusalem, <lb/>about six hundred years before Christ, being
+                                Israelites, <pb xml:id="JSPPH1_d1e57232" type="present" n="14" facs="6554_84183-LIBR-88_014.jpg"/> principally the descendants
+                                of Joseph. The first nation, or <lb/>Jaredites, were destroyed about
+                                the time that the Israelites <lb/>came from Jerusalem, who succeeded
+                                them in the inheri<lb/>tance of the country. The principal nation of
+                                the second <lb/>race, fell in battle towards the close of the fourth
+                                century. <lb/>The remaining remnant, having dwindled into an
+                                uncivi<lb/>lized state, still continue to inhabit the land, although
+                                di<lb/>vided into a “multitude of nations,” and are called by
+                                <lb/>Europeans the “American Indians.”</hi></p>
+                        <p xml:id="JSPPH1_d1e57236" rend="indent">We learn from this very ancient history, that at the
+                            <lb/>confusion of languages, when the Lord scattered the peo<lb/>ple upon all the
+                            face of the earth, the Jaredites, being a <lb/>righteous people, obtained
+                            favour in the sight of the Lord, <lb/>and were not confounded. And because of
+                            their right<lb/>eousness, the Lord miraculously led them from the tower <lb/>to
+                            the great ocean, where they were commanded to build <lb/>vessels, in which
+                            they were marvellously brought across <lb/>the great deep to the shores of
+                            North America.<note xml:id="JSPPH1_d1e57238" type="editorial-footnote" pm:link-target-type="text">The narrative of the Jaredite migration is found in <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 569–575, 578–579 [Ether 1:33–3:28, 6:2–12]</ref>.</note></p>
+                        <p xml:id="JSPPH1_d1e57287" rend="indent">And the Lord God promised to give them America, <lb/>which was a
+                            very choice land in his sight, for an inheri<lb/>tance. And He swore unto
+                            them in his wrath, that whoso <lb/>should possess this land of promise, from
+                            that time hence<lb/>forth and forever, should serve him, the true and only
+                            God, <lb/>or they should be swept off when the fulness of his wrath <lb/>should
+                            come upon them, and they were fully ripened in <lb/>iniquity. Moreover, he
+                            promised to make them a great <lb/>and powerful nation, so that there should
+                            be no greater <lb/>nation upon all the face of the earth.</p>
+                        <p xml:id="JSPPH1_d1e57290" rend="indent">Accordingly, in process of time, they became a very
+                            <lb/>numerous and powerful people, occupying principally <lb/>North America; building
+                            large cities in all quarters of the <lb/>land; being a civilized and
+                            enlightened nation. Agricul<lb/>ture and machinery were carried on to a great
+                            extent. <lb/>Commercial and manufacturing business flourished on every <lb/>hand;
+                            yet, in consequence of wickedness, they were often <lb/>visited with terrible
+                            judgments. Many prophets were raised <lb/>up among them from generation to
+                            generation, who testi<lb/>fied against the wickedness of the people, and
+                            prophesied <lb/>of judgments and calamities which awaited them, if they <lb/>did
+                            not repent, &amp;c. Sometimes they were visited by pes<lb/>tilence and
+                            plagues, and sometimes by famine and war, <lb/>until at length (having
+                            occupied the land some fifteen or <pb xml:id="JSPPH1_d1e57294" type="present" n="15" facs="6554_84183-LIBR-88_015.jpg"/> sixteen hundred years) their
+                            wickedness became so great, <lb/>that the Lord threatened, by the mouth of
+                            his prophets, to <lb/>utterly destroy them from the face of the land. But
+                            they <lb/>gave no heed to these warnings; therefore the word of the <lb/>Lord was
+                            fulfilled; and they were entirely destroyed; <lb/>leaving their houses, their
+                            cities, and their land desolate; <lb/>and their sacred records also, which
+                            were kept on gold <lb/>plates, were left by one of their last prophets whose
+                            name <lb/>was Ether, in such a situation, that they were discovered <lb/>by the
+                            remnant of Joseph, who soon afterwards were <lb/>brought from Jerusalem to
+                            inherit the land.<note xml:id="JSPPH1_d1e57298" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 602–604, 183, 159–160 [Ether 15; Mosiah 8:7–11;
+                                Omni 1:20–22]</ref>.</note></p>
+                        <p xml:id="JSPPH1_d1e57336" rend="indent">This remnant of Joseph were also led in a miraculous <lb/>manner
+                            from Jerusalem, in the first year of the reign of <lb/>Zedekiah, king of
+                            Judah. They were first led to the <lb/>eastern borders of the Red Sea; then
+                            they journeyed for <lb/>some time along the borders thereof, nearly in a
+                            south-east <lb/>direction; after which, they altered their course nearly
+                            <lb/>eastward, until they came to the great waters, where, by <lb/>the commandment
+                            of God, they built a vessel, in which <lb/>they were safely brought across
+                            the great Pacific ocean, <lb/>and landed upon the western coast of South
+                                America.<note xml:id="JSPPH1_d1e57338" type="editorial-footnote" pm:link-target-type="text">
+                                See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 42–43, 45–46, 51–53 [1 Nephi 16:12–14; 17:1–8; 18]</ref> for the account of these events.</note></p>
+                        <p xml:id="JSPPH1_d1e57380" rend="indent">In the eleventh year of the reign of Zedekiah, at the <lb/>time
+                            the Jews were carried away captive into Babylon, <lb/>another remnant were
+                            brought out of Jerusalem; some of <lb/>whom were descendants of Judah. They
+                            landed in North <lb/>America; soon after which they emigrated into the
+                            northern <lb/>parts of South America, at which place they were disco<lb/>vered by
+                            the remnant of Joseph, something like four hun<lb/>dred years after.<note xml:id="JSPPH1_d1e57382" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 159 [Omni
+                                1:13–17]</ref>.</note></p>
+                        <p xml:id="JSPPH1_d1e57397" rend="indent">From these ancient records, we learn, that this remnant <lb/>of
+                            Joseph, soon after they landed, separated themselves <lb/>into two distinct
+                            nations. This division was caused by a <lb/>certain portion of them being
+                            greatly persecuted, because <lb/>of their righteousness, by the remainder.
+                            The persecuted <lb/>nation emigrated towards the northern parts of South
+                            <lb/>America, leaving the wicked nation in possession of the <lb/>middle and
+                            southern parts of the same. The former were <lb/>called Nephites, being led
+                            by a prophet whose name was <lb/>Nephi. The latter were called Lamanites,
+                            being led by a <lb/>very wicked man whose name was Laman. The Nephites <lb/>had in
+                            their possession a copy of the Holy Scriptures, viz. <lb/>the five books of
+                            Moses, and the prophecies of the holy <pb xml:id="JSPPH1_d1e57399" type="present" n="16" facs="6554_84183-LIBR-88_016.jpg"/> prophets, down to
+                            Jeremiah, in whose days they left Jeru<lb/>salem. These Scriptures were
+                            engraved on plates of brass, <lb/>in the Egyptian language.<note xml:id="JSPPH1_d1e57401" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 163–164, 567 [Mosiah
+                                1:3–4; Mormon 9:32]</ref>.</note> They themselves also made <lb/>plates, soon
+                            after their landing, on which they began to <lb/>engrave their own history,
+                            prophecies, visions, and revela<lb/>tions. All these sacred records were kept
+                            by holy and <lb/>righteous men, who were inspired by the Holy Ghost; <lb/>and were
+                            carefully preserved and handed down from gene<lb/>ration to generation.</p>
+                        <p xml:id="JSPPH1_d1e57431" rend="indent">And the Lord gave unto them the whole continent, for <lb/>a land
+                            of promise, and he promised, that they, and their <lb/>children after them,
+                            should inherit it, on condition of <lb/>their obedience to his commandments;
+                            but if they were <lb/>disobedient, they should be cut off from his presence.
+                            And <lb/>the Nephites began to prosper in the land, according to <lb/>their
+                            righteousness, and they multiplied and spread forth to <lb/>the east, and
+                            west, and north; building large villages, and <lb/>cities, and synagogues,
+                            and temples, together with forts, <lb/>and towers, and fortifications, to
+                            defend themselves against <lb/>their enemies. And they cultivated the earth,
+                            and raised <lb/>various kinds of grain in abundance. They also raised
+                            <lb/>numerous flocks of domestic animals, and became a very <lb/>wealthy people;
+                            having in abundance gold, silver, copper, <lb/>tin, iron, &amp;c. Arts
+                            and sciences flourished to a great ex<lb/>tent. Various kinds of machinery
+                            were in use. Cloths, <lb/>of various kinds, were manufactured. Swords,
+                            cimeters, <lb/>axes, and various implements of war were made, together <lb/>with
+                            head-shields, arm-shields, and breastplates, to defend <lb/>themselves in
+                            battle with their enemies. And in the days <lb/>of their righteousness, they
+                            were a civilized, enlightened, <lb/>and happy people.</p>
+                        <p xml:id="JSPPH1_d1e57434" rend="indent">But, on the other hand, the Lamanites, because of the
+                            <lb/>hardness of their hearts, brought down many judgments <lb/>upon their own
+                            heads; nevertheless, they were not destroy<lb/>ed as a nation; but the Lord
+                            God sent forth a curse upon <lb/>them, and they became a dark, loathsome, and
+                            filthy people. <lb/>Before their rebellion, they were white and exceedingly
+                            <lb/>fair, like the Nephites; but the Lord God cursed them in <lb/>their
+                            complexions, and they were changed to a dark <lb/>colour; and they became a
+                            wild, savage, and ferocious peo<lb/>ple; being great enemies to the Nephites,
+                            whom they <lb/>sought, by every means, to destroy, and many times came <pb xml:id="JSPPH1_d1e57436" type="present" n="17" facs="6554_84183-LIBR-88_017.jpg"/> against them, with their numerous hosts to battle, but <lb/>were repulsed
+                            by the Nephites, and driven back to their <lb/>own possessions, not, however,
+                            generally speaking, with<lb/>out great loss on both sides; for tens of
+                            thousands were <lb/>very frequently slain, after which they were piled
+                            together <lb/>in great heaps upon the face of the ground, and covered <lb/>with a
+                            shallow covering of earth, which will satisfactorily <lb/>account for those
+                            ancient mounds, filled with human bones, <lb/>so numerous at the present day,
+                            both in North and South <lb/>America.</p>
+                        <p xml:id="JSPPH1_d1e57440" rend="indent">The second colony, which left Jerusalem eleven years <lb/>after
+                            the remnant of Joseph left that city, landed in North <lb/>America, and
+                            emigrated from thence, to the northern parts <lb/>of South America; and about
+                            four hundred years after, <lb/>they were discovered by the Nephites, as we
+                            stated in the <lb/>foregoing.</p>
+                        <p xml:id="JSPPH1_d1e57443" rend="indent">They were called the people of Zarahemla. They had <lb/>been
+                            perplexed with many wars among themselves; and <lb/>having brought no records
+                            with them, their language had <lb/>become corrupted, and they denied the
+                            being of God; and <lb/>at the time they were discovered by the Nephites they
+                            were <lb/>very numerous, and only in a partial state of civilization; <lb/>but the
+                            Nephites united with them, and taught them the <lb/>Holy Scriptures, and they
+                            were restored to civilization, <lb/>and became one nation with them.<note xml:id="JSPPH1_d1e57445" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 159 [Omni
+                                1:13–19]</ref>.</note> And in process of time, <lb/>the Nephites began to build
+                            ships near the Isthmus of <lb/>Darien, and launch them forth into the western ocean, in <lb/>which great
+                            numbers sailed a great distance to the north<lb/>ward, and began to colonize
+                            North America.<note xml:id="JSPPH1_d1e57462" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 429 [Alma 63:5–9]</ref>. <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Pratt</ref> here associates the “narrow neck” mentioned in the Book of Mormon with the Isthmus of Darien or Panama.</note> Other colonies <lb/>emigrated by land, and in a
+                            few centuries the whole conti<lb/>nent became peopled. North America, at that
+                            time, was <lb/>almost entirely destitute of timber, it having been cut off <lb/>by
+                            the more ancient race, who came from the great tower, <lb/>at the confusion
+                            of languages; but the Nephites became <lb/>very skilful in building houses of
+                            cement; also, much tim<lb/>ber was carried by the way of shipping from South
+                            to North <lb/>America. They also planted groves and began to raise <lb/>timber,
+                            that in time their wants might be supplied. Large <lb/>cities were built in
+                            various parts of the continent, both <lb/>among the Lamanites and Nephites.
+                            The law of Moses <lb/>was observed by the latter. Numerous prophets were
+                            <lb/>raised up from time to time throughout their generations. <pb xml:id="JSPPH1_d1e57480" type="present" n="18" facs="6554_84183-LIBR-88_018.jpg"/> Many
+                            records, both historical and prophetical, which were <lb/>of great size, were
+                            kept among them; some on plates of <lb/>gold and other metals, and some on
+                            other materials. The <lb/>sacred records, also, of the more ancient race who
+                            had been <lb/>destroyed, were found by them. These were engraved on <lb/>plates of
+                            gold. They translated them into their own lan<lb/>guage by the gift and power
+                            of God, through the means of <lb/>the Urim and Thummim. They contained an
+                            historical <lb/>account from the creation down to the Tower of Babel, and
+                            <lb/>from that time down until they were destroyed, comprising <lb/>a period of
+                            about thirty-four hundred, or thirty-five hun<lb/>dred years. They also
+                            contained many prophecies, great <lb/>and marvellous, reaching forward to the
+                            final end and con<lb/>summation of all things, and the creation of the new
+                            heaven <lb/>and new earth.</p>
+                        <p xml:id="JSPPH1_d1e57483" rend="indent">The prophets also among the Nephites prophesied of <lb/>great
+                            things. They opened the secrets of futurity, and saw <lb/>the coming of
+                            Messiah in the flesh, and prophesied of the <lb/>blessings to come upon their
+                            descendants in the latter times, <lb/>and made known the history of unborn
+                            generations, and un<lb/>folded the grand events of ages to come, and viewed
+                            the <lb/>power, and glory, and majesty of Messiah’s second advent, <lb/>and beheld
+                            the establishment of the kingdom of peace, and <lb/>gazed upon the glories of
+                            the day of righteousness, and saw <lb/>creation redeemed from the curse, and
+                            all the righteous <lb/>filled with songs of everlasting joy.</p>
+                        <p xml:id="JSPPH1_d1e57486" rend="indent">The Nephites knew of the birth and crucifixion of <lb/>Christ,
+                            by certain celestial and terrestrial phenomena, which, <lb/>at those times,
+                            were shown forth in fulfilment of the pre<lb/>dictions of many of their
+                            prophets. Notwithstanding the <lb/>many blessings with which they had been
+                            blessed, they had <lb/>fallen into great wickedness, and had cast out the
+                            saints <lb/>and the prophets, and stoned and killed them. Therefore, <lb/>at the
+                            time of the crucifixion of Christ, they were visited <lb/>in great judgment.
+                            Thick darkness covered the whole con<lb/>tinent. The earth was terribly
+                            convulsed. The rocks <lb/>were rent into broken fragments, and afterwards
+                            found in <lb/>seams and cracks upon all the face of the land. Mountains <lb/>were
+                            sunk into valleys, and valleys raised into mountains. <lb/>The highways and
+                            level roads were broken up and spoiled. <lb/>Many cities were laid in ruins.
+                            Others were buried up in <lb/>the depths of the earth, and mountains occupied
+                            their place. <pb xml:id="JSPPH1_d1e57488" type="present" n="19" facs="6554_84183-LIBR-88_019.jpg"/> While others were sunk, and waters came up in their
+                            stead, <lb/>and others still were burned by fire from heaven.<note xml:id="JSPPH1_d1e57490" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 496–498 [3 Nephi 8]</ref>.</note></p>
+                        <p xml:id="JSPPH1_d1e57513" rend="indent">Thus, the predictions of their prophets were fulfilled upon
+                            <lb/>their heads. Thus, the more wicked part, both of the <lb/>Nephites and
+                            Lamanites, were destroyed. Thus, the <lb/>Almighty executed vengeance and
+                            fury upon them, that the <lb/>blood of the saints and prophets might no
+                            longer cry from <lb/>the ground against them.</p>
+                        <p xml:id="JSPPH1_d1e57516" rend="indent">Those who survived these terrible judgments, were fa<lb/>voured
+                            with the personal ministry of Christ. For after He <lb/>arose from the dead,
+                            and finished his ministry at Jerusalem, <lb/>and ascended to heaven, he
+                            descended in the presence of <lb/>the Nephites, who were assembled round
+                            about their tem<lb/>ple in the northern parts of South America. He exhibited
+                            <lb/>to them his wounded hands, and side, and feet; and com<lb/>manded the law of
+                            Moses to be abolished; and introduced <lb/>and established the Gospel in its
+                            stead; and chose twelve <lb/>disciples from among them to administer the
+                            same; and <lb/>instituted the sacrament; and prayed for and blessed their
+                            <lb/>little children; and healed their sick, and blind, and lame, <lb/>and deaf,
+                            and those who were afflicted in any way, and <lb/>raised a man from the dead,
+                            and showed forth his power in <lb/>their midst; and expounded the Scriptures,
+                            which had been <lb/>given from the beginning down to that time; and made
+                            <lb/>known unto them all things which should take place down <lb/>until He should
+                            come in his glory, and from that time down <lb/>to the end, when all people,
+                            nations, and languages should <lb/>stand before God to be judged, and the
+                            heaven and the <lb/>earth should pass away, and there should be a new heaven
+                            <lb/>and new earth. These teachings of Jesus were engraved <lb/>upon plates, some
+                            of which are contained in the book of <lb/>Mormon; but the more part are not
+                            revealed in that book, <lb/>but are hereafter to be made manifest to the
+                                saints.<note xml:id="JSPPH1_d1e57518" type="editorial-footnote" pm:link-target-type="text">
+                                See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed.,  502–540 [3 Nephi 11–28]</ref>, for the account of the visitation and ministry
+                                of Christ to the people of the Book of Mormon.</note></p>
+                        <p xml:id="JSPPH1_d1e57543" rend="indent">After Jesus had finished ministering unto them, he <lb/>ascended
+                            into heaven; and the twelve disciples, whom he <lb/>had chosen, went forth
+                            upon all the face of the land, preach<lb/>ing the gospel; baptizing those who
+                            repented for the re<lb/>mission of sins, after which they laid their hands
+                            upon them, <lb/>that they might receive the Holy Spirit. Mighty miracles <lb/>were
+                            wrought by them, and also by many of the church. <lb/>The Nephites and
+                            Lamanites were all converted unto the <lb/>Lord, both in South and North
+                            America: and they dwelt <pb xml:id="JSPPH1_d1e57545" type="present" n="20" facs="6554_84183-LIBR-88_020.jpg"/> in righteousness above three hundred
+                            years; but towards <lb/>the close of the fourth century of the Christian era,
+                            they had <lb/>so far apostatized from God, that he suffered great judg<lb/>ments
+                            to fall upon them. The Lamanites, at
+                            that time, <lb/>dwelt in South America, and the Nephites in North
+                            <lb/>America.</p>
+                        <p xml:id="JSPPH1_d1e57550" rend="indent">A great and terrible war commenced between them, which
+                            <lb/>lasted for many years, and resulted in the complete over<lb/>throw and
+                            destruction of the Nephites. This war com<lb/>menced at the Isthmus of
+                            Darien, and was very destructive <lb/>to both nations for many years. At
+                            length, the Nephites <lb/>were driven before their enemies, a great distance
+                            to the <lb/>north, and north-east; and having gathered their whole <lb/>nation
+                            together, both men, women, and children, they en<lb/>camped on, and round
+                            about the hill Cumorah, where the <lb/>records were found, which is in the
+                            State of <ref pm:link-pointer-type="place" target="plc96" n="New York">New York</ref>, <lb/>about two hundred miles west of the city of <ref pm:link-pointer-type="place" target="x7432" n="Albany, Albany County, New York">Albany</ref>.
+                            Here <lb/>they were met by the numerous hosts of the Lamanites, <lb/>and were
+                            slain, and hewn down, and slaughtered, both male <lb/>and female—the aged,
+                            middle aged, and children. Hun<lb/>dreds of thousands were slain on both
+                            sides; and the nation <lb/>of the Nephites were destroyed, excepting a few
+                            who had de<lb/>serted over to the Lamanites, and a few who escaped into <lb/>the
+                            south country, and a few who fell wounded, and were <lb/>left by the
+                            Lamanites on the field of battle for dead, among <lb/>whom were Mormon and
+                            his son Moroni, who were right<lb/>eous men.<note xml:id="JSPPH1_d1e57552" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 558–559 [Mormon 6]</ref>.
+                            </note></p>
+                        <p xml:id="JSPPH1_d1e57574" rend="indent">Mormon had made an abridgement, from the records of <lb/>his
+                            forefathers, upon plates, which abridgement he entitled <lb/>the “Book of
+                            Mormon;” and, (being commanded of God,) <lb/>he hid up in the hill Cumorah,
+                            all the sacred records of his <lb/>forefathers which were in his possession,
+                            except the abridge<lb/>ment called the “Book of Mormon,” which he gave to his
+                            <lb/>son Moroni to finish. Moroni survived his nation a few <lb/>years, and
+                            continued the writings, in which he informs us, <lb/>that the Lamanites
+                            hunted those few Nephites who escaped <lb/>the great and tremendous battle of
+                            Cumorah, until they <lb/>were all destroyed, excepting those who were mingled
+                            <lb/>with the Lamanites, and that he was left alone, and kept <lb/>himself hid,
+                            for they sought to destroy every Nephite who <lb/>would not deny the Christ.
+                            He furthermore states, that <lb/>the Lamanites were at war one with another,
+                            and that the <pb xml:id="JSPPH1_d1e57576" type="present" n="21" facs="6554_84183-LIBR-88_021.jpg"/> whole face of the land was one continual scene of
+                            murdering, <lb/>robbing, and plundering.<note xml:id="JSPPH1_d1e57578" type="editorial-footnote" pm:link-target-type="text">See <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 561–562, 605 [Mormon 8:1–14; Moroni 1:1–3]</ref>.</note> He continued the history until <lb/>the four hundred
+                            and twentieth year of the Christian era, <lb/>when, (by the commandment of
+                            God,) he hid up the records <lb/>in the hill Cumorah, where they remained
+                            concealed, until <lb/>by the ministry of an angel they were discovered to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr
+                            <lb/>Smith</ref>, who, by the gift and power of God, translated them <lb/>into the
+                            English language, by the means of the Urim and <lb/>Thummim, as stated in the
+                            foregoing.</p>
+                        <p xml:id="JSPPH1_d1e57606" rend="indent">After the book was translated, the Lord raised up wit<lb/>nesses
+                            to bear testimony to the nations of its truth, who, <lb/>at the close of the
+                            volume, send forth their testimony, <lb/>which reads as follows:—</p>
+                        <note xml:id="JSPPH1_d1e57610" type="formatting-note" resp="RES" pm:link-target-type="text">The following two testimonies should be blocked, with extra leading before the first testimony, between the two testimonies, and after the second testimony.</note><floatingText xml:id="XAD1BB603-0AFA-4E8D-AF74-26693B38D1B0"><body><p xml:id="JSPPH1_d1e57612" rend="center">TESTIMONY OF THREE WITNESSES.</p>
+                        <p xml:id="JSPPH1_d1e57615" rend="indent">“Be it known unto all nations, kindreds, tongues, and
+                            people, <lb/>unto whom this work shall come, that we, through the grace of
+                            God <lb/>the Father, and our Lord Jesus Christ, have seen the plates which
+                            <lb/>contain this record, which is a record of the people of Nephi, and <lb/>also
+                            of the Lamanites, their brethren, and also of the people of Jared, <lb/>who
+                            came from the tower of which hath been spoken; and we also <lb/>know that
+                            they have been translated by the gift and power of God, <lb/>for his voice
+                            hath declared it unto us; wherefore we know of a sure<lb/>ty, that the work
+                            is true. And we also testify that we have seen <lb/>the engravings which are
+                            upon the plates; and they have been shown <lb/>unto us by the power of God,
+                            and not of man. And we declare, <lb/>with words of soberness, that an angel
+                            of God came down from <lb/>heaven, and he brought and laid before our eyes,
+                            that we beheld and <lb/>saw the plates, and the engravings thereon; and we
+                            know that it is <lb/>by the grace of God the Father, and our Lord Jesus
+                            Christ, that we <lb/>beheld and bear record that these things are true; and
+                            it is marvel<lb/>lous in our eyes, nevertheless, the voice of the Lord
+                            commanded us <lb/>that we should bear record of it; wherefore, to be obedient
+                            unto <lb/>the commandments of God, we bear testimony of these things. And <lb/>we
+                            know that if we are faithful in Christ, we shall rid our gar<lb/>ments of the
+                            blood of all men, and be found spotless before the judg<lb/>ment seat of
+                            Christ, and shall dwell with him eternally in the hea<lb/>vens. And the
+                            honour be to the Father, and to the Son, and to the <lb/>Holy Ghost, which is
+                            one God. Amen.</p>
+                        <note type="formatting-note" resp="NNW" pm:link-target-type="text" xml:id="X5A40EB6B-7F5D-436E-80FD-AF9A1C344D42">Unless it goes against policy, the following signatures should be left aligned on the right side of the page</note><p xml:id="JSPPH1_d1e57618" rend="right"><ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">OLIVER COWDERY</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57621" rend="right"><ref pm:link-pointer-type="person" target="per69" n="Whitmer, David">DAVID WHITMER</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57624" rend="right"><ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">MARTIN HARRIS</ref>.” <pb xml:id="JSPPH1_d1e57628" type="present" n="22" facs="6554_84183-LIBR-88_022.jpg"/></p>
+                        </body></floatingText><note xml:id="JSPPH1_d1e57631" type="formatting-note" resp="RES" pm:link-target-type="text">extra leading here; blocking continues.</note><floatingText xml:id="X63EDB6C5-00E8-4B77-9BD3-530D39E4B169"><body><p xml:id="JSPPH1_d1e57633" rend="center">AND ALSO THE TESTIMONY OF EIGHT WITNESSES.</p>
+                        <p xml:id="JSPPH1_d1e57636" rend="indent">“Be it known unto all nations, kindreds, tongues, and
+                            people, <lb/>unto whom this work shall come, that <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Joseph Smith, Jr.</ref> the
+                            trans<lb/>lator of this work, has shown unto us the plates of which hath been
+                            <lb/>spoken, which have the appearance of gold; and as many of the <lb/>leaves as
+                            the said <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Smith</ref> has translated, we did handle with our <lb/>hands: and we also
+                            saw the engravings thereon, all of which has the <lb/>appearance of ancient
+                            work, and of curious workmanship. And this <lb/>we bear record with words of
+                            soberness, that the said <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Smith</ref> has <lb/>shown unto us, for we have seen and
+                            hefted, and know of a surety, <lb/>that the said <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Smith</ref> has got the plates of
+                            which we have spoken. And <lb/>we give our names unto the world, to witness
+                            unto the world that <lb/>which we have seen; and we lie not, God bearing
+                            witness of it.</p>
+                        <note type="formatting-note" resp="NNW" pm:link-target-type="text" xml:id="X5A40EB6B-7F5D-436E-80FD-AF9A1C344D42">Unless it goes against policy, the following signatures should be left aligned on the right side of the page</note><p xml:id="JSPPH1_d1e57639" rend="right"><ref pm:link-pointer-type="person" target="per85" n="Whitmer, Christian">CHRISTIAN WHITMER</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57642" rend="right"><ref pm:link-pointer-type="person" target="x4421" n="Whitmer, Jacob">JACOB WHITMER</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57645" rend="right"><ref pm:link-pointer-type="person" target="per71" n="Whitmer, Peter, Jr.">PETER WHITMER, <hi rend="small-caps">Jr.</hi></ref></p>
+                        <p xml:id="JSPPH1_d1e57651" rend="right"><ref pm:link-pointer-type="person" target="per70" n="Whitmer, John">JOHN WHITMER</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57654" rend="right"><ref pm:link-pointer-type="person" target="x4612" n="Page, Hiram">HIRAM PAGE</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57657" rend="right"><ref pm:link-pointer-type="person" target="per58" n="Smith, Joseph, Sr.">JOSEPH SMITH, <hi rend="small-caps">Sen.</hi></ref></p>
+                        <p xml:id="JSPPH1_d1e57662" rend="right"><ref pm:link-pointer-type="person" target="per66" n="Smith, Hyrum">HYRUM SMITH</ref>,</p>
+                        <p xml:id="JSPPH1_d1e57665" rend="right"><ref pm:link-pointer-type="person" target="per65" n="Smith, Samuel Harrison">SAMUEL H. SMITH</ref>.”<note xml:id="JSPPH1_d1e57668" type="editorial-footnote" pm:link-target-type="text">The statements of the three and eight
+                                witnesses found here match the versions in the second edition of the Book of Mormon. (<ref target="X5294-37" pm:link-pointer-type="source">“Testimony of Three Witnesses” and “Testimony of Eight Witnesses,” in Book of Mormon, 1837 ed., [620]–[621]</ref>.)</note></p>
+                        <note xml:id="JSPPH1_d1e57676" type="formatting-note" resp="RES" pm:link-target-type="text">extra leading here; end blocking.</note></body></floatingText><p xml:id="JSPPH1_d1e57679" rend="indent">Also, in the year <date when-iso="1829">1829</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref> and <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Mr Cowdery</ref>, <lb/>having
+                            learned the correct mode of baptism, from the <lb/>teachings of the Saviour
+                            to the ancient Nephites, as recorded <lb/>in the “Book of Mormon,” had a
+                            desire to be baptized; <lb/>but knowing that no one had authority to
+                            administer that <lb/>sacred ordinance in any denomination, they were at a
+                            loss <lb/>to know how the authority was to be restored, and while <lb/>calling
+                            upon the Lord with a desire to be informed on the <lb/>subject, a holy angel
+                            appeared and stood before them, and <lb/>laid his hands upon their heads, and
+                            ordained them, and <lb/>commanded them to baptize each other, which they
+                            accord<lb/>ingly did.<note xml:id="JSPPH1_d1e57681" type="editorial-footnote" pm:link-target-type="text">According to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>, the
+                                angel identified himself as John the Baptist. (<ref target="X0029" pm:link-pointer-type="source">JS History, vol. A-1, <ref pm:link-pointer-type="text" target="X7CA2F012-B882-4EF3-AE07-C7FF6D5A1E45">18</ref></ref><!--, p. 294 herein [Draft 2]-->.)</note></p>
+                        <p xml:id="JSPPH1_d1e57689" rend="indent">In the year <date when-iso="1830">1830</date>, a large edition of the “<ref pm:link-pointer-type="relatedDocument" target="X6816">Book of Mor<lb/>mon</ref>”
+                            first appeared in print. And as some began to peruse <lb/>its sacred pages,
+                            the spirit of the Lord bore record to them <lb/>that it was true; and they
+                            were obedient to its requirements, <lb/>by coming forth, humbly repenting
+                            before the Lord, and <lb/>being immersed in water, for the remission of sins,
+                            after <lb/>which, by the commandment of God, hands were laid upon <lb/>them in the
+                            name of the Lord, for the gift of the Holy <lb/>Spirit.</p>
+                        <p xml:id="JSPPH1_d1e57692" rend="indent"><hi rend="shading">And on the
+                                    <date when-iso="1830-04-06">sixth of April, in the year of our
+                                    Lord one <lb/>thousand eight hundred and thirty</date>, the
+                                “Church of Jesus <lb/>Christ of Latter Day Saints” was organized, in
+                                the town <pb xml:id="JSPPH1_d1e57694" type="present" n="23" facs="6554_84183-LIBR-88_023.jpg"/> of <ref pm:link-pointer-type="place" target="plc15" n="Manchester Township, Ontario County, New York">Manchester</ref>, Ontario County, State of New York, North
+                                <lb/>America.<!--<note xml:id="JSPPH1_d1e57699" type="editorial-footnote" pm:link-target-type="text" xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">On the name of the church and the location of its organizational meeting, see this 496n21 herein.</note>-->
+                                Some few were called and ordained by the <lb/>spirit of revelation
+                                and prophecy, and began to preach and <lb/>bear testimony, as the
+                                spirit gave them utterance; and <lb/>although they were the weak
+                                things of the earth, yet they <lb/>were strengthened by the Holy
+                                Ghost, and gave forth their <lb/>testimony in great power, by which
+                                means many were <lb/>brought to repentance, and came forward with
+                                broken hearts <lb/>and contrite spirits, and were immersed in water
+                                confessing <lb/>their sins, and were filled with the Holy Ghost by
+                                the lay<lb/>ing on of hands; and saw visions and prophesied. Devils
+                                <lb/>were cast out, and the sick were healed by the prayer of
+                                <lb/>faith, and laying on of hands.</hi> Thus was the word
+                            con<lb/>firmed unto the faithful by signs following. Thus the Lord
+                            <lb/>raised up witnesses, to bear testimony of his name, and lay
+                            <lb/>the foundation of his kingdom in the last days. And thus <lb/>the
+                            hearts of the saints were comforted, and filled with great <lb/>joy. In
+                            the foregoing, we have related the most important <lb/>facts concerning
+                            the visions and the ministry of the angel <lb/>to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Mr Smith</ref>; the discovery of the records; their
+                            transla<lb/>tion into the English language, and the witnesses raised up
+                            <lb/>to bear testimony of the same.</p>
+                        <p xml:id="JSPPH1_d1e57708" rend="indent">We have also stated when, and by whom they were writ<lb/>ten;
+                            that they contain the history of nearly one-half of <lb/>the globe, from the
+                            earliest ages after the flood, until the <lb/>beginning of the fifth century
+                            of the Christian era; that this <lb/>history is interspersed with many
+                            important prophecies, <lb/>which unfold the great events of the last days,
+                            and that in <lb/>it also is recorded the gospel in its fulness and plainness,
+                            as <lb/>it was revealed by the personal ministry of Christ to the <lb/>ancient
+                            Nephites. We have also given an account of the <lb/>restoration of the
+                            authority in these days, to administer in <lb/>the ordinances of the gospel;
+                            and of the time of the organi<lb/>zation of the church; and of the blessings
+                            poured out upon <lb/><supplied resp="Nathan Waite">t</supplied>he same while yet<note xml:id="JSPPH1_d1e57714" type="internal-note" resp="W" pm:link-target-type="text">This has been standardized. The original reads “wh ileyet”</note> in its infancy.</p>
+                        <p xml:id="JSPPH1_d1e57719" rend="indent">We now proceed to give a sketch of the faith and doc<lb/>trine
+                            of this Church.<note xml:id="JSPPH1_d1e57721" type="editorial-footnote" pm:link-target-type="text">Compare this list of beliefs with the
+                                list in <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s “<ref pm:link-pointer-type="relatedDocument" target="x778">Church History</ref>” that became known as the Articles of
+                                Faith<!--, pp. 500–501 herein-->. <ref pm:link-pointer-type="person" target="per123" n="Pratt, Orson">Orson Pratt</ref> expanded on a list of church beliefs already published by <ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker">Parley P. Pratt</ref>. (See <ref target="XB069" pm:link-pointer-type="source">Pratt and Higbee, <title>An Address . . . to the Citizens of Washington,</title></ref>; compare <ref target="X980D" pm:link-pointer-type="source">Pratt, <title>Late Persecution of the Church,</title> iii–xii</ref>.)</note></p>
+                        <p xml:id="JSPPH1_d1e57745" rend="indent">First, <hi rend="shading">We
+                                believe in God the Eternal Father, and in <lb/>his Son Jesus Christ,
+                                and in the Holy Ghost,</hi> who bears <lb/>record of them, the same
+                            throughout all ages and for ever.</p>
+                        <p xml:id="JSPPH1_d1e57749" rend="indent"><hi rend="shading">We believe that
+                                all mankind, by the transgression of their <lb/>first parents, and
+                                not by their own sins,</hi> were brought un<pb xml:id="JSPPH1_d1e57751" type="present" n="24" facs="6554_84183-LIBR-88_024.jpg"/>der the curse and penalty of that
+                            transgression, which con<lb/>signed them to an eternal banishment from
+                            the presence of <lb/>God, and their bodies to an endless sleep in the
+                            dust, never <lb/>more to rise, and their spirits to endless misery under
+                            the <lb/>power of Satan; and that, in this awful condition, they
+                            <lb/>were utterly lost and fallen, and had no power of their own <lb/>to
+                            extricate themselves therefrom.</p>
+                        <p xml:id="JSPPH1_d1e57754" rend="indent"><hi rend="shading">We believe,
+                                that through the sufferings, death, and <lb/>atonement of Jesus
+                                Christ, all mankind, without one ex<lb/>ception, are to be
+                                completely, and fully redeemed, both <lb/>body and spirit, from the
+                                endless banishment and curse, to <lb/>which they were consigned, by
+                                Adam’s transgression;</hi> and <lb/>that this universal salvation
+                            and redemption of the whole <lb/>human family from the endless penalty
+                            of the original sin, <lb/>is effected, without any conditions whatsoever
+                            on their <lb/>part; that is, that they are not required to believe, or
+                            re<lb/>pent, or be baptized, or do any thing else, in order to be
+                            <lb/>redeemed from that penalty; for whether they believe or
+                            <lb/>disbelieve, whether they repent or remain impenitent, whe<lb/>ther
+                            they are baptized or unbaptized, whether they keep <lb/>the commandments
+                            or break them, whether they are <lb/>righteous or unrighteous, it will
+                            make no difference in re<lb/>lation to their redemption, both soul and
+                            body, from the <lb/>penalty of Adam’s transgression. The most righteous
+                            man <lb/>that ever lived on the earth, and the most wicked wretch
+                            <lb/>of the whole human family, were both placed under the <lb/>same
+                            curse, without any transgression or agency of their own, <lb/>and they
+                            both, alike, will be redeemed from that curse, <lb/>without any agency
+                            or conditions on their part. Paul says, <lb/>Rom. v. 18, “Therefore, as
+                            by the offence of one, judg<lb/>ment came upon <hi rend="small-caps">all</hi>
+                            <hi rend="italic">men</hi> to condemnation; even so, by <lb/>the
+                            righteousness of one, the free gift came upon <hi rend="small-caps">all</hi>
+                            <hi rend="italic">men</hi>
+                            <lb/>unto the justification of life.” This is the reason, why <hi rend="small-caps">all</hi>
+                            <lb/><hi rend="italic">men</hi> are redeemed from the grave. This is the
+                            reason, that <lb/>the spirits of <hi rend="small-caps">all</hi>
+                            <hi rend="italic">men</hi> are restored to their bodies. This <lb/>is
+                            the reason that <hi rend="small-caps">all</hi>
+                            <hi rend="italic">men</hi> are redeemed from their first
+                            <lb/>banishment, and restored into the presence of God, and <lb/>this is
+                            the reason that the Saviour said, John xii. 32, “If <lb/>I be lifted up
+                            from the earth I will draw <hi rend="small-caps">all</hi>
+                            <hi rend="italic">men</hi> unto <lb/>me.” After this full, complete, and
+                            universal redemption, <lb/>restoration, and salvation of the whole of
+                            Adam’s race, <lb/>through the atonement of Jesus Christ, without faith,
+                                re<pb xml:id="JSPPH1_d1e57796" type="present" n="25" facs="6554_84183-LIBR-88_025.jpg"/>pentance, baptism, or any other
+                            works, then, all and every <lb/>one of them, will enjoy eternal life and
+                            happiness, never <lb/>more to be banished from the presence of God, <hi rend="small-caps">if</hi>
+                            <hi rend="italic">they <lb/>themselves have committed no sin:</hi> for
+                            the penalty of the <lb/>original sin can have no more power over them at
+                            all, for <lb/>Jesus hath destroyed its power, and broken the bands of
+                            <lb/>the first death, and obtained the victory over the grave, <lb/>and
+                            delivered all its captives, and restored them from their <lb/>first
+                            banishment into the presence of his Father; hence <lb/>eternal life will
+                            then be theirs, <hi rend="small-caps">if</hi>
+                            <hi rend="italic">they themselves are not <lb/>found transgressors of
+                                some law</hi>.</p>
+                        <p xml:id="JSPPH1_d1e57812" rend="indent">We believe that all mankind, in their infant state, are
+                            <lb/>incapable of knowing good and evil, and of obeying or dis<lb/>obeying a law,
+                            and that, therefore, there is no law given to <lb/>them, and that where there
+                            is no law, there is no trans<lb/>gression; hence they are innocent, and if
+                            they should all <lb/>die in their infant state, they would enjoy eternal
+                            life, not <lb/>being transgressors themselves, neither accountable for <lb/>Adam’s
+                            sin.</p>
+                        <p xml:id="JSPPH1_d1e57815" rend="indent">We believe that all mankind, in consequence of the fall,
+                            <lb/>after they grow up from their infant state, and come to the <lb/>years of
+                            understanding, know good and evil, and are capa<lb/>ble of obeying or
+                            disobeying a law, and that a law is given <lb/>against doing evil, and that
+                            the penalty affixed is a second <lb/>banishment from the presence of God,
+                            both body and spirit, <lb/><hi rend="italic">after</hi> they have been
+                            redeemed from the <hi rend="small-caps">first</hi> <hi rend="italic">banishment</hi> <lb/>and restored
+                            into his presence.</p>
+                        <p xml:id="JSPPH1_d1e57827" rend="indent">We believe, that the penalty of this second law can <lb/>have no
+                            effect upon persons who have not had the privi<lb/>lege, in this life, of
+                            becoming acquainted therewith; for <lb/>although the light that is in them,
+                            teaches them good and <lb/>evil, yet that light does not teach them the law
+                            against <lb/>doing evil, nor the penalty thereof. And although they <lb/>have done
+                            things worthy of many stripes, yet the law can<lb/>not be brought to bear
+                            against them, and its penalty be in<lb/>flicted, because they can plead
+                            ignorance thereof. There<lb/>fore they will be judged, not by the revealed
+                            law which <lb/>they have been ignorant of, but by the law of their
+                            con<lb/>science, the penalty thereof being a few stripes.</p>
+                        <p xml:id="JSPPH1_d1e57830" rend="indent">We believe that all who have done
+                            evil, having a know<lb/>ledge of the law, or afterwards, in this life,
+                            coming to the <lb/>knowledge thereof, are under its penalty, which is
+                            not <pb xml:id="JSPPH1_d1e57832" type="present" n="26" facs="6554_84183-LIBR-88_026.jpg"/> inflicted in this world, but in
+                            the world to come. There<lb/>fore such, in this world, are prisoners,
+                            shut up under the <lb/>sentence of the law, awaiting, with awful fear,
+                            for the time <lb/>of judgment, when the penalty shall be inflicted,
+                            consign<lb/>ing them to a <hi rend="italic">second banishment</hi> from
+                            the presence of <lb/>their Redeemer, who had redeemed them from the
+                            penalty <lb/>of the <hi rend="small-caps">first</hi> law. But, enquires
+                            the sinner, is there no <lb/>way for my escape? Is my case hopeless? Can
+                            I not de<lb/>vise some way by which I can extricate myself from the
+                            <lb/>penalty of this <hi rend="small-caps">second</hi>
+                            <hi rend="italic">law</hi>, and escape this <hi rend="small-caps">second</hi>
+                            <hi rend="italic">banish<lb/>ment?</hi> The answer is, if thou canst
+                            hide thyself from the <lb/>all-searching eye of an Omnipresent God, that
+                            he shall not <lb/>find thee, or if thou canst prevail with him to deny
+                            justice <lb/>its claim, or if thou canst clothe thyself with power, and
+                            <lb/>contend with the Almighty, and prevent him from exe<lb/>cuting the
+                            sentence of the law, then thou canst escape. If <lb/>thou canst cause
+                            repentance, or baptism in water, or any <lb/>of thine own works, to <hi rend="italic">atone</hi> for the least of thy trans<lb/>gressions,
+                            then thou canst deliver thyself from the awful <lb/>penalty that awaits
+                            thee. But, be assured, O sinner, that <lb/>thou canst not devise any way
+                            of thine own to escape, nor <lb/>do any thing that will <hi rend="italic">atone</hi> for thy sins. Therefore, thy <lb/>case is
+                            hopeless, unless God hath devised some way for <lb/>thy deliverance; but
+                            do not let despair seize upon thee: <lb/>for though thou art under the
+                            sentence of a broken law, <lb/>and hast no power to atone for thy sins,
+                            and redeem thy<lb/>self therefrom, yet there is hope in thy case; for
+                            he, who <lb/>gave the law, has devised a way for thy deliverance. <hi rend="shading">That <lb/>same Jesus, who hath atoned for the
+                                original sin, and will <lb/>redeem all mankind from the penalty
+                                thereof, hath also <lb/>atoned for thy sins, and offereth salvation
+                                and deliverance <lb/>to thee, on certain conditions to be complied
+                                with on thy <lb/>part.</hi></p>
+                        <p xml:id="JSPPH1_d1e57861" rend="indent"><hi rend="shading">We believe that
+                                the first condition to be complied with <lb/>on the part of sinners
+                                is, to <hi rend="italic">believe</hi> in God, and in the
+                                suf<lb/>ferings and death of his Son Jesus Christ, to atone for the
+                                <lb/>sins of the whole world, and in his resurrection and
+                                ascen<lb/>sion on high, to appear in the presence of his Father, to
+                                <lb/>make intercessions for the children of men, and in the
+                                <lb/>Holy Ghost, which is given to all who obey the gospel.</hi></p>
+                        <p xml:id="JSPPH1_d1e57867" rend="indent"><hi rend="shading">That the second
+                                condition is, to <hi rend="italic">repent</hi>, that is, all who
+                                <lb/>believe, according to the first condition, are required to <pb xml:id="JSPPH1_d1e57872" type="present" n="27" facs="6554_84183-LIBR-88_027.jpg"/> come humbly before God, and
+                                confess their sins with a <lb/>broken heart and contrite spirit, and
+                                to turn away from <lb/>them, and cease from all their <hi rend="italic">evil deeds</hi>, and make resti<lb/>tution to all
+                                they have in any way injured, as far as it is in <lb/>their
+                                power.</hi></p>
+                        <p xml:id="JSPPH1_d1e57878" rend="indent"><hi rend="shading">That the third
+                                condition is, to be <hi rend="italic">baptized</hi> by immersion
+                                <lb/>in water, in the name of the Father, Son, and Holy Ghost,
+                                    <lb/><hi rend="italic">for remission of sins;</hi> and that this
+                                ordinance is to be ad<lb/>ministered by one who is called and
+                                authorized of Jesus <lb/>Christ to baptize, otherwise it is illegal,
+                                and of no advan<lb/>tage, and not accepted by him; and that it is to
+                                be ad<lb/>ministered only to those persons, who believe and repent,
+                                <lb/>according to the two preceding conditions.</hi></p>
+                        <p xml:id="JSPPH1_d1e57887" rend="indent"><hi rend="shading">And that the
+                                fourth condition is, to receive the <hi rend="italic">laying <lb/>on
+                                    of hands</hi>, in the name of Jesus Christ, for the gift of
+                                <lb/>the Holy Ghost; and that this ordinance is to be
+                                admi<lb/>nistered by the apostles or elders, whom the Lord Jesus
+                                <lb/>hath called and authorized to lay on hands,</hi> otherwise it
+                            is <lb/>of no advantage, being illegal in the sight of God; and
+                            <lb/>that it is to be administered only to those persons, who
+                            <lb/>believe, repent, and are baptized into this church, according
+                            <lb/>to the three preceding conditions. These are the first
+                            con<lb/>ditions of the gospel. All who comply with them receive
+                            <lb/>forgiveness of sins, and are made partakers of the Holy <lb/>Ghost.
+                            Through these conditions, they become the adopt<lb/>ed sons and
+                            daughters of God. Through this process, they <lb/>are born again, first
+                            of water, and then of the spirit, and <lb/>become children of the
+                            kingdom—heirs of God—saints of <lb/>the most High—the church of the
+                            first-born—the elect <lb/>people, and heirs to a celestial inheritance,
+                            eternal in the <lb/>presence of God. After complying with these
+                            principles, <lb/>their names are enrolled in the book of the names of
+                            the <lb/>righteous.</p>
+                        <p xml:id="JSPPH1_d1e57893" rend="indent">They are then required to be humble, to be meek and <lb/>lowly
+                            in heart, to watch and pray, to deal justly; and inas<lb/>much as they have
+                            the riches of this world, to feed the <lb/>hungry and clothe the naked,
+                            according to the dictates of <lb/>wisdom and prudence; to comfort the
+                            afflicted, to bind up <lb/>the broken-hearted, and to do all the good that is
+                            in their <lb/>power: and besides all these things, they are required to <lb/>meet
+                            together as often as circumstances will admit, and <lb/>partake of bread and
+                            wine, in remembrance of the broken <pb xml:id="JSPPH1_d1e57895" type="present" n="28" facs="6554_84183-LIBR-88_028.jpg"/> body, and shed blood of the
+                            Lord Jesus; and, in short, to <lb/>continue faithful to the end, in all the
+                            duties enjoined upon <lb/>them by the word and spirit of Christ.</p>
+                        <p xml:id="JSPPH1_d1e57898" rend="indent">“It is the duty and privilege of
+                            the saints thus organ<lb/>ized upon the everlasting gospel, to <hi rend="shading">believe in and enjoy <lb/>all the gifts, powers, and
+                                blessings which flow from the <lb/>Holy Spirit. Such, for instance,
+                                as the gifts of revelation, <lb/>prophecy, visions, the ministry of
+                                angels, healing the sick <lb/>by the laying on of hands in the name
+                                of Jesus, the work<lb/>ing of miracles, and, in short, all the gifts
+                                as mentioned in <lb/>Scripture, or as enjoyed by the ancient
+                                    saints.”<note type="editorial-footnote" resp="w" pm:link-target-type="text" xml:id="X45AF55CD-0E1A-4A38-9C1B-4493E43FF591"><ref target="X980D" pm:link-pointer-type="source">Pratt,
+                                            <title>Late Persecutions of the Church,</title>
+                                    v</ref>.</note> We be<lb/>lieve that inspired apostles and
+                                prophets, together with all <lb/>the officers as mentioned in the
+                                New Testament, are ne<lb/>cessary to be in the Church in these
+                                days.</hi></p>
+                        <p xml:id="JSPPH1_d1e57902" rend="indent">We believe that there has been a general and awful <lb/>apostacy
+                            from the religion of the New Testament, so that <lb/>all the known world have
+                            been left for centuries without <lb/>the Church of Christ among them; without
+                            a priesthood <lb/>authorized of God to administer ordinances; that every <lb/>one
+                            of the churches has perverted the gospel; some in one <lb/>way, and some in
+                            another. For instance, almost every <lb/>church has done away “<hi rend="italic">immersion for remission of sins</hi>.” <lb/>Those few who
+                            have practised <hi rend="italic">it for remission of sins</hi>, <lb/>have
+                            done away the ordinance of the “<hi rend="italic">laying on of
+                                hands</hi>’ <lb/>upon baptized believers for the gift of the Holy Ghost.
+                            <lb/>Again, the few who have practised this last ordinance, <lb/>have perverted
+                            the first, or have done away the ancient <lb/>gifts, and powers, and
+                            blessings, which flow from the Holy <lb/>Spirit, or have said to inspired
+                            apostles and prophets, we <lb/>have no need of you in the body in these days.
+                            Those <lb/>few, again, who have believed in, and contended for the <lb/>miraculous
+                            gifts and powers of the Holy Spirit, have per<lb/>verted the ordinances, or
+                            done them away. Thus all the <lb/>churches preach false doctrines, and
+                            pervert the gospel, <lb/>and instead of having authority from God to
+                            administer <lb/>its ordinances, they are under the curse of God for
+                            per<lb/>verting it. Paul says, Gal. i. 8, “Though we, or an angel <lb/>from
+                            heaven, preach any other gospel unto you than that <lb/>which we have
+                            preached unto you, let him be accursed.”</p>
+                        <p xml:id="JSPPH1_d1e57919" rend="indent">We believe that there are a few, sincere, honest, and
+                            <lb/>humble persons, who are striving to do according to the <lb/>best of their
+                            understanding; but, in many respects, they <pb xml:id="JSPPH1_d1e57921" type="present" n="29" facs="6554_84183-LIBR-88_029.jpg"/> err in doctrine,
+                            because of false teachers and the precepts <lb/>of men, and that they will
+                            receive the fulness of the gospel <lb/>with gladness, as soon as they hear
+                            it.</p>
+                        <p xml:id="JSPPH1_d1e57924" rend="indent"><hi rend="shading">The gospel in
+                                the “Book of Mormon,” is the same as <lb/>that in the New Testament,
+                                and is revealed in great plain<lb/>ness, so that no one that reads
+                                it can misunderstand its <lb/>principles.</hi> It has been revealed
+                            by the angel, to be preach<lb/>ed as a witness to all nations, first to
+                            the Gentiles, and <lb/>then to the Jews, then cometh the downfall of
+                            Babylon. <lb/>Thus fulfilling the vision of John, which he beheld on the
+                            <lb/>Isle of Patmos, Rev. xiv. 6, 7, 8, “And I saw,” says John,
+                            <lb/>“another angel fly in the midst of heaven, having the
+                            ever<lb/>lasting gospel to preach unto them that dwell on the earth,
+                            <lb/>and to every nation, and kindred, and tongue, and people,
+                            <lb/>saying, with a loud voice, Fear God, and give glory to him,
+                            <lb/>for the hour of his judgment is come: and worship him <lb/>that
+                            made heaven, and earth, and the sea, and the foun<lb/>tains of waters.
+                            And there followed another angel, saying, <lb/>Babylon is fallen, is
+                            fallen, that great city, because she <lb/>made all nations drink of the
+                            wine of the wrath of her for<lb/>nication.”</p>
+                        <p xml:id="JSPPH1_d1e57927" rend="indent">Many revelations and prophecies
+                            have been given to <lb/>this church since its rise, which have been
+                            printed and <lb/>sent forth to the world. These also contain the gospel
+                            in <lb/>great plainness, and instructions of infinite importance to
+                            <lb/>the saints. They also unfold the great events that await <lb/>this
+                            generation; the terrible judgments to be poured forth <lb/>upon the
+                            wicked, and the blessings and glories to be given <lb/>to the righteous.
+                                <hi rend="shading">We believe that God will continue to <lb/>give
+                                revelations</hi> by visions, by the ministry of angels, and <lb/>by
+                            the inspiration of the Holy Ghost, until the saints are <lb/>guided unto
+                            all truth, that is, until they come in possession <lb/>of all the truth
+                            there is in existence, and are made perfect <lb/>in knowledge. So long,
+                            therefore, as they are ignorant of <lb/>any thing past, present, or to
+                            come, so long, we believe, <lb/>they will enjoy the gift of revelation.
+                            And when in their <lb/>immortal and perfect state—when they enjoy “the
+                            mea<lb/>sure of the stature of the fulness of Christ”<note xml:id="JSPPH1_d1e57934" type="editorial-footnote" pm:link-target-type="text">See Ephesians 4:13.</note>—when they
+                            <lb/>are made perfect in one, and become like their Saviour, <lb/>then
+                            they will be in possession of all knowledge, wisdom, <lb/>and
+                            intelligence: then all things will be theirs, whether <lb/><supplied resp="Nathan Waite">pr</supplied>incipalities<note xml:id="JSPPH1_d1e57940" type="editorial-footnote-text" resp="RES" pm:link-target-type="text">Original has “incipalities”, preceded by
+                                a one-character space.</note> or powers, thrones or dominions; and,
+                                i<supplied resp="Nathan Waite">n</supplied><note xml:id="JSPPH1_d1e57948" type="editorial-footnote-text" resp="RES" pm:link-target-type="text">Original has “i”, followed by a
+                                one-character space.</note>
+                            <pb xml:id="JSPPH1_d1e57958" type="present" n="30" facs="6554_84183-LIBR-88_030.jpg"/> short, then they will be filled
+                            with all the fulness of God. <lb/>And what more can they learn? What
+                            more can they <lb/>know? What more can they enjoy? Then they will no
+                            <lb/>longer need revelation.</p>
+                        <p xml:id="JSPPH1_d1e57961" rend="indent">We believe that wherever the people enjoy the religion <lb/>of
+                            the New Testament, there they enjoy visions, revela<lb/>tions, the ministry
+                            of angels, &amp;c. And that wherever <lb/>these blessings cease to be
+                            enjoyed, there they also cease <lb/>to enjoy the religion of the New
+                            Testament.</p>
+                        <p xml:id="JSPPH1_d1e57964" rend="indent">We believe that God has raised up
+                            this church, in order <lb/>to prepare a people for his <hi rend="shading">second coming</hi> in the clouds <lb/>of heaven, in
+                            power, and great glory; and that then the <lb/>saints who are asleep in
+                            their graves will be raised, and <lb/>reign with him on earth a thousand
+                            years.</p>
+                        <p xml:id="JSPPH1_d1e57968" rend="indent">And we now bear testimony to all, both small and great,
+                            <lb/>that the Lord of Hosts hath sent us with a message of glad <lb/>tidings—the
+                            everlasting gospel, to cry repentance to the <lb/>nations, and prepare the
+                            way of his second coming. There<lb/>fore <hi rend="italic">repent</hi>, O ye
+                            nations, both Gentiles and Jews, and <lb/>cease from all your <hi rend="italic">evil deeds</hi>, and come forth with broken <lb/>hearts
+                            and contrite spirits,
+                            and be <hi rend="italic">baptized</hi> in water, in <lb/>the name of the
+                            Father, Son, and Holy Ghost, <hi rend="italic">for remis<lb/>sion of
+                                sins</hi>, and ye shall receive the gift of the Holy <lb/>Spirit, by the
+                                <hi rend="italic">laying on of the hands</hi> of the Apostles or
+                            <lb/>Elders of this church; and signs shall follow them that <lb/>believe, and if they continue faithful to the end, they
+                            shall <lb/>be saved. But woe unto them, who hearken not to the <lb/>message which
+                            God has now sent, for the day of vengeance <lb/>and burning is at hand, and
+                            they shall not escape. There<lb/>fore, <hi rend="small-caps">remember,</hi> O reader, and <hi rend="italic">perish not!</hi></p>
+                        <note xml:id="JSPPH1_d1e57996" type="formatting-note" resp="RES" pm:link-target-type="text">Extra leading here</note><p> </p><p xml:id="JSPPH1_d1e57998" rend="center"><hi rend="small-caps"><placeName>edinburgh</placeName>: printed by ballantyne and hughes, paul’s
+                            work</hi>. <pb xml:id="JSPPH1_d1e58000" type="present" n="31" facs="6554_84183-LIBR-88_031.jpg"/></p>
+                        
+                    <p rend=" noindent" xml:id="X4271E9FB-5BC6-4B75-8392-BA44C84CF4A8"><note type="editorial-comment" resp="s" pm:link-target-type="text" xml:id="X98077908-E7FC-4F61-A553-F4EDB71EF166">blank</note> <pb xml:id="XEF8BFD25-7112-4608-97E9-236A072FACC9" type="not-present" n="0" facs="6554_84183-LIBR-88_031-01.jpg"/></p></div2>
+                </div1>
+            </body>
+        </text>
+    </TEI>
+

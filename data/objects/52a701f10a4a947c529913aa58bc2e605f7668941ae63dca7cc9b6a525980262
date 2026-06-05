@@ -1,0 +1,986 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" lds:AccessionNumber="6547" lds:ResourceFormat="Text" lds:ResourceType="Text-Document" pm:docDate="1832-07-01" pm:docDateMax="1831-08-30" pm:docDateMin="1832-07-01" pm:docDesc="History, circa Summer 1832" pm:entry="26015" pm:link-target-type="relatedDocument" pm:sortkey="1832-07-01 005" pm:status="Active" pm:title="JSPPH1" pm:url="x6547" xml:id="x6547"> <teiHeader>
+<fileDesc> <titleStmt> <title type="editorial">History, circa
+Summer 1832</title> <title type="formal">Joseph Smith History, 1832 </title>
+<title type="alternative"/> </titleStmt><lds:Tracking lds:TranscriptState="3LV" lds:PublishImage="Y" lds:HasPubPermissions="Y" lds:PublishClearText="N" lds:docComponents="Img,Trn,FSN,FHI,Ann" lds:WebPublishStatus="FinalContent"/>
+<publicationStmt> <publisher>The Church of Jesus Christ of Latter Day
+Saints</publisher> </publicationStmt> <seriesStmt> <title>Unknown</title>
+</seriesStmt> <notesStmt> <note xml:id="JSPPH1_d1e35"/> </notesStmt>
+<sourceDesc> <bibl xml:id="JSPPH1_d1e40" type="abstract"> </bibl> <listPerson>
+<person role="author"> <persName>
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Joseph
+Smith Jr.</ref> </persName> </person> <person role="original-handwriter">
+<persName>
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">Joseph
+Smith Jr.</ref> </persName> </person> <person role="original-handwriter">
+<persName> <ref pm:link-pointer-type="person" target="per63">Frederick G.
+Williams </ref> </persName> </person> <person> <persName/> </person>
+</listPerson> <listPlace> <place> <placeName/> </place> </listPlace>
+<msDesc lds:Addressing="No" lds:Authenticity="Blank" lds:Certification="No" lds:Ciphers="notResearched" lds:Complete="Yes" lds:Dockets="No" lds:Enclosure="No" lds:Extant="Yes" lds:FirstFiveWords="A History of the life" lds:HandwritingType="Unknown" lds:InscriptionMethod="Unknown" lds:NonTextualElements="Unknown" lds:OtherLanguages="Unknown" lds:Posting="No" lds:PrimaryReproForm="Original" lds:Redaction="Yes" lds:Seal="No" lds:ShortHand="No" lds:Signature="Unknown"> <msIdentifier>
+<placeName> <address>
+                                    <addrLine>15 East North Temple Street</addrLine>
+                                    <addrLine>Salt Lake City, UT 84150-1600</addrLine>
+                                </address> </placeName> <institution>Church HIstory Library</institution> <repository>Church History Library</repository> <collection>JS Collection</collection>
+<idno type="call-number">MS 155 Bx 2 fd 1</idno> <msName/> </msIdentifier> <msContents> <summary/>
+<textLang mainLang="en"/> </msContents> <physDesc> <p xml:id="JSPPH1_d1e120"/>
+<objectDesc facs="imageurlshere" form="paper"> <supportDesc material="paper">
+<support>Medium desc. here.</support> <extent>
+<dimensions scope="all" type="leaf" unit="inch"> <height/> <width/>
+</dimensions> </extent> <condition/> </supportDesc> <layoutDesc>
+<layout columns="1"/> </layoutDesc> </objectDesc> <handDesc> 
+<p xml:id="JSPPH1_d1e150">Unknown</p> </handDesc> <decoDesc>
+<p xml:id="JSPPH1_d1e156"/> </decoDesc> </physDesc> <history> <origin/>
+<provenance/> <acquisition/> </history> <additional> <adminInfo> 
+<availability lds:DocumentAccess="No"> <p xml:id="JSPPH1_d1e175"/>
+</availability> <custodialHist> <custEvent/> </custodialHist>
+<note xml:id="JSPPH1_d1e183" type="disposition"/> </adminInfo> <surrogates/>
+                            <listBibl type="print-volume-location">
+                                <bibl><ref pm:link-pointer-type="web" target="http://www.josephsmithpapers.org/publishedVolumes/histories-volume-1-joseph-smith-histories-1832-1844"><title>JSP,</title> H1:2–23</ref></bibl>
+                            </listBibl>
+</additional> </msDesc> </sourceDesc> </fileDesc> <profileDesc> <creation/>
+<textClass> <classCode scheme="inscription-method">Unknown</classCode>
+</textClass> </profileDesc> <revisionDesc> 
+<change who="s" when="2013-07-05T19:18:11.56Z"><label>Posted to
+website</label><desc>2013-05-14</desc></change> 
+<change who="NNW" when="2011-06-17T13:31:21.43Z"><label>Accepted all
+changes</label>12 Sept. 2011, 8:50pm</change> 
+<change who="NNW" when="2011-06-17T13:31:21.43Z"><label>Accepted all
+changes</label><desc>17 June 2011, 7:32am</desc></change> 
+<change who="NNW" when="2011-06-17T13:29:10.97Z"><label>Stripped out reg tags
+and archived version with changes tracked</label><desc>17 June 2011,
+7:30am</desc></change><change who="NNW" when="2010-11-30T17:19:53.45Z"><label>Changes Accepted</label><desc>30 Nov.
+2010, 10:20am</desc></change> <change when="2009-03-09T13:35:52" who="Jeffrey">
+<label>Document Created</label> <desc>Created by Jeffrey,
+2009-03-09T13:35:52</desc> </change> <change when="2009-01-01" who="SFP">
+<label>Initial Creation</label> <desc>Complete</desc> </change> </revisionDesc>
+</teiHeader> <text> <body> <div1> <div2 xml:id="JSPPH1_d1e231" type="docfront">
+<div3 xml:id="JSPPH1_d1e233" type="sourcenote"> <msDesc> <msIdentifier>
+<msName>History, circa Summer 1832</msName> </msIdentifier> <msContents> 
+<summary> <p xml:id="JSPPH1_d1e247" rend="indent">
+                                            <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref>, “A History of the
+                                            life of Joseph Smith Jr. an account of his marvilous
+                                            experience and of all the mighty acts which he doeth in
+                                            the name of Jesus Ch[r]ist the son of the living God of
+                                            whom he beareth record and also an account of the rise
+                                            of the church of Christ in the eve of time according as
+                                            the Lord brought forth and established by his hand
+                                            firstly he receiving the testamony from on high
+                                            seccondly the ministering of Angels thirdly the
+                                            reception of the holy Priesthood by the ministring
+                                            of—Aangels to adminster the letter of the Gospel—the Law
+                                            and commandments as they were given unto him—and the
+                                            ordinencs, forthly a confirmation and reception of the
+                                            high Priesthood after the holy order of the son of the
+                                            living God power and ordinence from on high to preach
+                                            the Gospel in the administration and demonstration of
+                                            the spirit the Kees of the Kingdom of God confered upon
+                                            him and the continuation of the blessings of God to him
+                                            &amp;c—,” [ca. <date from-iso="1832-06" to-iso="1832-09">summer 1832</date>]; handwriting of <ref pm:link-pointer-type="person" target="per63" n="Frederick G. Williams">Frederick G.
+                                                Williams</ref> and <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref>; six pages; in <ref pm:link-pointer-type="relatedDocument" target="X7630">JS Letterbook 1</ref>, JS Collection,
+                                            CHL.<!-- For more information on JS Letterbook 1, see Source Notes for Multiple-Entry Documents, p. 412 herein.--></p> </summary> </msContents> <physDesc> 
+<p xml:id="JSPPH1_d1e266" rend="indent"><ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref>’s circa
+<date from-iso="1832-06" to-iso="1832-09">summer 1832</date> history was
+inscribed in the front of a medium-size, commercially produced blank book. The
+book’s ledger paper is horizontally ruled with thirty-six (now faint) blue
+lines and vertically ruled with four red lines. The original book apparently
+contained nine gatherings of twelve leaves each, but eight leaves have been cut
+from the final gathering. The text block was sewn all along over recessed
+cords. The leaves measure 12⅝ x 7¾ inches (32 x 20 cm). The pastedowns and
+flyleaves were blank white paper. The volume was constructed with front and
+back covers of pasteboard and a tight-back case binding with a brown calfskin
+quarter-leather binding. The bound book measures 12⅞ x 8 x ⅞ inches (33 x 20 x
+2 cm). The outside covers are adorned in shell marbled paper, with brown body
+and veins of blue and red. The front pastedown bears the inscriptions “c=c/i”
+and “/i=”, possibly original merchandising notes. The original front flyleaf,
+and any inscriptions it may have borne, is no longer extant.</p> 
+<p xml:id="JSPPH1_d1e266" rend="indent">The history was inscribed by <ref pm:link-pointer-type="person" target="per63" n="Frederick G. Williams">Frederick G. Williams</ref>
+                                        and <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref> with quill pen, in ink
+                                        that is now brown, on the first three leaves of ledger
+                                        paper. The first five pages of the history were numbered by
+                                        Williams. Later, the book was turned over so the back cover
+                                        became the front and the last page became the first. One or
+                                        more texts were inscribed in this side (the back) of the
+                                        book, as is evident from inscriptions visible on the
+                                        remaining stubs of the eight now-excised leaves. The volume
+                                        was also repurposed as a letterbook. Beginning on the recto
+                                        of the fourth leaf in the front of the book (immediately
+                                        following the history) are ninety-three pages of copied
+                                        outgoing letters, dated <date from-iso="1829-06-14" to-iso="1835-08-04">14 June 1829 through 4 August
+                                            1835</date>, in the handwriting of Williams, JS, <ref pm:link-pointer-type="person" target="per79" n="Orson Hyde">Orson Hyde</ref>, and <ref pm:link-pointer-type="person" target="per47" n="Oliver Cowdery">Oliver Cowdery</ref>. The book’s
+                                        pagination also began anew with the copied letters. The
+                                        first page of letters bore the inscription “1a”, which is
+                                        only partially legible on the now-trimmed page but is
+                                        complete in photocopy and microfilm copies at the Church
+                                        History Library.<note xml:id="JSPPH1_d1e292" type="editorial-footnote" resp="W" pm:link-target-type="text">The photocopy may have been
+                                            made from the microfilm. The letterbook was filmed on 12
+                                            November 1968. (<ref target="XC681" pm:link-pointer-type="source">Microfilming report,
+                                                entry no. JP 1068, Historical Department, Microfilm
+                                                Reports, 1949–1975, CHL</ref>.)</note> The front
+                                        flyleaf is missing; perhaps it bore a title related to the
+                                        history and was removed when the volume was converted to a
+                                        letterbook. The back flyleaf is also missing. At some point,
+                                        Williams began an <ref pm:link-pointer-type="text" target="xc004eb8e-79da-4988-b44a-a65101e71dec">index</ref> for the letters. This incomplete index is
+                                        inscribed on paper that does not match the original ledger
+                                        paper. It was apparently a loose leaf inserted in the
+                                        volume—as is Williams’s <ref pm:link-pointer-type="text" target="XDD75E3BE-130E-4940-A2E3-7917EC78C62A">index</ref> to the contents of <ref pm:link-pointer-type="relatedDocument" target="X6830">Revelation Book 2</ref><note xml:id="JSPPH1_d1e297" type="editorial-footnote" resp="W" pm:link-target-type="text">At some point, <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Williams</ref>’s
+                                                <ref pm:link-pointer-type="text" target="XDD75E3BE-130E-4940-A2E3-7917EC78C62A">index</ref> for <ref pm:link-pointer-type="relatedDocument" target="X6830">Revelation Book 2</ref><note type="errata" resp="s" pm:link-target-type="text" xml:id="X027A6E12-C82E-49C7-AACC-E3DC5C5DB553">Changed “the Revelation Book 2” to “Revelation Book
+                                                  2.”<note type="comment-external" corresp="X027A6E12-C82E-49C7-AACC-E3DC5C5DB553"/><note type="annotative" corresp="X027A6E12-C82E-49C7-AACC-E3DC5C5DB553"/></note> was attached with adhesive wafers to the
+                                            inside front cover of the book. (See <ref pm:link-pointer-type="relatedDocument" target="X6830">Revelation Book 2</ref>, <ref pm:link-pointer-type="text" target="XDD75E3BE-130E-4940-A2E3-7917EC78C62A">Index</ref>,
+                                            [1]<!--, in <title>JSP,</title> MRB:412–413-->.)</note>—although
+                                        it is currently bound in the front of the volume as a result
+                                        of late twentieth-century conservation. This index does not
+                                        list the history.</p>
+</physDesc> <history> <p xml:id="JSPPH1_d1e310" rend="indent">A reconstruction of the physical history of the artifact
+                                        helps explain the current material context of the document.
+                                        Photocopy and microfilm images of the book, as well as an
+                                        inspection of the conservation work now present in the
+                                        volume, indicate that the text block separated from the
+                                        binding at some point. Also, the initial three leaves
+                                        containing the history were excised from the volume. The
+                                        eight inscribed leaves in the back of the volume may have
+                                        been cut out at the same time.<note xml:id="JSPPH1_d1e312" type="editorial-footnote" resp="W" pm:link-target-type="text">These eight leaves have not
+                                            been located.</note> Manuscript evidence suggests that
+                                        these excisions took place in the mid-twentieth century. A
+                                        tear on the third leaf, which evidently occurred during its
+                                        excision, was probably mended at the time. This tear was
+                                        mended with clear cellophane tape, which was invented in
+                                            1930.<note xml:id="JSPPH1_d1e315" type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="XE1E6" pm:link-pointer-type="source">Cole et al.,
+                                                  <title>Encyclopedia of Modern Everyday
+                                                  Inventions,</title> 22</ref>; <ref target="X9CF6" pm:link-pointer-type="source">Edelman, “Brief
+                                                History of Tape,” 45–46</ref>.</note> The three
+                                        leaves of the history certainly had been removed by 1965,
+                                        when they were described as “cut out,” although they were
+                                        archived together with the letterbook. The size and paper
+                                        stock of the three excised leaves match those of the other
+                                        leaves in the book. Also, the cut and tear marks, as well as
+                                        the inscriptions in the gutters of the three excised leaves,
+                                        match those of the remaining leaf stubs, confirming their
+                                        original location in the book.<note xml:id="JSPPH1_d1e334" type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X1FBF" pm:link-pointer-type="source">Cheesman, “Analysis of
+                                                the Accounts Relating Joseph Smith’s Early Visions,”
+                                                126</ref>; <ref target="XEEB6" pm:link-pointer-type="source">Jessee, “<ref pm:link-pointer-type="web" target="http://byustudies.byu.edu/content/early-accounts-joseph-smiths-first-vision">The Early Accounts of Joseph Smith’s First
+                                                  Vision</ref>,” 277–278</ref>.</note> The three
+                                        leaves were later restored to the volume, apparently in the
+                                            1990s.<note xml:id="JSPPH1_d1e343" type="editorial-footnote" resp="W" pm:link-target-type="text">The leaves were still
+                                            detached when they were photographed for a 1984
+                                                publication.<note xml:id="JSPPH1_d1e345" type="toe-note" resp="W" pm:link-target-type="text"><ref target="X6304" pm:link-pointer-type="source">Jessee, <title>Personal Writings of Joseph
+                                                  Smith,</title> 15–20</ref>.</note> They were
+                                            reattached by 2000, when scanned images that show them
+                                            as such were made by the Church Archives of The Church
+                                            of Jesus Christ of Latter-day Saints.<note xml:id="JSPPH1_d1e359" type="toe-note" resp="W" pm:link-target-type="text"><ref target="X0362" pm:link-pointer-type="source">Turley,
+                                                  <title>Selected Collections,</title> vol. 1, disc
+                                                  20</ref>.</note> The leaves are also reported as
+                                            being reattached in a 25 February 2001 register of the
+                                            JS Collection, which states that they were “reattached
+                                            in the 1990s.”<note xml:id="JSPPH1_d1e362" type="toe-note" resp="W" pm:link-target-type="text"><ref target="X5FCB" pm:link-pointer-type="source">Faulring, “Annotated Catalog of the Joseph Smith
+                                                  Collection.”</ref></note></note> This restoration
+                                        was probably part of a larger conservation effort that took
+                                        place, in which the entire volume was rebound, including
+                                        binding the formerly loose <ref pm:link-pointer-type="text" target="xc004eb8e-79da-4988-b44a-a65101e71dec">index</ref> of letters. The first gathering, which
+                                        contains the history, was slightly trimmed in connection
+                                        with this conservation work. The volume shows marked
+                                        browning, brittleness, and wear. It is listed in <ref pm:link-pointer-type="place" target="plc12" n="Nauvoo Hancock Illinois United States">Nauvoo</ref>,
+                                        Illinois, and early <ref pm:link-pointer-type="place" target="plc230" n="Salt Lake City Utah United States">Salt Lake City</ref>, Utah, inventories made by the
+                                        Church Historian’s Office, as well as in the 1973 register
+                                        of the JS Collection, indicating continuous institutional
+                                            custody.<note xml:id="JSPPH1_d1e398" type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X6552" pm:link-pointer-type="source">“Schedule of Church
+                                                Records. Nauvoo 1846,” [1]</ref>; <ref target="X6552" pm:link-pointer-type="source">“Inventory. Historian’s Office. 4<hi rend="superscript">th</hi> April 1855,” [1],
+                                                Catalogs and Inventories, 1846–1904, CHL</ref>; <ref target="X9028" pm:link-pointer-type="source">Johnson, <title>Register of the Joseph Smith
+                                                  Collection,</title> 7</ref>.</note></p> </history> </msDesc>
+</div3> <div3 xml:id="JSPPH1_d1e409" type="historical-intro"> 
+<p xml:id="JSPPH1_d1e411" rend="indent"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s circa <date from-iso="1832-06" to-iso="1832-09">summer 1832</date> history is the only
+                                narrative of the foundational spiritual events of JS’s early life
+                                that includes his own handwriting. It begins in an imposing manner,
+                                announcing “A History of the life of Joseph Smith J<hi rend="underscore">r</hi>. an account of his marvilous experience
+                                and of all the mighty acts which he doeth in the name of Jesus
+                                Ch[r]ist . . . and also an account of the rise of the church of
+                                Christ in the eve of time.” Following this introduction, JS started
+                                with his own birth and then quickly moved to the events that marked
+                                the beginning of his career as a prophet: his study of the Bible,
+                                his early visions, the reception of the gold plates, the financial
+                                and scribal assistance of <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Martin Harris</ref> at the
+                                beginning of JS’s translation of the plates, and Harris’s loss of
+                                the early translation manuscript<note type="errata" resp="s" pm:link-target-type="text" xml:id="XFBDB969B-D917-46BE-9989-709552751376">Deleted “and
+                                    dismissal as a scribe.”<note type="comment-external" corresp="XFBDB969B-D917-46BE-9989-709552751376"/><note type="annotative" corresp="XFBDB969B-D917-46BE-9989-709552751376"/></note>.
+                                Then, following a brief mention of <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref>, who in the account had not yet met JS but
+                                would soon provide him desperately needed scribal and financial
+                                assistance, the document ends abruptly after only six pages. The
+                                introductory prospectus to the history refers to four foundational
+                                events in JS’s life: “the testamony from on high,” later explained
+                                as his first vision of Deity; “the ministering of Angels,” or the
+                                angel Moroni’s revelation of the <ref pm:link-pointer-type="topic" target="x8157" n="Gold Plates">gold plates</ref> of the <ref pm:link-pointer-type="relatedDocument" target="X6816">Book of
+                                    Mormon</ref>; the “reception of the holy <ref pm:link-pointer-type="topic" target="x4102" n="Priesthood">Priesthood</ref>”; and “a confirmation and reception of the
+                                    <ref pm:link-pointer-type="topic" target="x5224" n="High priesthood">high Priesthood</ref>.” JS related the first
+                                two events in some detail, providing a firsthand account of his
+                                childhood and early religious experiences, but this history includes
+                                nothing further about the reception of priesthood authority.</p> <p xml:id="JSPPH1_d1e505" rend="indent">It is not clear why <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> ended his
+                                earliest history before completing his stated intentions. Some of
+                                his other documentary endeavors, including the <ref pm:link-pointer-type="relatedDocument" target="X3702">journal</ref> he began the same year, are similarly incomplete,
+                                perhaps indicating that other activities simply took
+                                    precedence.<note xml:id="JSPPH1_d1e432" pm:link-target-type="text" type="editorial-footnote">Although
+                                        <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> began his first <ref pm:link-pointer-type="relatedDocument" target="X3702">journal</ref> with the explicit intention “to keep a minute
+                                    acount of all things that come under my obsevation,” there were
+                                    substantial gaps in his journal keeping. (JS, Journal, <ref pm:link-pointer-type="text" target="X0D72D5E6-2A23-4CC3-88CB-F4B7CC162351">27 Nov.
+                                        1832</ref><!--, in <title>JSP,</title> J1:9-->.)</note> It
+                                is possible, however, that JS deliberately ended the history where
+                                he did, viewing it as part of a larger historical record that would
+                                include the work of others assigned as record keepers.<note resp="seniels" xml:id="xd18de2e3-653c-4397-baa0-e8b600c10876" pm:link-target-type="text" type="annotative">The historical
+                                    intro for this document in D2 does not include the rest of this
+                                    paragraph or the next; instead there is a footnote at this
+                                    point: For further information regarding the context of JS’s
+                                    personal and assigned historical efforts, see “The Histories of
+                                    Joseph Smith, 1832–1844,” in JSP, H1:xxxv.</note> Even though JS
+                                wrote his own history in about <date from-iso="1832-06" to-iso="1832-09">summer 1832</date>, he continued to affirm <ref pm:link-pointer-type="person" target="per70" n="Whitmer, John">John Whitmer</ref>’s role as church historian, demonstrating
+                                that JS’s historical venture did not relieve Whitmer of the
+                                responsibility to continue the church history.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="XDA9DD87D-CDD0-472A-9D79-8E46FBA329A4">See <ref pm:link-pointer-type="relatedDocument" target="x125">JS,
+                                        Hiram, OH, to William W. Phelps, [Independence, MO], 31 July
+                                        1832</ref>, JS Collection, CHL; <ref pm:link-pointer-type="relatedDocument" target="x132">JS,
+                                        Kirtland, OH, to William W. Phelps, [Independence, MO], 27
+                                        Nov. 1832</ref>, in JS Letterbook 1, pp. 1–4; <ref pm:link-pointer-type="relatedDocument" target="x6534">Revelation, 11 Nov.
+                                    1831–A</ref><!--, in Doctrine and Covenants 28:1, 1835 ed.-->
+                                    [D&amp;C 69:3]; and <ref pm:link-pointer-type="relatedDocument" target="x387">JS and Sidney Rigdon, Far West, MO, to John
+                                        Whitmer, Far West, MO, 9 Apr.
+                                    1838</ref><!--, in <title>JSP,</title> J1:249-->.</note> For his
+                                part, Whitmer viewed his history as continuing work begun by <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref>, whom he replaced as church record
+                                    keeper.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="XD9C2685E-BF6A-44ED-AC44-881A7811AD89">Minute Book 2,
+                                        <ref pm:link-pointer-type="text" target="X21390A6B-77B3-49DF-9C10-810C43408F6D">9 June
+                                        1830</ref>; <ref pm:link-pointer-type="relatedDocument" target="x6506">Revelation, ca. 8 Mar.
+                                    1831–B</ref><!--, in Book of Commandments 50--> [D&amp;C 47];
+                                    Whitmer,
+                                    History,
+                                        <ref pm:link-pointer-type="web" target="/paperSummary/john-whitmer-history-1831-circa-1847?p=29">25</ref><!--, in <title>JSP,</title> H2:36-->; see also the
+                                    Historical
+                                    Introduction
+                                    to <ref pm:link-pointer-type="relatedDocument" target="x6550">Whitmer,
+                                    History</ref><!--, in <title>JSP,</title> H2:8-->.</note> The
+                                question of whether JS expected Cowdery’s or Whitmer’s work to fit
+                                together with the account begun in his own history cannot be settled
+                                for certain; JS’s narrative does, however, cover only earlier
+                                history for which JS alone could provide a firsthand account, and it
+                                concludes just before Cowdery enters the scene.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="X3E641F08-7720-4868-B9FC-C6E06277A150">Although no
+                                    narrative history by <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref>
+                                    predating <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s first history is known,
+                                    Cowdery wrote a series of historical letters in <date from-iso="1834" to-iso="1835">1834–1835</date> that were
+                                    published in the <title>Latter Day Saints’ Messenger and
+                                        Advocate</title> and later <ref pm:link-pointer-type="text" target="XEC7279AC-D0DE-4E03-8335-C3E346B72773">copied</ref>
+                                    into JS’s <date from-iso="1834" to-iso="1836">1834–1836</date>
+                                    <ref pm:link-pointer-type="relatedDocument" target="x6548">history</ref><!--, pp. 39–89 herein-->. Cowdery may have
+                                    taken JS’s history into account when he began the first letter,
+                                    as he picked up the story just where JS had left off—when the
+                                    two first met in <ref pm:link-pointer-type="place" target="plc20" n="Harmony Township (now in Oakland Township), Susquehanna County, Pennsylvania">Harmony</ref>, Pennsylvania, on <date when-iso="1829-04-05">5 April 1829</date>. Cowdery went on to describe the
+                                    receipt of the <ref pm:link-pointer-type="topic" target="x4022" n="Aaronic Priesthood">lower (Aaronic) priesthood</ref>.
+                                    Thus, whether by design or coincidence, Cowdery detailed the
+                                    third event outlined in the prospectus to JS’s history (“the
+                                    reception of the holy <ref pm:link-pointer-type="topic" target="x4102" n="Priesthood">Priesthood</ref> by the
+                                    ministring of—Aangels”). In <ref pm:link-pointer-type="text" target="X2B0C8866-2F07-47EC-8C5A-9EF80A6C7C11">chapter
+                                        7</ref> of his history, <ref pm:link-pointer-type="person" target="per70" n="Whitmer, John">Whitmer</ref> covered the
+                                    fourth event (the “confirmation and reception of the <ref pm:link-pointer-type="topic" target="x5224" n="High priesthood">high Priesthood</ref>”). (<ref target="X5177" pm:link-pointer-type="source"><ref pm:link-pointer-type="text" target="X7F705EB7-7435-429D-A84D-49DB398964FC">Oliver
+                                            Cowdery, Norton, OH, to William W. Phelps, 7 Sept.
+                                            1834</ref>, <title>LDS Messenger and Advocate,</title>
+                                        Oct. 1834, 1:13–16</ref> [also in <ref pm:link-pointer-type="relatedDocument" target="x6548">JS
+                                        History, 1834–1836</ref><!--, pp. 39–44 herein-->]; <ref pm:link-pointer-type="relatedDocument" target="x6547">JS
+                                        History, ca. summer 1832</ref><!--, p. 10 herein-->;
+                                    Whitmer,
+                                    History,
+                                        <ref pm:link-pointer-type="web" target="/paperSummary/john-whitmer-history-1831-circa-1847?p=31">27</ref><!--, in <title>JSP,</title> H2:40--><!--; see also 40n40 herein-->.)</note></p>
+<p xml:id="JSPPH1_d1e596" rend="indent">The circa <date from-iso="1832-06" to-iso="1832-09">summer
+                                    1832</date> history came about as part of a new phase in <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s record-keeping practices.
+                                During the first four years of Mormon record keeping (<date from-iso="1828" to-iso="1831">1828–1831</date>), JS focused
+                                primarily on preserving his revelatory texts. The records surviving
+                                from the early period of his prophetic career are almost exclusively
+                                sacred texts, including the <ref pm:link-pointer-type="relatedDocument" target="X6816">Book of
+                                    Mormon</ref> manuscripts, JS’s revision of the Bible, and his
+                                own contemporary revelations. Scriptural record keeping overshadowed
+                                personal and institutional record keeping. This focus changed in
+                                    <date when-iso="1832">1832</date>, when JS began documenting his
+                                personal life in detail for the first time, both in his history and
+                                in the <ref pm:link-pointer-type="relatedDocument" target="X3702">journal</ref> he began on <date when-iso="1832-11-27">27
+                                    November 1832</date>. He and his scribes also began compiling a
+                                    <ref pm:link-pointer-type="relatedDocument" target="x5670">minute book</ref> and a <ref pm:link-pointer-type="relatedDocument" target="X7630">letterbook</ref>, providing material recording day-to-day
+                                events. With this broader record-keeping focus, JS began to document
+                                his role as revelator and church leader in addition to preserving
+                                the texts of revelations and visions.</p> <p xml:id="JSPPH1_d1e611" rend="indent">In the <date from-iso="1830" to-iso="1832">early
+                                    1830s</date>, when this history was written, it appears that
+                                    <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> had not broadcast the details of
+                                his first vision of Deity. The history of the church, as it was then
+                                generally understood, began with the gold plates. <ref pm:link-pointer-type="person" target="per70" n="Whitmer, John">John Whitmer</ref> mentioned in his history “the commencement
+                                of the church history commencing at the time of the finding of the
+                                plates,” suggesting that Whitmer was either unaware of JS’s earlier
+                                vision or did not conceive of it as foundational.<note xml:id="JSPPH1_d1e622" pm:link-target-type="text" type="editorial-footnote">Whitmer,
+                                    History,
+                                        <ref pm:link-pointer-type="web" target="/paperSummary/john-whitmer-history-1831-circa-1847?p=29">25</ref><!--, in <title>JSP,</title> H2:36-->.</note>
+                                Records predating <date when-iso="1832">1832</date> only hint at
+                                JS’s earliest manifestation. The historical preamble to the <date when-iso="1830">1830</date> “<ref pm:link-pointer-type="relatedDocument" target="x4904">Articles
+                                    and Covenants</ref>,” for example, appears to reference JS’s
+                                vision in speaking of a moment when “it truly was manifested unto
+                                this first elder, that he had received a remission of his
+                                    sins.”<note xml:id="JSPPH1_d1e637" pm:link-target-type="text" type="editorial-footnote"><ref target="X5325-BoC" pm:link-pointer-type="source"><ref pm:link-pointer-type="relatedDocument" target="x4904">Articles and Covenants, ca. Apr.
+                                        1830</ref><!--, in Book of Commandments 24:6–7--> [D&amp;C
+                                        20:5–8]</ref>. In the circa <date from-iso="1832-06" to-iso="1832-09">summer 1832</date> history, Christ’s first
+                                    message to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> is “thy sins are forgiven
+                                    thee.”</note> Initially, JS may have considered this vision to
+                                be a personal experience tied to his own religious explorations. He
+                                was not accustomed to recording personal events, and he did not
+                                initially record the vision as he later did the sacred texts at the
+                                center of his attention. Only when JS expanded his focus to include
+                                historical records did he write down a detailed account of the
+                                theophany he experienced as a youth. The result was a simple,
+                                unpolished account of his first “marvilous experience,” written
+                                largely in his own handwriting. The account was not published or
+                                widely circulated at the time, though in later years he told the
+                                story more frequently.</p> 
+<p xml:id="JSPPH1_d1e645" rend="indent">Understanding the production of the circa <date from-iso="1832-06" to-iso="1832-09">summer 1832</date> history
+                                is complicated by the possibility that it was copied from an earlier
+                                manuscript, a possibility suggested by the known record-keeping
+                                practices of <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G. Williams</ref>, in
+                                whose alternating handwriting the history is inscribed. In the same
+                                time period, they jointly copied six revelations from <date from-iso="1831" to-iso="1832">1831 and 1832</date>, some of
+                                which JS originally dictated to Williams, into the beginning of a
+                                    <ref pm:link-pointer-type="relatedDocument" target="X6830">compilation of revelations</ref>.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="X6BF4FC45-D978-4BEA-8D8E-248AF0BA273A">See Revelation
+                                    Book 2, pp. <ref pm:link-pointer-type="text" target="X52005F34-47EB-474F-9FC4-4AB58FEB3249">1–10</ref>,
+                                        <ref pm:link-pointer-type="text" target="X59E81AC0-84C7-4264-A13F-A10D2D27C410">12–15</ref>,
+                                        <ref pm:link-pointer-type="text" target="XE5A4384F-49C4-48FE-AED3-C41621BAFEE9">18–31</ref><!--, in <title>JSP,</title> MRB:415–433, 437–443, 449–475-->.</note>
+                                They also divided inscription work when they copied JS’s <date when-iso="1832-11-27">27 November 1832</date>
+                                <ref pm:link-pointer-type="relatedDocument" target="x132">letter</ref> to <ref pm:link-pointer-type="person" target="per73" n="Phelps, William Wines">William W.
+                                Phelps</ref>, which JS originally dictated, into JS’s first <ref pm:link-pointer-type="relatedDocument" target="X7630">letterbook</ref> (begun in the same volume that contains the
+                                circa <date from-iso="1832-06" to-iso="1832-09">summer 1832</date>
+                                history). Thus, the other extant <date when-iso="1832">1832</date>
+                                documents inscribed in both JS’s and Williams’s handwriting are all
+                                    copies.<note xml:id="JSPPH1_d1e663" pm:link-target-type="text" type="editorial-footnote">See
+                                    Vision,
+                                    16 Feb. 1832, in Revelation Book 2, <ref pm:link-pointer-type="text" target="X52005F34-47EB-474F-9FC4-4AB58FEB3249">pp.
+                                        1–10</ref><!--, in <title>JSP,</title> MRB: 415–433-->
+                                    [D&amp;C 76];
+                                    Revelation,
+                                    4 Dec. 1831, in Revelation Book 2, <ref pm:link-pointer-type="text" target="X0F6CA88F-9ED8-4319-8B7B-EC851ADD9628">pp.
+                                        12–15</ref><!--, in <title>JSP,</title> MRB:439–443-->
+                                    [D&amp;C 72];
+                                    Revelation,
+                                    7 Mar. 1832, in Revelation Book 2, <ref pm:link-pointer-type="text" target="XE5A4384F-49C4-48FE-AED3-C41621BAFEE9">pp.
+                                        18–19</ref><!--, in <title>JSP,</title> MRB:449–451-->
+                                    [D&amp;C 80];
+                                    Revelation,
+                                    22 and 23 Sept. 1832, in Revelation Book 2, <ref pm:link-pointer-type="text" target="XAFFC7EA6-1DEA-4632-B6E0-27AC91F74CC6">pp.
+                                        20–31</ref><!--, in  <title>JSP,</title> MRB:453–475-->
+                                    [D&amp;C 84]; and
+                                        <!--JS, Kirtland, OH, to William W. Phelps, [Independence, MO], --><ref pm:link-pointer-type="relatedDocument" target="x132">Letter
+                                        to William W. Phelps, 27 Nov.
+                                    1832</ref><!--, in JS Letterbook 1, pp. 1–4-->. A small section
+                                    of <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> inscription among his Bible
+                                    revisions may be an exception; it was made in either <date when-iso="1832">1832</date> or <date when-iso="1833">1833</date>. (<ref target="X2314" pm:link-pointer-type="source">Faulring et al., <title>Joseph
+                                            Smith’s New Translation of the Bible,</title>
+                                    72</ref>.)</note> In their early record-keeping efforts, JS and
+                                his scribes established the practice of copying loose minutes,
+                                letters, and revelations into more permanent blank books. In fact,
+                                the large blank books used in church record-keeping through <date to-iso="1832">1832</date> were filled entirely or almost
+                                entirely with material copied from loose leaves.<note xml:id="JSPPH1_d1e690" pm:link-target-type="text" type="editorial-footnote">Later <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> documents, however, such as
+                                    his journals for <ref pm:link-pointer-type="relatedDocument" target="x3703"><date from-iso="1835" to-iso="1836">1835–1836</date></ref>, <ref pm:link-pointer-type="relatedDocument" target="X3705"><date from-iso="1838-03" to-iso="1838-09">March–September
+                                            1838</date></ref>, and <ref pm:link-pointer-type="relatedDocument" target="x6545"><date from-iso="1841" to-iso="1842">1841–1842</date></ref>,
+                                    provide examples of original material inscribed directly into
+                                    large blank books. <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G.
+                                        Williams</ref> evidently also began inscribing topical
+                                    indexes of scriptural references directly into several blank
+                                    books beginning <date when-iso="1833-07-17">17 July 1833</date>.
+                                    (See <ref target="XF6E9" pm:link-pointer-type="source">Jensen,
+                                        “Ignored and Unknown Clues of Early Mormon Record Keeping,”
+                                        136–139</ref>.)</note> Thus, the fact that the extant
+                                history exists in a record book and not as loose leaves suggests it
+                                is a copy.</p><p xml:id="JSPPH1_d1e645" rend="indent"> Textual
+clues also indicate that the extant <date when-iso="1832">1832</date> history
+may not be an original composition. The handwriting of
+<ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Williams</ref> and
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> passes back and forth with little or no
+correspondence to the narrative progress of the history; the two sometimes
+alternate inscription mid-sentence. In JS’s writing, moreover, the disruptions
+to inscription caused by changing or sharpening a quill and dipping it in ink
+occur in the middle of a thought and even in the middle of a word, suggesting
+he was copying rather than composing.<note xml:id="JSPPH1_d1e699" pm:link-target-type="text" type="editorial-footnote">On the second page of the
+manuscript, for example, the quill sharpness changes between the
+<hi rend="italic">u</hi> and the <hi rend="italic">r</hi> of “courses” in the
+phrase “the stars shining in their courses.”</note></p> 
+<p xml:id="JSPPH1_d1e715" rend="indent">Other textual evidence, however, indicates that the circa
+                                    <date from-iso="1832-06" to-iso="1832-09">summer 1832</date>
+                                history may be the original inscription. In their work on the
+                                history, neither <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> nor <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Williams</ref> made inscription
+                                errors that one might expect to find if it were a copy, errors that
+                                both men made in contemporary copying work. For example, when
+                                copying a <date when-iso="1832-11-27">27 November 1832</date>
+                                <ref pm:link-pointer-type="relatedDocument" target="x132">letter</ref> into his first <ref pm:link-pointer-type="relatedDocument" target="X7630">letterbook</ref>, JS inadvertently repeated a phrase from a
+                                line above and then struck the phrase after realizing his
+                                    error.<note xml:id="JSPPH1_d1e726" pm:link-target-type="text" type="editorial-footnote"><!--JS, Kirtland, OH, to William W. Phelps, [Independence, MO], --><ref pm:link-pointer-type="relatedDocument" target="x132">Letter
+                                        to William W. Phelps, 27 Nov.
+                                    1832</ref><!--, in JS Letterbook 1, p. 4-->.</note> Similarly,
+                                in copying a <date when-iso="1833-12">December 1833</date>
+                                <ref pm:link-pointer-type="relatedDocument" target="x192">letter</ref> into the same volume, Williams apparently skipped
+                                a line of the original before catching himself and fixing the
+                                    mistake.<note xml:id="JSPPH1_d1e733" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="relatedDocument" target="x192">JS,
+                                        Kirtland Mills, OH, to Edward Partridge et al., Liberty, MO,
+                                        10 Dec. 1833</ref><!--, in JS Letterbook 1, p. 71-->.</note>
+                                Errors like these do not appear in the <date when-iso="1832">1832</date> history.</p> 
+<p xml:id="JSPPH1_d1e737" rend="indent">The history also contains several
+significant contemporaneous revisions in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s handwriting, which may indicate that JS was
+composing original narrative. For instance, at the bottom of page 3 he wrote,
+“about that time my mother and,” but then apparently decided he did not want to
+include this detail and canceled the passage. Such revisions, however, could
+have been made during copying, not during composition. JS and his scribes made
+similar revisions as they copied drafts and other antecedent documents into the
+<ref pm:link-pointer-type="relatedDocument" target="x6548"><date from-iso="1834" to-iso="1836">1834–1836</date> history</ref> and the
+multivolume <ref pm:link-pointer-type="relatedDocument" target="x6804">manuscript history</ref> initiated in <date when-iso="1838">1838</date>. Likewise, JS and
+<ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Williams</ref> may have been modifying the
+circa <date from-iso="1832-06" to-iso="1832-09">summer 1832</date> history as
+they copied it from an earlier text.</p> 
+<p xml:id="JSPPH1_d1e749" rend="indent">Although <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s earliest history bears no
+                                date, its approximate creation date can be determined by considering
+                                the language of the text, the volume in which it is found, and the
+                                larger historical context. <note resp="seniels" xml:id="x04762772-852f-4806-9ebf-8e0f71633c0a" pm:link-target-type="text" type="annotative">The historical
+                                    intro for this document in D2 does not include the rest of this
+                                    paragraph nor the following three paragraphs. Instead it ends
+                                    this sentence “...larger historical context, which suggest that
+                                    the history was most likely composed between 20 July and 22
+                                    September 1832.” There is then a footnote: “For an analysis of
+                                    the dating of the history, see Historical Introduction to JS
+                                    History, ca. Summer 1832, in JSP, H1:7–10.” The final paragraph
+                                    (beginning “Regardless of when...” then is run into this
+                                    paragraph.</note><ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G.
+                                    Williams</ref> first met JS in <date from-iso="1831-06" to-iso="1831-09">summer 1831</date>, but there is no evidence
+                                that he began work as a scribe before <date when-iso="1832-02-16">16
+                                    February 1832</date>, the date of the first item he copied into
+                                JS’s <ref pm:link-pointer-type="relatedDocument" target="X6830">second revelation book</ref>.<note xml:id="JSPPH1_d1e781" pm:link-target-type="text" type="editorial-footnote"><ref target="X2991" pm:link-pointer-type="source">Williams, “<ref pm:link-pointer-type="web" target="http://byustudies.byu.edu/content/frederick-granger-williams-first-presidency-church">Frederick Granger Williams</ref>,” 245–247</ref>; see
+                                    also
+                                    Revelation
+                                    Book 2, <ref pm:link-pointer-type="text" target="X52005F34-47EB-474F-9FC4-4AB58FEB3249">pp.
+                                        1–10</ref><!--, in <title>JSP,</title> MRB:414–433-->.</note>
+                                Although none of the revelations he transcribed into the book bears
+                                a transcription date, the inconsistent copying styles of the various
+                                transcripts and the interspersed transcripts of older revelations
+                                that appear among the <date when-iso="1832-03">March 1832</date>
+                                revelations suggest that the book had become the active
+                                record-keeping repository for the revelations <date notAfter-iso="1832-03">by March 1832</date>.<note xml:id="JSPPH1_d1e811" pm:link-target-type="text" type="editorial-footnote">See
+                                    Revelation
+                                    Book 2, <ref pm:link-pointer-type="text" target="X52005F34-47EB-474F-9FC4-4AB58FEB3249">pp.
+                                        1–20</ref><!--, in <title>JSP,</title> MRB:415–453-->. <ref pm:link-pointer-type="person" target="per70" n="Whitmer, John">John Whitmer</ref> had earlier inscribed
+                                    revelations into a blank book, <ref pm:link-pointer-type="relatedDocument" target="x6829">Revelation Book 1</ref>, but because Whitmer took this book
+                                    to <ref pm:link-pointer-type="place" target="plc140" n="Missouri, United States">Missouri</ref> in <date from-iso="1831-11-21" to-iso="1831-11-30">late November
+                                        1831</date>, another book was needed for copying
+                                    revelations. <ref pm:link-pointer-type="relatedDocument" target="X6830">Revelation Book 2</ref> filled this need, and
+                                    it was apparently begun in <date when-iso="1832-02">February</date> or <date when-iso="1832-03">March
+                                        1832</date>.<!-- (See <title>JSP,</title> MRB:408–410.)--></note>
+                                If JS and Williams were copying revelations in <date when-iso="1832-03">March 1832</date>, it is not implausible that
+                                they created the history around the same time.</p> <p xml:id="JSPPH1_d1e843" rend="indent">The volume containing the history provides clues to
+                                determine the latest date by which the history was written. Sometime
+                                after the history was inscribed, the volume was repurposed as a
+                                letterbook, beginning with a <ref pm:link-pointer-type="text" target="XB4A77256-26AA-47A4-808A-1AF9A02766B9">letter</ref>
+                                dated <date when-iso="1832-11-27">27 November 1832</date>. The
+                                uneven copying styles of the letters from <date from-iso="1833-01" to-iso="1833-04">January to April 1833</date> indicate that the
+                                letterbook was being used as an active copy book during that period,
+                                with letters being transcribed into the volume in chronological
+                                order as they were written, prior to mailing them.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="XF0D31932-FC79-41DB-BBC0-C84A08CD8B5F">See JS Letterbook
+                                    1, <ref pm:link-pointer-type="text" target="X6E0ADA17-5772-44B3-926B-9A889F221AEF">pp.
+                                        14–36</ref>.</note>
+                                <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> probably followed this same
+                                pattern the <date from-iso="1832-09" to-iso="1832-12">previous
+                                    fall</date>, making a contemporaneous copy of the <date when-iso="1832-11-27">27 November 1832</date> letter in the
+                                letterbook before sending the original. If indeed the volume that
+                                contains the circa <date from-iso="1832-06" to-iso="1832-09">summer
+                                    1832</date> history was repurposed as a letterbook at the <date from-iso="1832-11-21" to-iso="1832-11-30">end of
+                                November</date>, the history must have been written before then.</p> 
+<p xml:id="JSPPH1_d1e843" rend="indent">The date range for likely composition of the history can be
+                                narrowed even further. <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Williams</ref>
+                                took on increasing clerical work in <date when-iso="1832-07">July
+                                    1832</date> during a suspension of <ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Sidney Rigdon</ref>’s position as <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s principal counselor and
+                                    scribe.<note xml:id="JSPPH1_d1e864" pm:link-target-type="text" type="editorial-footnote">At the Sunday meeting held in <ref pm:link-pointer-type="place" target="plc13" n="Kirtland Township, Geauga County (now in Lake County), Ohio">Kirtland</ref> on <date when-iso="1832-07-08">8 July
+                                        1832</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> demanded that
+                                        <ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Rigdon</ref> surrender his priesthood
+                                    license because Rigdon had declared <date when-iso="1832-07-05">three days earlier</date> that the “keys of the kingdom”
+                                    had been taken from the church and that he alone retained
+                                        them.<note xml:id="JSPPH1_d1e878" type="toe-note" resp="W" pm:link-target-type="text"><ref target="X8406" pm:link-pointer-type="source">“History [of] Charles
+                                            Coulson Rich,” 3–4, Historian’s Office, Histories of the
+                                            Twelve, ca. 1858–1880, CHL</ref>; <ref target="X6388" pm:link-pointer-type="source">Cahoon, Diary, 5–17 July
+                                            1832</ref>; Lucy Mack Smith, History, 1844–1845, <ref pm:link-pointer-type="text" target="X1D15BE44-BFAE-4A96-9AFC-A8E41C4E9B40">bk.
+                                            13</ref>, [6]; <ref target="X8415" pm:link-pointer-type="source">Dibble, “Philo Dibble’s
+                                            Narrative,” 79–80</ref>.</note>
+                                    <date when-iso="1832-07-28">Three weeks later</date> JS
+                                    reinstated Rigdon in the church presidency.<note xml:id="JSPPH1_d1e885" type="toe-note" resp="W" pm:link-target-type="text"><ref target="X5563" pm:link-pointer-type="source">Hyrum Smith, Diary and
+                                            Account Book, 28 July 1832</ref>;
+                                            <!--JS, Hiram, OH, to William W. Phelps, [Independence, MO], --><ref pm:link-pointer-type="relatedDocument" target="x125">Letter to William W. Phelps, 31 July
+                                        1832</ref><!--, JS Collection, CHL-->.</note></note> In a
+                                later statement, Williams wrote, “I commencd writing for Joseph
+                                Smith Jr <date when-iso="1832-07-20">July 20<hi rend="superscript">th</hi> 1832</date> as may be seen by S Rigdon permission
+                                dated as above.”<note xml:id="JSPPH1_d1e897" pm:link-target-type="text" type="editorial-footnote"><ref target="X3340" pm:link-pointer-type="source">Frederick G.
+                                        Williams, Statement, no date, Frederick G. Williams, Papers,
+                                        CHL</ref>. Although the cited permission is not extant, the
+                                    language of this undated statement indicates that Williams was
+                                    basing his information not on memory but on contemporaneous
+                                    documentation.</note> Following this <date when-iso="1832-07-20">20 July</date> appointment, Williams’s clerical duties expanded
+                                and he recorded revelations, Bible revisions, and letters as JS
+                                    dictated.<note xml:id="JSPPH1_d1e904" pm:link-target-type="text" type="editorial-footnote">See, for example, Revelation Book 2,
+                                        <ref pm:link-pointer-type="text" target="X692FF306-CF9B-4FB7-B0E5-8F6A2BFB69CB">pp.
+                                        19–31</ref><!--, in <title>JSP,</title> MRB:451–475-->; <ref target="X2314" pm:link-pointer-type="source">Faulring et
+                                        al., <title>Joseph Smith’s New Translation of the
+                                            Bible,</title> 59, 70–72</ref>;
+                                        <!--JS, Hiram, OH, to William W. Phelps, [Independence, MO], --><ref pm:link-pointer-type="relatedDocument" target="x125">Letter
+                                        to William W. Phelps, 31 July
+                                    1832</ref><!--, JS Collection, CHL-->; and
+                                        <!--JS, Kirtland OH, to Vienna Jaques, Independence, MO, --><ref pm:link-pointer-type="relatedDocument" target="x180">Letter
+                                        to Vienna Jaques, 4 Sept.
+                                    1833</ref><!--, JS Collection, CHL-->. <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Williams</ref> later wrote
+                                    that from the time of his employment on <date from-iso="1832-07-20" to-iso="1836-01">20 July 1832 until
+                                        January 1836</date>, he “was constantly in said Smiths
+                                    employ.” (<ref target="X3340" pm:link-pointer-type="source">Frederick G. Williams, Statement, no date, Frederick G.
+                                        Williams, Papers, CHL</ref>; compare <ref target="X3CE9" pm:link-pointer-type="source">“Account on Farm,” no date,
+                                        Frederick G. Williams, Papers, CHL</ref>.)</note> JS’s
+                                earliest history was probably inscribed between the <date from-iso="1832-07-20" to-iso="1832-09-22">20 July appointment
+                                    and 22 September 1832</date>, the date of a <ref pm:link-pointer-type="relatedDocument" target="x1542">revelation</ref> that changed JS’s lexicon regarding
+                                priesthood. The history refers to the first priesthood <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> received as the “holy
+                                priesthood,” which was then followed by the reception of the “high
+                                priesthood,” but the <date when-iso="1832-09">September 1832</date>
+                                <ref pm:link-pointer-type="relatedDocument" target="x1542">revelation</ref> reserved the adjective “holy” for the higher
+                                    priesthood.<note xml:id="JSPPH1_d1e959" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="relatedDocument" target="x1542">Revelation, 22–23 Sept.
+                                    1832</ref><!--, in Doctrine and Covenants 4:2–3, 1835 ed.-->
+                                    [D&amp;C 84:6, 18–19]. For examples of
+                                        <date notAfter-iso="1832-09">pre–September 1832</date> use
+                                    of “holy” to describe both the higher and lower priesthoods, see
+                                    Book of Mormon, 1830 ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=79">73–74</ref>,
+                                        <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=264">258–260</ref> [2 Nephi 5:26, 6:2; Alma 13:1–19];
+                                        <!--Elder’s l--><ref pm:link-pointer-type="relatedDocument" target="x34">License for John Whitmer, 9 June
+                                    1830</ref><!--, JS Collection, CHL-->; <!--Teacher’s l--><ref pm:link-pointer-type="relatedDocument" target="x36">License
+                                        for Christian Whitmer, 9 June 1830</ref>;
+                                        <!--Priest’s l--><ref pm:link-pointer-type="relatedDocument" target="x35">License for Joseph Smith Sr., 9 June
+                                    1830</ref><!--, JS Collection, CHL-->.</note> JS’s subsequent
+                                writings and revelations consistently reserved the word “holy” to
+                                describe the greater priesthood only.<note xml:id="JSPPH1_d1e986" pm:link-target-type="text" type="editorial-footnote">See, for
+                                    example, <ref pm:link-pointer-type="relatedDocument" target="x3503">Plat of City of Zion, circa Early June–25
+                                        June 1833</ref><!--, CHL-->; <ref target="X7286" pm:link-pointer-type="source">JS to Oliver Cowdery,
+                                        Blessing, 18 Dec. 1833, in Patriarchal Blessings,
+                                    1:12</ref>; <ref pm:link-pointer-type="relatedDocument" target="x5483">Instruction on priesthood, between ca. 1 Mar.
+                                        and ca. 4 May
+                                    1835</ref><!--, in Doctrine and Covenants 3:1, 8, 10, 1835 ed.-->
+                                    [D&amp;C 107:3, 14, 20].</note> The terminology of the existing
+                                documentary record, therefore, coupled with the date of Williams’s
+                                appointment as scribe, suggests that the history was most likely
+                                composed between <date from-iso="1832-07-20" to-iso="1832-09-22">20
+                                    July and 22 September 1832</date>.</p> <p xml:id="JSPPH1_d1e1053" rend="indent">Regardless of when it
+was created, the circa <date from-iso="1832-06" to-iso="1832-09">summer
+1832</date> history provides the most personal, intimate account of
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s early visions available and preserves details
+of those visions not recorded elsewhere.</p> </div3> </div2> 
+<div2 xml:id="JSPPH1_d1e1061" type="docbody"> 
+<p xml:id="JSPPH1_d1e1063" rend="indent"><handShift resp="SMITHRE" scribe="per63"/><note xml:id="JSPPH1_d1e1065" type="editorial-footnote-scribe" resp="RES" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G.
+                                    Williams</ref> handwriting begins.</note>A History of the life
+                            of <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">Joseph Smith J<hi rend="underscore">r</hi>.</ref> an account <lb/>of his marvilous experience<note xml:id="JSPPH1_d1e1115" pm:link-target-type="text" type="editorial-footnote">In contemporaneous religious writing,
+                                “experience” often denoted personal enlightenment through divine
+                                communication. (<ref target="XE965" pm:link-pointer-type="source">“Experience,” in <title>Oxford English Dictionary,</title>
+                                    3:430</ref>.)</note> and of all the mighty acts <lb/>which he
+                            doeth in the name of Jesus Ch<supplied resp="WAITENN" cert="high">r</supplied>ist the son <lb/>of the living God of whom he beareth
+                            record <lb/>and also an account of the rise of the church of <lb/>Christ
+                            in the eve of time according as the Lord brought <lb/>forth and
+                            established by his hand <add resp="WAITENN">firstly</add> he receiving
+                            <lb/>the testamony from on high seccondly the min<lb/>istering of Angels
+                            thirdly the reception of <lb/>the holy <ref pm:link-pointer-type="topic" target="x4102" n="Priesthood">Priesthood</ref> by the ministring
+                            of—<lb/>Aangels to adminster the letter of the <del resp="Conversion">Law</del>
+                            <add resp="WAITENN">Gospel—</add>
+                            <lb/><add resp="WAITENN">—the Law and commandments as they were given
+                                unto him—</add>
+                            <ns1:lb xmlns:ns1="http://www.tei-c.org/ns/1.0"/>and <del resp="Conversion">in</del><note xml:id="JSPPH1_d1e1283" pm:link-target-type="text" type="editorial-footnote-text">“it”
+                                changed to “in” and then “in” canceled.</note>
+                            <add resp="WAITENN">the</add>
+                            <ref pm:link-pointer-type="topic" target="x4097" n="Ordinance">ordinencs</ref>, forthly a confirmation <lb/>and reception of the
+                                <ref pm:link-pointer-type="topic" target="x5224" n="High priesthood">high Priesthood</ref> after <lb/>the holy order of the son of the
+                            living God pow<lb/>er and ordinence from on high to preach <lb/>the
+                            Gospel in the administration and demonstra<lb/>tion of the spirit
+                                <handShift resp="WAITENN" scribe="per46"/><note resp="apple" xml:id="1ab5c2c0-7aa8-4e1f-837d-009d9d9cd2bd" pm:link-target-type="text" type="editorial-footnote-scribe"><ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G. Williams</ref>
+                                handwriting ends; <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> begins.</note>the <ref pm:link-pointer-type="topic" target="x4091" n="Keys">Kees</ref> of
+                            the Kingdom of God <lb/>confered upon him<note xml:id="JSPPH1_d1e1386" pm:link-target-type="text" type="editorial-footnote">See Matthew
+                                16:19; <ref pm:link-pointer-type="relatedDocument" target="x6526">Revelation, 30 Oct.
+                                1831</ref><!--, in Doctrine and Covenants 24:1, 1835 ed.--> [D&amp;C
+                                65:2]; and <ref pm:link-pointer-type="relatedDocument" target="x2953">Revelation, 15 Mar.
+                                1832</ref><!--, in Doctrine and Covenants 79:1, 1835 ed.--> [D&amp;C
+                                81:2].</note> and the continuation of the <lb/>blessings of God to
+                            him &amp;c——</p> <p xml:id="JSPPH1_d1e1407" rend="indent">I was born in the town of <placeName>Charon <supplied resp="WAITENN">Sharon</supplied></placeName> in the <add resp="Nathan Waite" hand="per46">State</add> of Vermont <lb/>North
+                            America on the <date when-iso="1805-12-23">twenty third day of December
+                                <lb/>AD 1805</date> of goodly Parents<note xml:id="JSPPH1_d1e1476" pm:link-target-type="text" type="editorial-footnote">Compare Book of
+                                Mormon, 1830 ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=11">5</ref> [1 Nephi
+                                1:1].</note> who spared no pains <lb/>to instruct<add resp="WAITENN">ing</add> me in <add resp="WAITENN">the</add> christian
+                                religion<supplied resp="Nathan Waite">.</supplied> at the age of
+                            <lb/>about ten years my Father <ref pm:link-pointer-type="person" target="per58" n="Joseph Smith Sr.">Joseph Smith Seignior</ref>
+                            <lb/>moved to <ref pm:link-pointer-type="place" target="plc18" n="Palmyra Wayne County New York United States">Palmyra</ref>
+                            Ontario County<note type="editorial-footnote" resp="NNW" pm:link-target-type="text" xml:id="X44AD8FEC-E0CA-47D4-A02F-44BB9B1B8F14"><ref pm:link-pointer-type="place" target="plc18" n="Palmyra Township, Wayne County, New York">Palmyra</ref> was
+                                part of Ontario County until <date when-iso="1823-04">April
+                                    1823</date>, when it became part of newly created Wayne County.
+                                    (<ref target="d2e54670" pm:link-pointer-type="source">An Act to Erect
+                                    a New County, from Parts of the Counties of Ontario and Seneca,
+                                    by the Name of Wayne, and For Other Purposes [11 Apr. 1823],
+                                        <title>Laws of the State of New-York</title> [1823], chap.
+                                    138, pp. 158–162</ref>.)</note> in the
+                            State of <lb/>New York and being in indigent circumstances were
+                            <lb/>obliged to labour hard for the support of a large <lb/>Family
+                            having nine chilldren<note xml:id="JSPPH1_d1e1607" pm:link-target-type="text" type="editorial-footnote">When the Smith
+                                family moved to <ref pm:link-pointer-type="place" target="plc18" n="Palmyra Wayne County New York United States">Palmyra</ref>
+                                there were only eight children (two children had died in infancy).
+                                    <ref pm:link-pointer-type="person" target="per553" n="Lucy Smith Millikin">Lucy</ref>, the ninth child, was born
+                                    <date when-iso="1821-07-18">18 July 1821</date>, when <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref> was fifteen.</note> and as it
+                            require<lb/>d the<del resp="Conversion">ir</del> exertions of all that
+                            were able to render <lb/>any assistance for the support of the Family
+                            <lb/>therefore we were deprived of the bennifit of an <lb/>education
+                            suffice it to say I was mearly instruct<lb/>tid in reading <del resp="Conversion">and</del> writing and the ground <add resp="WAITENN">rules</add> of <lb/>Arithmatic which const<supplied resp="WAITENN" cert="high">it</supplied>uted my whole lite<lb/>rary
+                                acquirements.<note xml:id="JSPPH1_d1e1740" pm:link-target-type="text" type="editorial-footnote">The Smith
+                                family embarked on a new effort to clear land and establish a family
+                                farm in <ref pm:link-pointer-type="place" target="plc96" n="New York United States">New York</ref> after years of
+                                financial misfortune in <ref pm:link-pointer-type="place" target="x6199" n="Vermont">Vermont</ref> and <placeName>New
+                                    Hampshire</placeName>. <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref> and his siblings
+                                did, however, receive some formal schooling in their youth and
+                                probably received some rudimentary education at home. (See <ref target="X5989" pm:link-pointer-type="source">Palmyra, NY,
+                                    Attendance record, first school district, Sept.–Nov. 1817,
+                                    Macedon Historical Society, Macedon, NY</ref>; see also <ref target="XDC3B" pm:link-pointer-type="source">Marquardt,
+                                        <title>Rise of Mormonism,</title> 33–34</ref>.)</note> At
+                            about the age of twelve <lb/>years my mind become seriously imprest <pb xml:id="JSPPH1_d1e1783" type="present" n="1" facs="6547_MS155_2_01_LB1_history_001.jpg"/> with regard to the all
+                            importent concerns <del resp="Conversion">of</del> for the well<lb/>fare
+                            of my immortal Soul which led me to search<lb/>ing the scriptures
+                            believeing as I was taught, that <lb/>they contained the word of God
+                            thus applying <lb/>myself to them and my intimate acquaintance <lb/>with
+                            those of differant denominations led me to <lb/>marvel excedingly for I
+                            discovered that <add resp="WAITENN">they did not <del resp="Conversion">adorn</del></add>
+                            <del resp="Conversion">instead of</del>
+                            <lb/>adorn<del resp="Conversion">ing</del> their profession by a holy
+                            walk and God<lb/>ly conversation<note xml:id="JSPPH1_d1e1919" pm:link-target-type="text" type="editorial-footnote">See 1 Peter
+                                1:15; 2 Peter 3:11; and <ref pm:link-pointer-type="relatedDocument" target="x4904">Articles and Covenants, ca. Apr.
+                                1830</ref><!--, in Book of Commandments 24:48--> [D&amp;C
+                                20:69].</note> agreeable to what I found contain<lb/>ed in that
+                            sacred depository this was a grief to <lb/>my Soul thus from the age of
+                            twelve years <lb/>to fifteen I pondered many things in my heart
+                            <lb/>concerning the sittuation of the world of mankind <lb/>the
+                            contentions and divi<supplied resp="WAITENN">si</supplied>ons the
+                                wicke<supplied resp="WAITENN">d</supplied>ness and <lb/>abominations
+                            and the darkness which pervaded <lb/>the <del resp="Conversion">of
+                                the</del> minds of mankind my mind become <lb/>excedingly distressed
+                            for I become convicted of my <lb/>sins and by searching the scriptures I
+                            found <lb/>that <del resp="Nathan Waite">mand</del>
+                            <add resp="WAITENN">mankind</add> did not come unto the Lord but that
+                            <lb/>they had apostatised from the true and liveing <lb/>faith and there
+                            was no society or denomination <lb/>that built upon the gospel of Jesus
+                            Christ as <lb/>recorded in the new testament<note xml:id="JSPPH1_d1e2109" pm:link-target-type="text" type="editorial-footnote">Like the Disciples of Christ and other
+                                primitivists, <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref> believed that the mainline
+                                churches of his day had strayed from the order and teachings of the
+                                New Testament church. (See <ref target="XB821" pm:link-pointer-type="source">Hughes and Allen, <title>Illusions
+                                        of Innocence,</title> chap. 6</ref>.)</note> and I felt to
+                            mourn <lb/>for my own sins and for the sins of the world<note xml:id="JSPPH1_d1e2127" pm:link-target-type="text" type="editorial-footnote">See, for example, 1 John 2:2; and Book of
+                                Mormon, 1830 ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=524">518</ref> [4
+                                Nephi 1:44].</note>
+                            <lb/>for I learned in the scriptures that God was <lb/>the same
+                            yesterday to day and forever<note xml:id="JSPPH1_d1e2164" pm:link-target-type="text" type="editorial-footnote">See Hebrews
+                                13:8; and Book of Mormon, 1830 ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=117">111</ref>, <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=122">116</ref> [2
+                                Nephi 27:23; 29:9].</note> that he was <lb/>no respecter to
+                                persons<note xml:id="JSPPH1_d1e2175" pm:link-target-type="text" type="editorial-footnote">See Acts 10:34–35; <ref pm:link-pointer-type="relatedDocument" target="x6529">Revelation, 1 Nov.
+                                1831–B</ref><!--, in Book of Commandments 1:6--> [D&amp;C 1:35]; and
+                                    <ref pm:link-pointer-type="relatedDocument" target="x6497">Revelation, 2 Jan.
+                                1831</ref><!--, in Book of Commandments 40:14--> [D&amp;C
+                                38:16].</note> for he was God for I <lb/>looked upon the sun the
+                            glorious luminary of <lb/>the earth and also the moon rolling in their
+                            <lb/>magesty through the heavens and also the stars <lb/>shining in
+                            their courses and the earth also upon whic<lb/>h I stood and the beast
+                            of the field and the fowls of <lb/>heaven and the fish of the waters and
+                            also man walking <lb/>forth upon the face of the earth in magesty and in
+                            <lb/>the strength of beauty whose power and intiligence <lb/>in
+                            governing the things which are so exceding great and <pb xml:id="JSPPH1_d1e2327" type="present" n="2" facs="6547_MS155_2_01_LB1_history_002.jpg"/> marvilous even in the
+                            likeness of him who created <del resp="Conversion">him</del>
+                            <add resp="WAITENN">them</add>
+                            <lb/>and when I considered upon these things my heart exclai<lb/>med
+                            well hath the wise man said <del resp="Conversion">the</del>
+                            <add resp="WAITENN">it is a</add> fool <add resp="WAITENN">that</add>
+                            saith in <lb/>his heart there is no God<note xml:id="JSPPH1_d1e2432" pm:link-target-type="text" type="editorial-footnote">See Psalms
+                                14:1; 53:1.</note> my heart exclaimed all all <lb/>these bear
+                            testimony and bespeak an omnipotant <lb/>and omnipreasant power a being
+                            who makith Laws and <lb/>decreeeth and bindeth all things in their
+                                bounds<note xml:id="JSPPH1_d1e2537" pm:link-target-type="text" type="editorial-footnote">The teleological argument for the
+                                existence of God, the “argument from design,” was standard in the
+                                Christian tradition of the philosophy of religion. (<ref target="X91DB" pm:link-pointer-type="source">“Design Argument,”
+                                    in <title>Dictionary of the History of Ideas,</title>
+                                    1:670–677</ref>; <ref target="XD72C" pm:link-pointer-type="source">Cosslett, <title>Science and
+                                        Religion in the Nineteenth Century,</title> 25</ref>; see
+                                also Book of Mormon, 1830 ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=314">308</ref> [Alma
+                                30:44]; and <ref pm:link-pointer-type="relatedDocument" target="x2960">Revelation,
+                                    27–28
+                                    Dec.
+                                1832</ref><!--, in Doctrine and Covenants 7:9–12, 1835 ed.-->
+                                [D&amp;C 88:36–47].)</note> who <lb/>filleth Eternity who was and is
+                            and will be from all <lb/>Eternity to Eternity and when <add resp="WAITENN">I</add> considered all these things <lb/>and that
+                                <add resp="WAITENN">that</add> being seeketh such to worshep him as
+                            wors<lb/>hip him in spirit and in truth<note xml:id="JSPPH1_d1e2624" pm:link-target-type="text" type="editorial-footnote">See John 4:24;
+                                and Book of Mormon, 1830 ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=327">321</ref> [Alma
+                                34:38].</note> therefore I cried unto <lb/>the Lord for mercy for
+                            there was none else to whom I could go and <lb/><del resp="Conversion">to</del> obtain mercy and the Lord heard my cry in the
+                            wilderne<lb/>ss and while in <add resp="WAITENN">the</add> attitude of
+                            calling upon the Lord <handShift resp="seniels" scribe="per63"/><add resp="WAITENN" hand="per63">in the 16th year of my age</add><note xml:id="JSPPH1_d1e2671" pm:link-target-type="text" type="editorial-footnote-scribe">Insertion in the handwriting of
+                                    <ref pm:link-pointer-type="person" target="per63" n="Frederick G. Williams">Frederick G. Williams</ref>. <ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">JS</ref> later recounted that this vision
+                                occurred in early <date from-iso="1820-03" to-iso="1820-06">spring
+                                    1820</date>, when he was fourteen years old. (JS History, vol.
+                                A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=3">3</ref><!--, p. 212 herein [Draft 2]-->; compare JS, Journal,
+                                    <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11
+                                    Nov.
+                                1835</ref><!--, in <title>JSP,</title> J1:87–88 [see also later version, p. 115–116 herein]-->;
+                                    <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church
+                                        History</ref>,” <title>Times and Seasons,</title> 1 Mar.
+                                    1842, 3:706</ref><!--, p. 494 herein-->; and <ref target="XDFB9" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x4786">Latter
+                                        Day Saints</ref>,” in Rupp, <title>He Pasa Ekklesia,</title>
+                                    404–405</ref><!--, p. 508 herein-->.)</note>
+                            <handShift resp="seniels" scribe="per46"/>a piller of <lb/><del resp="Conversion">fire</del> light above the brightness of the sun
+                            at noon day <lb/>come down from above and rested upon me and I was
+                            filled <lb/>with the spirit of god and the <add resp="Nathan Waite">Lord</add> opened the heavens upon <lb/>me and I saw the Lord<note xml:id="JSPPH1_d1e2780" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> later recounted
+                                that he saw two “personages,” that one appeared after the other, and
+                                that “they did in reality speak unto me, or one of them did.” Other
+                                accounts identify the two personages as God the Father and Jesus
+                                Christ. (JS History, vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=3">3</ref><!--, p. 214 herein [Draft 2]-->; JS, Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11 Nov.
+                                    1835</ref><!--, in <title>JSP,</title> J1:88 [see also later version, p. 116 herein]-->.)</note>
+                            and he spake unto me saying <lb/><ref pm:link-pointer-type="person" target="per46" n="Joseph Smith Jr.">Joseph</ref>
+                            <add resp="Nathan Waite">my son</add> thy sins are forgiven thee. go thy
+                                <add resp="Nathan Waite">way</add> walk in my <lb/>statutes and keep
+                            my commandments behold I am the <lb/>Lord of glory I was crucifyed for
+                            the world that all those <lb/>who believe on my name may have Eternal
+                            life <add resp="Nathan Waite">behold</add> the world <lb/>lieth in sin
+                                <del resp="Conversion">and</del> at this time and none doeth good no
+                            <lb/>not one they have turned asside from the gospel and <lb/>keep not
+                                <add resp="Nathan Waite">my</add> commandments they draw near to me
+                            with their <lb/>lips while their hearts are far from me and mine anger
+                            <lb/>is kindling against the inhabitants of the earth to visit <lb/>them
+                            acording to thir ungodliness and to bring to pass <lb/>that which <add resp="Nathan Waite">hath</add> been spoken by the mouth of the
+                            prophe<lb/>ts and Ap<supplied resp="Nathan Waite">o</supplied>stles<note xml:id="JSPPH1_d1e3043" pm:link-target-type="text" type="editorial-footnote">The importance of the biblical prophecies
+                                appears as a persistent theme in <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s religious
+                                thought. <ref pm:link-pointer-type="person" target="x4450" n="Tucker, Pomeroy">Pomeroy Tucker</ref>, who was acquainted
+                                with JS during their adolescence, affirmed JS’s claim to have
+                                studied the Bible and reminisced that the “Prophecies and
+                                Revelations were his special forte.” Whereas the prophets of the Old
+                                Testament promised the restoration of Israel and a Messianic reign,
+                                Jesus and John proclaimed a future apocalypse and a millennium of
+                                peace. JS’s earliest revelations conveyed the message of both an
+                                end-time restoration and an imminent apocalypse. (<ref target="XCD70" pm:link-pointer-type="source">Tucker,
+                                        <title>Origin, Rise, and Progress of Mormonism,</title>
+                                    17</ref>.)</note> behold and lo I come quickly as it <supplied resp="Nathan Waite" cert="low">is</supplied> wr<lb/>itten of me in
+                            the cloud <add resp="Nathan Waite">clothed</add> in the glory of my
+                                Father<note xml:id="JSPPH1_d1e3108" pm:link-target-type="text" type="editorial-footnote">Christ’s declaration is saturated with
+                                scriptural allusions and phraseology from both the Bible and <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s revelatory texts. See, for
+                                example, Leviticus 26:3; <ref pm:link-pointer-type="relatedDocument" target="x2949">Vision, 16 Feb.
+                                1832</ref><!--, in Doctrine and Covenants 91:4, 1835 ed.--> [D&amp;C
+                                76:41]; <ref pm:link-pointer-type="relatedDocument" target="x6504">Revelation, ca. 7 Mar.
+                                1831</ref><!--, in Book of Commandments 48:9–10--> [D&amp;C 45:8];
+                                    <ref pm:link-pointer-type="relatedDocument" target="x1542">Revelation, 22–23 Sept.
+                                1832</ref><!--, in Doctrine and Covenants 4:7, 1835 ed.--> [D&amp;C
+                                84:49]; Psalm 14:3; Isaiah 29:13;
+                                Deuteronomy 29:27; and Matthew 24:30.</note>
+                            <lb/>and my soul was filled with love and for many days I <lb/>could
+                            rejoice with great Joy and the Lord was with me <lb/>but could find none
+                            that would believe the hevnly <lb/>vision nevertheless I pondered these
+                            things in my heart<note xml:id="JSPPH1_d1e3194" pm:link-target-type="text" type="editorial-footnote">Compare Luke
+                                2:19.</note>
+                            <lb/><del resp="Conversion">about that</del>
+                            <del resp="Conversion">time my <ref pm:link-pointer-type="person" target="x4507" n="Smith, Lucy Mack">mother</ref></del>
+                            <del resp="Conversion">and</del><note xml:id="JSPPH1_d1e3211" pm:link-target-type="text" type="editorial-footnote">This canceled
+                                fragment may refer to the Presbyterian affiliation of <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="person" target="x4507" n="Smith, Lucy Mack">mother</ref> and three of his siblings. In
+                                    <date when-iso="1838">1838</date>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> recounted that they “were
+                                proselyted to the Presbyterian faith” in connection with the
+                                revivalism preceding his vision. (<ref target="XFBDB" pm:link-pointer-type="source">“Records of the Session of the
+                                    Presbyterian Church in Palmyra,” 10, 24, and 29 Mar. 1830</ref>;
+                                JS History, vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=2">2</ref><!--, p. 208 herein [Draft 2]-->.)</note> but after many
+                            days <pb xml:id="JSPPH1_d1e3233" type="present" n="3" facs="6547_MS155_2_01_LB1_history_003.jpg"/>
+                            <handShift resp="SMITHRE" scribe="per63"/><note xml:id="JSPPH1_d1e3236" type="editorial-footnote-scribe" resp="RES" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> handwriting ends;
+                                    <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G. Williams</ref>
+                                begins.</note>I fell into transgressions and sinned in many things
+                            <lb/>which brought a wound upon my soul and there were many <lb/>things
+                            which transpired that cannot be writen and my <ref pm:link-pointer-type="person" target="per58" n="Joseph Smith Sr.">Father</ref>s <lb/>family have suffered many persicutions and
+                            afflictions and it <lb/>came to pass when I was seventeen years of age I
+                            called again <lb/>upon the Lord and he shewed unto me a heavenly vision
+                            <lb/>for behold an angel of the Lord<note xml:id="JSPPH1_d1e3346" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> identified this angel as Moroni,
+                                the last ancient American prophet to write in the <ref pm:link-pointer-type="relatedDocument" target="X6816">Book of
+                                    Mormon</ref>. (<ref target="X2632" pm:link-pointer-type="source">[JS], Editorial, <title>Elders’ Journal,</title> July 1838,
+                                        <ref pm:link-pointer-type="web" target="/paperSummary/elders-journal-july-1838?p=10">42–44</ref></ref>; see also <ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery, “Letter VI,”
+                                        <title>LDS Messenger and Advocate,</title> Apr. 1835,
+                                    1:112</ref><!-- [see also later version, p. 71 herein]-->; and
+                                    <ref pm:link-pointer-type="relatedDocument" target="x6482">Revelation, ca. Aug.
+                                1830</ref><!--, in Doctrine and Covenants 50:2, 1835 ed.--> [D&amp;C
+                                27:5]. For JS’s other accounts of this experience, see JS, Journal,
+                                    <ref pm:link-pointer-type="text" target="JSPPJ1_d1e16685">9–11
+                                    Nov.
+                                1835</ref><!--, in <title>JSP,</title> J1:88–89--><!-- [see also later version, p. 116–117 herein]-->;
+                                JS History, vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=4">4–7</ref><!--JS History Drafts, 1838–ca. 1841--><!--, pp. 220–233 herein-->;
+                                    <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church
+                                        History</ref>,” <title>Times and Seasons,</title> 1 Mar.
+                                    1842, 3:706–707</ref><!--, p. 494–495 herein-->; and <ref target="XDFB9" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x4786">Latter
+                                        Day Saints</ref>,” in Rupp, <title>He Pasa Ekklesia,</title>
+                                    405</ref><!--, p. 508–509  herein-->.)</note> came and stood
+                            before me <lb/>and it was by night and he called me by name and he said
+                            <lb/>the Lord had forgiven me my sins and he revealed unto <lb/>me that
+                            in the Town of <ref pm:link-pointer-type="place" target="plc15" n="Manchester Ontario New York United States">Manchester</ref>
+                            Ontario County N.Y. <lb/>there was plates of gold upon which there was
+                            engravings <lb/>which was engraven by Maroni &amp; his fathers the
+                            servants <lb/>of the living God in ancient days and deposited by
+                                th<supplied resp="Nathan Waite">e</supplied>
+                            <lb/>commandments of God and kept by the power thereof <lb/>and that I
+                            should go and get them and he revealed <lb/>unto me many things
+                            concerning the inhabitents of <lb/>of the earth which since have been
+                            revealed in com<lb/>mandments &amp; revelations and it was on the <date when-iso="1822-09-22">22d day of <lb/>Sept. AD <del resp="Nathan Waite">1<gap resp="Nathan Waite" unit="chars" extent="1" reason="illegible"/>82</del> 1822</date><note xml:id="JSPPH1_d1e3600" pm:link-target-type="text" type="editorial-footnote">Later accounts clarify that Moroni first
+                                appeared late in the night of <date from-iso="1823-09-21" to-iso="1823-09-22">21–22 September 1823</date>. (JS History,
+                                vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=5">5</ref><!--, pp. 220 herein [Draft 2]-->; <ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery, “Letter IV,”
+                                        <title>LDS Messenger and Advocate,</title> Feb. 1835,
+                                    1:78–79</ref><!-- [see also later version,  p. 57 herein]-->.)</note>
+                            and thus he appeared unto me three <lb/>times in one night and once on
+                            the next day <lb/>and then I immediately went to the place and found
+                            <lb/>where the plates was deposited as the angel of the Lord <lb/>had
+                            commanded me and straightway made three attempts <lb/>to get them and
+                            then being excedingly frightened <lb/>I supposed it had been a dreem of
+                            Vision but <lb/>when I considred I knew that it was not therefore I
+                            <lb/>cried unto the Lord in the agony of my soul <lb/>why can I not
+                            obtain them<note xml:id="JSPPH1_d1e3770" pm:link-target-type="text" type="editorial-footnote">In <date when-iso="1835">1835</date>, <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref> wrote that <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was “sensibly shocked” each time
+                                he attempted to remove the plates from their repository. (<ref target="X5177" pm:link-pointer-type="source">Oliver Cowdery,
+                                    “Letter VIII,” <title>LDS Messenger and Advocate,</title> Oct.
+                                    1835,
+                                2:197–198</ref><!-- [see also later version, p. 82 herein]-->; see
+                                also <ref target="X4F96" pm:link-pointer-type="source">Knight,
+                                    Reminiscences, 1</ref>; and Lucy Mack Smith, History, 1844–1845,
+                                    <ref pm:link-pointer-type="text" target="X5F6D110D-8DA1-41CC-86CB-49A9F174636B">bk. 5</ref>,
+                                [5].)</note> behold the angel <lb/>appeared unto me again and said
+                            unto me you <lb/>have not kept the commandments of the Lord <lb/>which I
+                            gave unto you therefore you cannot now obtain <lb/>them for the time is
+                            not yet fulfilled therefore thou <lb/>wast left unto temptation that
+                            thou mightest be made <lb/>accquainted <del resp="Conversion">of</del>
+                            with the power of the advisary therefore <lb/>repent and call on the
+                            Lord thou shalt be forgiven <lb/>and in his own due time thou shalt
+                            obtain them <pb xml:id="JSPPH1_d1e3947" type="present" n="4" facs="6547_MS155_2_01_LB1_history_004.jpg"/> for now I had been
+                            tempted of the advisary and saught <lb/>the Plates to obtain riches and
+                            kept not the commandme<supplied resp="Nathan Waite">n</supplied>t
+                            <lb/>that I should have an eye single to the Glory of God<note xml:id="JSPPH1_d1e4013" pm:link-target-type="text" type="editorial-footnote">See Matthew 6:22; and Book of Mormon, 1830
+                                ed., <ref pm:link-pointer-type="web" target="/paperSummary/book-of-mormon-1830?p=539">533</ref>
+                                [Mormon 8:15].</note>
+                            <lb/>therefore I was chastened and saught diligently to obtain the
+                            <lb/>plates and obtained them not untill I was twenty one <lb/>years of
+                            age and in this year I was married to <ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">Emma <lb/>Hale</ref> Daughtr of
+                                <ref pm:link-pointer-type="person" target="per54" n="Hale, Isaac">Isaach <supplied resp="Nathan Waite">Isaac</supplied> Hale</ref>
+                            who lived in <ref pm:link-pointer-type="place" target="plc20" n="Harmony, Susquehanna County, Pennsylvania, United States">Harmony</ref>
+                            <lb/>Susquehan<supplied resp="Nathan Waite">n</supplied>a County
+                            Pensylvania on the <date when-iso="1827-01-18">18<hi rend="superscript">th</hi> January <lb/>AD, 1827</date>, on the <date when-iso="1827-09-22">22<hi rend="superscript">d</hi> day of Sept of
+                                this same year</date> I ob<lb/>tained the plat<supplied resp="Nathan Waite">e</supplied>s—and <del resp="Conversion">the</del> in <date when-iso="1827-12">December following</date> we
+                            <lb/>mooved to <ref pm:link-pointer-type="place" target="plc221" n="Susquehanna County, Pennsylvania, United States">Susquehana</ref>
+                            by the assistence of a man by the <lb/>name of <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Martin Har<supplied resp="Nathan Waite">r</supplied>is</ref> who
+                            became convinced of th<supplied resp="Nathan Waite">e</supplied>
+                            <lb/>vision and gave me fifty Dollars to bare my expences <lb/>and
+                            because of his faith and this rightheous deed the <lb/>Lord appeared
+                            unto him in a vision and shewed unto <lb/>him his marvilous work which
+                            he was about to do <lb/><handShift resp="NathanWaite" scribe="per46"/><note resp="apple" xml:id="c2182890-83c5-43ba-bf78-69646544a0c3" pm:link-target-type="text" type="editorial-footnote-scribe"><ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G. Williams</ref>
+                                handwriting ends; <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> begins.</note>and <add resp="Nathan Waite">h<supplied resp="Nathan Waite">e</supplied></add> imediately came to <ref pm:link-pointer-type="place" target="plc221" n="Susquehanna County, Pennsylvania, United States">Suquehannah</ref> and said the Lord <lb/>had shown him that he must
+                            go to <ref pm:link-pointer-type="place" target="plc35" n="New York, New York County, New York, United States">new York
+                                City</ref>
+                            <lb/><add resp="Nathan Waite">with</add> some of the characters so we
+                            proceeded to coppy some <lb/>of them and he took his Journy to the
+                            Eastern <lb/>Cittys and to the Learned<note xml:id="JSPPH1_d1e4498" pm:link-target-type="text" type="editorial-footnote">In <date from-iso="1828-01" to-iso="1828-04">early 1828</date>, <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Harris</ref> visited <persName>Luther Bradish</persName> in
+                                    <ref pm:link-pointer-type="place" target="x7432" n="Albany, Albany County, New York">Albany</ref>, New York, and
+                                    <ref pm:link-pointer-type="person" target="x4326" n="Anthon, Charles">Charles Anthon</ref> and <persName>Samuel
+                                    Mitchill</persName> in <ref pm:link-pointer-type="place" target="plc35" n="New York, New York County, New York, United States">New York
+                                    City</ref>. An extant document bearing the title “<ref pm:link-pointer-type="relatedDocument" target="x4">Caractors</ref>,”
+                                which contains several rows of copied characters, appears to be
+                                related to the document Harris carried with him. (JS History, vol.
+                                A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=11">9</ref><!--, p. 240–244 herein [Draft 2]-->; “<ref pm:link-pointer-type="relatedDocument" target="x4">Caractors</ref>,”
+                                [ca. 1829–1830],
+                                CCLA<!--; see also reproduction and discussion of this document in <title>The Joseph Smith Papers,</title> Documents series, vol. 1 [forthcoming]-->.)</note>
+                            <add resp="Nathan Waite">saying</add> read this I pray thee <lb/>and the
+                            learned said I cannot but if he wo<lb/>uld bring the blates <supplied resp="Nathan Waite">plates</supplied> they would read it but
+                            <lb/>the Lord had forbid it and he returned to me <lb/>and gave them to
+                                <add resp="Nathan Waite">me</add>
+                            <add resp="Nathan Waite">to</add>
+                            <ref pm:link-pointer-type="topic" target="x6240" n="Translate">translate</ref> and I said <del resp="Conversion">I said</del>
+                            <lb/>cannot for I am not learned but the Lord <lb/>had prepared <del resp="seniels">spectticke</del> spectacles<note xml:id="JSPPH1_d1e4694" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> recounted that he
+                                found these spectacles with the plates. (JS History, vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=7">7</ref><!--, p. 232 herein [Draft 2]-->; <ref target="X8296" pm:link-pointer-type="source">JS, “<ref pm:link-pointer-type="relatedDocument" target="x778">Church
+                                        History</ref>,” <title>Times and Seasons,</title> 1 Mar.
+                                    1842, 3:707</ref><!--, p. 495 herein-->; see also “<ref pm:link-pointer-type="topic" target="x6253" n="Urim and Thummim">Urim and Thummim</ref>,” in Glossary.)</note> for to read
+                            <lb/>the Book therefore <handShift resp="SMITHRE" scribe="per63"/><note xml:id="JSPPH1_d1e4726" type="editorial-footnote-scribe" resp="RES" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> handwriting ends;
+                                    <ref pm:link-pointer-type="person" target="per63" n="Williams, Frederick Granger">Frederick G. Williams</ref>
+                                begins.</note>I commenced translating the char<lb/>acters and thus
+                            the Propicy <supplied resp="Nathan Waite">prophecy</supplied> of Isiaah
+                            was fulfilled which <lb/>is writen in the 29 chaptr concerning the
+                                book<note xml:id="JSPPH1_d1e4805" pm:link-target-type="text" type="editorial-footnote">See Isaiah 29:11–14.</note> and <lb/>it
+                            came to pass that after we had translated 116 <lb/>pages<note xml:id="JSPPH1_d1e4822" pm:link-target-type="text" type="editorial-footnote">This page count may be a retrospective
+                                approximation based on the later manuscript copy of the <ref pm:link-pointer-type="relatedDocument" target="X6816">Book of
+                                    Mormon</ref> used by the printer.<note resp="seniels" xml:id="x4e634106-3d3f-44bf-bdbc-c396ca5de735" pm:link-target-type="text" type="annotative">link to printer’s
+                                    ms when it is posted</note> The top of page 117 in that copy
+                                marks the beginning of the book of Mosiah, which corresponds to the
+                                end of the period covered in the pages lost by <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Harris</ref>. (See <ref target="X7644" pm:link-pointer-type="source">Skousen, <title>Printer’s
+                                        Manuscript,</title> 284</ref>.)</note> that <ref pm:link-pointer-type="person" target="per64" n="Martin Harris">he</ref> desired to carry them to read to his <lb/>friends that
+                            peradventur he might convince them <lb/>of the truth therefore I
+                            inquired of the Lord and the <lb/>Lord said unto me that he must not
+                            take them <lb/>and I spake unto him (<ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Martin</ref>) the word of the Lord
+                                <pb xml:id="JSPPH1_d1e4896" type="present" n="5" facs="6547_MS155_2_01_LB1_history_005.jpg"/> and he said inquire
+                            again and I inquired again <lb/>and also the third time and the Lord
+                            said unto <lb/>me let him go with them only he shall covenant <lb/>with
+                            me that he will not shew them to only but <lb/>four persons and he
+                            covenented withe Lord that he <lb/>would do according to the word of the
+                                Lord<note xml:id="JSPPH1_d1e5023" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Martin Harris</ref> was
+                                permitted to show the translation manuscript to five members of his
+                                extended family: his wife, <ref pm:link-pointer-type="person" target="x5263" n="Harris, Lucy Harris">Lucy Harris Harris</ref>;
+                                his brother <ref pm:link-pointer-type="person" target="x4265" n="Harris, Preserved">Preserved Harris</ref>; his father, <ref pm:link-pointer-type="person" target="x6945" n="Harris, Nathan">Nathan Harris</ref>, his mother, <ref pm:link-pointer-type="person" target="x6946" n="Harris, Rhoda Lapham">Rhoda Lapham Harris</ref>; and his
+                                wife’s sister <ref pm:link-pointer-type="person" target="x6941" n="Parker, Mary (Polly) Harris Cobb">Polly Harris Cobb</ref>.
+                                (JS History, vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=11">9</ref><!--, p. 244 herein [Draft 2]-->; <ref target="XCAB2" pm:link-pointer-type="source">Pilkington, Autobiography and
+                                    statements, 15–16</ref>; <ref target="X0048" pm:link-pointer-type="source">“Married,” <title>Geneva [NY]
+                                        Gazette,</title> 3 June 1812, 3</ref>; <ref target="X8987" pm:link-pointer-type="source">Tuckett and Wilson, <title>Martin
+                                        Harris Story,</title> 176–179</ref>; see also Lucy Mack
+                                Smith, History, 1844–1845, <ref pm:link-pointer-type="text" target="X55679A9C-5BC4-4452-AF74-B22BCCFBDFE1">bk. 6</ref>,
+                                [10]–[12]; <ref pm:link-pointer-type="text" target="XECAD67B3-1B12-4F4B-8D4B-1AF5D58AF0E3">bk. 7</ref>,
+                                [1].)</note> therefore <lb/>he took them and took his journey unto
+                            his friends <lb/>to <ref pm:link-pointer-type="place" target="plc18" n="Palmyra, Wayne County, New York, United States">Palmire <supplied resp="Nathan Waite">Palmyra</supplied></ref> Wayne County &amp;
+                            State of N York and he <lb/>brake the covenent which he made before the
+                            <lb/>Lord and the Lord suffered the writings to <lb/>fall into the hands
+                            of wicked men<note xml:id="JSPPH1_d1e5135" pm:link-target-type="text" type="editorial-footnote">Sometime after <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Harris</ref> read or showed the manuscript to other
+                                acquaintances, it was lost or stolen.<note xml:id="JSPPH1_d1e5140" type="toe-note" resp="W" pm:link-target-type="text"><ref pm:link-pointer-type="relatedDocument" target="x1523">Preface to Book of Mormon</ref>, 1830 ed., iii; JS History,
+                                    vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=14">inserted page
+                                    1</ref><!--, p. 252 herein [Draft 2]-->.</note> Martin Harris
+                                and several others believed that his wife, <ref pm:link-pointer-type="person" target="x5263" n="Harris, Lucy Harris">Lucy Harris Harris</ref>, stole the
+                                manuscript. Conflicting accounts claim she burned it or gave it to
+                                    others.<note xml:id="JSPPH1_d1e5146" type="toe-note" resp="W" pm:link-target-type="text"><ref target="X1878" pm:link-pointer-type="source">Howe, <title>Mormonism
+                                            Unvailed,</title> 22</ref>; <ref target="X6276" pm:link-pointer-type="source">Clark, <title>Gleanings by the
+                                            Way,</title> 247–248</ref>; Lucy Mack Smith, History,
+                                    1844–1845, <ref pm:link-pointer-type="text" target="XECAD67B3-1B12-4F4B-8D4B-1AF5D58AF0E3">bk. 7</ref>,
+                                    [5]–[8].</note></note> and <ref pm:link-pointer-type="person" target="per64" n="Harris, Martin">Martin</ref>
+                            <lb/>was Chastened for his transgression and I also was <lb/>chastened
+                                <del resp="Conversion">also</del> for my transgression for asking
+                            <lb/>the Lord the third time wherefore the Plates was <lb/>taken from me
+                            by the power of God and <lb/>I was not able to obtain them for a season
+                            <lb/>and it came to pass afte<supplied resp="Nathan Waite">r</supplied>
+                            much humility and <lb/>affliction of Soul I obtained them again<note xml:id="JSPPH1_d1e5287" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> later recounted
+                                that he again received the plates from the angel “in a few days.”
+                                (JS History, vol. A-1, <ref pm:link-pointer-type="web" target="/paperSummary/history-1838-1856-volume-a-1-23-december-1805-30-august-1834?p=14">inserted page 1</ref><!--, p. 252 herein [Draft 2]-->; compare
+                                Lucy Mack Smith, History, 1844–1845, <ref pm:link-pointer-type="text" target="XECAD67B3-1B12-4F4B-8D4B-1AF5D58AF0E3">bk. 7</ref>, [9];
+                                see also <ref pm:link-pointer-type="relatedDocument" target="X4968">Revelation, July
+                                1828</ref><!--, in Book of Commandments 2:3–5--> [D&amp;C
+                                3:6–13].)</note> when <lb/>Lord appeared unto a young man by the
+                            name <lb/>of <ref pm:link-pointer-type="person" target="per47" n="Cowdery,Oliver">Oliver Cowd<supplied resp="Nathan Waite">e</supplied>ry</ref> and shewed unto him the <lb/>plates in a
+                            vision and also the truth of the <lb/>work and what the Lord was about
+                            to do through <lb/>me his unworthy Servant<note xml:id="JSPPH1_d1e5340" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Cowdery</ref> heard about <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and the gold
+                                plates while residing in <ref pm:link-pointer-type="place" target="plc220" n="Wayne County, New York, United States">Wayne
+                                    County</ref>, New York, and then boarded with JS’s parents.
+                                    (<ref target="XBDCD" pm:link-pointer-type="source">Morris,
+                                    “Conversion of Oliver Cowdery,” 7–8</ref>.)</note> therefore he
+                            was desiorous <lb/>to come and write for me <del resp="Conversion">and</del> to translate now my <lb/><ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">wife</ref> had writen some for me to translate and <lb/>also my
+                            Brothr <ref pm:link-pointer-type="person" target="per65" n="Smith, Samuel Harrison">Samuel H Smith</ref><note xml:id="JSPPH1_d1e5443" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">Emma</ref> and <ref pm:link-pointer-type="person" target="per65" n="Smith, Samuel Harrison">Samuel Smith</ref> wrote down the
+                                words of the <ref pm:link-pointer-type="relatedDocument" target="X6816">Book of Mormon</ref> as <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> spoke them. (<ref target="X3416" pm:link-pointer-type="source">Joseph Smith III, “Last Testimony
+                                    of Sister Emma,” <title>Saints’ Herald,</title> 1 Oct. 1879,
+                                    289–290</ref>; see also <ref target="X0872" pm:link-pointer-type="source">Givens, <title>By the Hand of
+                                        Mormon,</title> 26–37</ref>.)</note> but we <lb/>had become
+                            reduced in property and my wives <lb/><ref pm:link-pointer-type="person" target="per54" n="Hale, Isaac">father</ref> was about to turn me out
+                            of doores <del resp="Conversion">I</del> &amp; <lb/>I had not where to
+                            go and I cried unto the <lb/>Lord that he would provide for me to
+                            accom<lb/>plish the work whereunto he had comman<lb/>ded me<note xml:id="JSPPH1_d1e5523" pm:link-target-type="text" type="editorial-footnote"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and <ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">Emma Smith</ref> were living in a house on
+                                the property of her father, <ref pm:link-pointer-type="person" target="per54" n="Hale, Isaac">Isaac Hale</ref>. On <date when-iso="1829-04-06">6 April 1829</date>, the day after <ref pm:link-pointer-type="person" target="per47" n="Cowdery, Oliver">Oliver Cowdery</ref> arrived at his home, JS entered into an
+                                agreement with Hale to buy the home and thirteen acres of
+                                surrounding land and he made a down payment on the purchase. Cowdery
+                                most likely supplied money for this payment, and he then began work
+                                as the principal scribe for JS’s <ref pm:link-pointer-type="topic" target="x6240" n="Translate">translation</ref> of the <ref pm:link-pointer-type="relatedDocument" target="X6816">Book of
+                                    Mormon</ref>.
+                                    (<!--Isaac Hale to JS, Agreement, Harmony, PA, --><ref pm:link-pointer-type="relatedDocument" target="x9">Agreement
+                                    with Isaac Hale, 6 Apr. 1829</ref><!--, JS Collection, CHL-->;
+                                    <ref target="X5177" pm:link-pointer-type="source">Oliver
+                                    Cowdery, Norton, OH, to William W. Phelps, 7 Sept. 1834,
+                                        <title>LDS Messenger and Advocate,</title> Oct. 1834,
+                                    1:14</ref><!-- [see also later version, p. 41 herein]-->; <ref target="X9344" pm:link-pointer-type="source">Oliver Cowdery, Far
+                                    West, MO, to Warren Cowdery, [Kirtland, OH], 21 Jan. 1838, in
+                                    Cowdery, Letterbook, 81</ref>; see also <ref pm:link-pointer-type="relatedDocument" target="x1463">Revelation, Mar.
+                                1829</ref><!--, in Book of Commandments 4:11--> [D&amp;C
+                                5:34].)</note>
+                            <note xml:id="JSPPH1_d1e5543" type="editorial-comment" resp="NNW" pm:link-target-type="text">4 lines blank</note>
+                            <pb xml:id="JSPPH1_d1e5546" type="not-present" n="6" facs="6547_MS155_2_01_LB1_history_006.jpg"/></p> </div2> </div1> </body>
+</text> </TEI>

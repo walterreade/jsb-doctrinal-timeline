@@ -1,0 +1,1549 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" pm:docDesc="Extract from the Private Journal of Joseph Smith Jr., July 1839" pm:title="JSPPH1" pm:entry="26020" pm:status="Active" pm:url="x6549" xml:id="x6549" pm:link-target-type="relatedDocument" lds:ResourceType="Text-Document" lds:AccessionNumber="6549" lds:ResourceFormat="Text" pm:docDateMax="1839-06-22" pm:docDateMin="1839-03-21" pm:docDate="1839-03-21" pm:sortkey="1839-07-01 005" lds:WorkflowStage="Transcribe" lds:WorkflowStageStatus="Complete"> <teiHeader> 
+<fileDesc> <titleStmt> <title type="editorial">“Extract, from the Private
+Journal of Joseph Smith Jr.,” July 1839</title> <title type="formal">“Extract,
+from the Private Journal of Joseph Smith Jr.” Times and Seasons, July 1839,
+2–9. </title> <title type="alternative"/> </titleStmt><lds:Tracking lds:TranscriptState="3LV" lds:PublishImage="Y" lds:HasPubPermissions="Y" lds:PublishClearText="N" lds:docComponents="Img,Trn,FSN,FHI,Ann" lds:WebPublishStatus="FinalContent"/> <publicationStmt> <publisher>The Church
+of Jesus Christ of Latter Day Saints</publisher> </publicationStmt>
+<seriesStmt> <title>Unknown</title> </seriesStmt> <notesStmt> <note/>
+</notesStmt> <sourceDesc> <bibl type="abstract"> </bibl> <listPerson>
+<person role="author"> <persName>
+<ref pm:link-pointer-type="person" target="per58">Joseph Smith Sr.</ref>
+</persName> </person> <person> <persName/> </person> </listPerson> <listPlace>
+<place> <placeName/> </place> </listPlace>
+<msDesc lds:Complete="Yes" lds:Authenticity="Blank" lds:FirstFiveWords="On the fourteenth day of" lds:Extant="Yes" lds:ShortHand="No" lds:Ciphers="No" lds:OtherLanguages="No" lds:NonTextualElements="No" lds:Signature="No" lds:Certification="No" lds:Enclosure="No" lds:Seal="No" lds:Addressing="No" lds:Posting="No" lds:Redaction="No" lds:Dockets="No" lds:HandwritingType="Unknown" lds:InscriptionMethod="Unknown"> <msIdentifier> <placeName> <address>
+                                    <addrLine>15 East North Temple Street</addrLine>
+                                    <addrLine>Salt Lake City, UT, 84150-1600</addrLine>
+                                </address> </placeName> <institution>Church History Library</institution> <repository>Church History Library</repository> <collection/> 
+<idno type="call-number">M205.1 T583 v. 1–6 1839–1846 (100001082548)</idno>
+<msName>Times and Seasons, July 1839, vol. 1, no. 1, pp. 2–9</msName> </msIdentifier> <msContents> <summary/> <textLang mainLang="en"/>
+</msContents> <physDesc> <p/> <objectDesc facs="imageurlshere" form="paper"> 
+<supportDesc material="paper"> <support>Medium desc. here.</support> <extent>
+<dimensions scope="all" type="leaf" unit="inch"> <height/> <width/>
+</dimensions> </extent> <condition/> </supportDesc> <layoutDesc>
+<layout columns="1"/> </layoutDesc> </objectDesc> <handDesc> <p>Unknown</p>
+</handDesc> <decoDesc> <p/> </decoDesc> </physDesc> <history> <origin/>
+<provenance/> <acquisition/> </history> <additional> <adminInfo> 
+<availability lds:DocumentAccess="Yes"> <p/> </availability> <custodialHist>
+<custEvent/> </custodialHist> <note type="disposition"/> </adminInfo>
+<surrogates/>
+                            <listBibl type="print-volume-location">
+                                <bibl><ref pm:link-pointer-type="web" target="http://www.josephsmithpapers.org/publishedVolumes/histories-volume-1-joseph-smith-histories-1832-1844"><title>JSP,</title> H1:464–488</ref></bibl>
+                            </listBibl> </additional> </msDesc> </sourceDesc> </fileDesc> <profileDesc>
+<creation/> <textClass> <classCode scheme="inscription-method">Unknown</classCode> </textClass> </profileDesc> 
+<revisionDesc>
+<change who="s" when="2014-01-08T19:32:43.14Z"><label>posted to
+website</label><desc>29 Oct 2013</desc></change>
+<change who="CDC" when="2009-08-14"> <label>Editorial Footnotes added</label>
+<desc>Added editorial footnotes, line breaks, tags, etc., squashed.</desc>
+</change> <change when="2009-03-09T16:45:41" who="Jeffrey"> <label>Document
+Created</label> <desc>Created by Jeffrey, 2009-03-09T16:45:41</desc> </change> 
+<change when="2009-01-01" who="SFP"> <label>Initial Creation</label>
+<desc>Complete</desc> </change> <change who="NNW" when="2010-06-09"> <label>All
+changes accepted</label> <desc>Prior to copy editing, 2010-06-09, about
+noon</desc></change><change who="NNW" when="2011-08-09T21:57:39.29Z"><label>Changes accepted</label>2011-08-09
+3:55pm<desc/></change><change who="NNW" when="2011-09-09T19:06:32.09Z"><label>Changes accepted</label>2011-09-09
+1:06pm<desc/></change> </revisionDesc> </teiHeader> <text> <body> <div1> 
+<div2 type="docfront"> <div3 type="sourcenote"> <msDesc> <msIdentifier>
+<msName>“Extract, from the Private Journal of Joseph Smith Jr.,” July
+1839</msName> </msIdentifier> <msContents> <summary> <p rend="indent"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>,
+                                            “Extract, from the Private Journal of Joseph Smith Jr.,”
+                                            in <title>Times and Seasons</title> (Commerce, IL), July
+                                            1839, vol. 1, no. 1, pp. 2–9; edited by <ref pm:link-pointer-type="person" target="per344" n="Robinson, Ebenezer">Ebenezer Robinson</ref> and
+                                                <ref pm:link-pointer-type="person" target="per493" n="Smith, Don Carlos">Don Carlos Smith</ref>;
+                                            includes typeset signature. The copy used for
+                                            transcription is currently part of a bound volume held
+                                            at CHL.</p>
+</summary> </msContents> <physDesc> <p rend="indent">The eight-page article is
+the second item in the first number of the <title>Times and Seasons.</title>
+This issue comprises eight leaves, making sixteen pages that measure 8⅝ x 5¼
+inches (22 x 13 cm). The text on each page is set in two columns. It is unknown
+how long this copy of this issue of the <title>Times and Seasons</title> has
+been in church custody.</p> </physDesc> </msDesc> </div3> 
+<div3 type="historical-intro"> <p rend="indent"> The historical account
+contained in “Extract, from the Private Journal of Joseph Smith Jr.” was
+composed in the aftermath of the <date when-iso="1838">1838</date> armed
+conflict between the Latter-day Saints and other Missourians, a struggle that
+culminated in the incarceration of
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and the expulsion of the Saints from the
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">state</ref>. On
+<date when-iso="1839-03-20">20 March 1839</date>, from the
+<ref pm:link-pointer-type="place" target="plc167" n="Liberty Jail, Clay County, Missouri">jail</ref> in
+<ref pm:link-pointer-type="place" target="plc83" n="Liberty, Liberty Township, Clay County, Missouri">Liberty</ref>, Missouri,
+JS wrote to the Saints instructing them to document “all the facts and
+suffering and abuses put upon them by the people of this state and also of all
+the property and amount of damages which they have sustained.”<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref target="X5476" pm:link-pointer-type="source">JS et al., Liberty, MO, to the
+church members and Edward Partridge, Quincy, IL,
+<ref pm:link-pointer-type="relatedDocument" target="x430">20 Mar. 1839</ref>,
+in Revelations Collection, CHL [D&amp;C 123:1–2]</ref>. In a letter to the
+church written three months earlier,
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> had reflected on some of the causes leading to
+the expulsion. (<ref target="X7151" pm:link-pointer-type="source">JS, Liberty,
+MO, to “the church,” Caldwell Co., MO,
+<ref pm:link-pointer-type="relatedDocument" target="x5524">16 Dec. 1838</ref>,
+JS Collection, CHL</ref>.)</note> A month later, on <date when-iso="1839-04-16">16 April</date>, JS escaped from the custody of Missouri
+lawmen, and on <date when-iso="1839-04-22">22 April</date> he was reunited with
+the Mormon exiles in
+<ref pm:link-pointer-type="place" target="plc103" n="Quincy, Adams County, Illinois">Quincy</ref>, Illinois. Within days he
+arranged extensive land purchases for Mormon settlement at nearby
+<ref pm:link-pointer-type="place" target="plc32" n="Commerce (now Nauvoo), Hancock County, Illinois">Commerce</ref>, Illinois,
+and across the
+<ref pm:link-pointer-type="place" target="x7393" n="Mississippi River">Mississippi River</ref> in
+<ref pm:link-pointer-type="place" target="plc243" n="Iowa Territory (now state)">Iowa Territory</ref>. JS himself was among the
+initial Latter-day Saints to relocate to Commerce in <date when-iso="1839-05">May 1839</date>. On <date when-iso="1839-06-04">4 June
+1839</date>, during a visit to Quincy, JS created a record of his own Missouri
+losses, titled “<ref pm:link-pointer-type="relatedDocument" target="x462">Bill
+of Damages</ref> against the state of Missouri.”<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X2427" pm:link-pointer-type="source">JS, “Bill of Damages against the State of
+Missouri[:] An Account of the Sufferings and Losses Sustained Therein,” Quincy,
+IL, 4 June 1839, JS Collection, CHL</ref>; see also JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e67326">27 May–8 June
+1839</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:340-->.</note>
+Written in the handwriting of JS’s recently appointed clerk,
+<ref pm:link-pointer-type="person" target="x4461" n="Thompson, Robert Blashel">Robert B. Thompson</ref>, the bill of damages was
+created as a petition to the federal government for redress, and it became the
+basis of “Extract, from the Private Journal of Joseph Smith Jr.,” published in
+<date when-iso="1839-07">July 1839</date>. The reference to a “private journal”
+in the title notwithstanding, the article was not in fact based on a journal
+source; JS’s bill of damages is the only known manuscript source. The
+manuscript is much more than a simple bill of damages, however, and the
+historical narrative it contains bridges the chronological gap between JS’s
+last Missouri journal and his first
+<ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>
+journal.<note type="editorial-footnote" resp="W" pm:link-target-type="text">
+The last entry in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="X3706"><date from-iso="1838-09" to-iso="1838-10">September–October 1838</date> journal</ref>
+is <ref pm:link-pointer-type="text" target="JSPPJ1_d1e65356">5 October
+1838</ref>. On that day, JS left
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>, Missouri, with a detachment of Mormon men to reinforce the besieged
+Saints in
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref>, Missouri; after an introductory overview, JS’s “<ref pm:link-pointer-type="relatedDocument" target="x462">Bill of Damages</ref>”
+begins with the De Witt conflict. The bill ends with JS’s escape from his
+captors on <date when-iso="1839-04-16">16 April 1839</date> and his arrival in
+<ref pm:link-pointer-type="place" target="plc103" n="Quincy, Adams County, Illinois">Quincy</ref>, Illinois, on
+<date when-iso="1839-04-22">22 April 1839</date>; the first two entries in JS’s
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e66346">1839 journal</ref>
+resume JS’s journal keeping precisely at this point.<!--
+                                    (See
+                                        <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title>
+                                    J1:330, 336.)--></note></p> 
+<p rend="indent"> After an introduction stating that
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> encountered enmity from the moment of his
+arrival in <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> in <date when-iso="1838-03">March 1838</date>,
+“Extract, from the Private Journal” covers most of the significant episodes in
+the Missouri conflict. The first specific historical event is the siege of the
+Mormon settlement at
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref> in Carroll County. The article then narrates the subsequent conflict
+around
+<ref pm:link-pointer-type="place" target="plc149" n="Adam-ondi-Ahman, Daviess County, Missouri">Adam-ondi-Ahman</ref> in Daviess
+County, the battle at
+<ref pm:link-pointer-type="place" target="x8209" n="Crooked River, Missouri">Crooked River</ref> with militia from
+<ref pm:link-pointer-type="place" target="plc226" n="Ray County, Missouri">Ray
+County</ref>, and the siege at
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref> in Caldwell County. Also recounted are JS’s capture, imprisonment,
+and indictment, as well as the exodus of the Latter-day Saints to
+<ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>.
+The narrative draws to a close with JS’s escape and his flight from Missouri.
+Where the bill of damages ends with a list of losses and sufferings for which
+remuneration is sought, the “Extract” concludes with an address to the American
+people at large, appealing to the principles of liberty and justice.</p> 
+<p rend="indent"> “Extract, from the Private Journal of Joseph Smith Jr.” was
+published in the first issue of the church newspaper <title>Times and
+Seasons.</title> The prospectus published at the end of the issue declared that
+the newspaper would provide “a history of the unparallelled persecution, which
+we, as a people, received in
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>”;
+the lead article in the issue, an “Address” from the editors, similarly
+announced that the newspaper’s mission included publication of “a detailed
+history of the persecution and suffering” experienced in Missouri.<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X8296" pm:link-pointer-type="source">“Prospectus of the Times and
+Seasons,” <title>Times and Seasons,</title> July 1839, 1:16</ref>;
+<ref target="X8296" pm:link-pointer-type="source">Ebenezer Robinson and Don
+Carlos Smith, “Address,” <title>Times and Seasons,</title> July 1839,
+1:1</ref>.</note> “Extract, from the Private Journal” directly follows, taking
+up half of the issue’s sixteen pages. <title>Times and Seasons</title> editors
+<ref pm:link-pointer-type="person" target="per344" n="Robinson, Ebenezer">Ebenezer Robinson</ref> and
+<ref pm:link-pointer-type="person" target="per493" n="Smith, Don Carlos">Don
+Carlos Smith</ref> printed only about two hundred copies of the
+<date when-iso="1839-07">July 1839</date> issue before a malaria epidemic left
+them debilitated.<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X8296" pm:link-pointer-type="source">“To the Patrons of the Times and Seasons,”
+<title>Times and Seasons,</title> Nov. 1839, 1:15–16</ref>;
+<ref target="X6722" pm:link-pointer-type="source">Ebenezer Robinson, “Items of
+Personal History of the Editor,” <title>The Return,</title> May 1890,
+257–258</ref>.</note> Months later they published a reprint of the first issue,
+including
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s “Extract,” under a <date when-iso="1839-11">November 1839</date> date.<note type="editorial-footnote" resp="W" pm:link-target-type="text">It appears that there were three printings
+of the first issue of the <title>Times and Seasons</title>: the first in
+<date when-iso="1839-07">July</date>; the second in <date when-iso="1839-11">November</date>, from the same typesetting; and a third
+sometime thereafter, from a new setting of the text. The third printing,
+perhaps issued to satisfy increasing demand for the newspaper, retained the
+<date when-iso="1839-11">November 1839</date> date. Although minor spelling and
+punctuation changes appear in the later printings of the “Extract,” no changes
+were made to the wording. (See
+<ref target="X0918" pm:link-pointer-type="source">Crawley, <title>Descriptive
+Bibliography,</title> 1:94–95</ref>.)</note> JS’s account of Missouri
+sufferings constituted part of a new genre of Mormon historical writing, and in
+the next issue, the <title>Times and Seasons</title> began publishing an
+eleven-part series on the Saints’ Missouri persecutions.<note type="editorial-footnote" resp="W" pm:link-target-type="text">See
+<ref target="X8296" pm:link-pointer-type="source">“<ref pm:link-pointer-type="relatedDocument" target="x6553">A History, of the
+Persecution</ref>,” <title>Times and Seasons,</title> Dec. 1839–Oct. 1840</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:203–286-->.</note></p>
+<p rend="indent"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+was revised for publication as the “Extract” sometime between
+<date when-iso="1839-06-04">4 June 1839</date>, when the bill of damages was
+composed, and <date when-iso="1839-07-12">12 July</date>, when
+<ref pm:link-pointer-type="person" target="per508" n="Woodruff, Wilford">Wilford Woodruff</ref> recorded “looking over the proof
+sheet of the first number of the Times &amp; seasons.”<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref target="X6036" pm:link-pointer-type="source">Woodruff, Journal, 12 July
+1839</ref>.</note> JS returned to
+<ref pm:link-pointer-type="place" target="plc32" n="Commerce (now Nauvoo), Hancock County, Illinois">Commerce</ref> from
+<ref pm:link-pointer-type="place" target="plc103" n="Quincy, Adams County, Illinois">Quincy</ref> on <date when-iso="1839-06-05">5 June</date> and remained in the area until
+<date when-iso="1839-07-12">12 July</date>, except for a
+<date from-iso="1839-06-15" to-iso="1839-06-26">15–26 June</date> journey
+through western <ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>. Therefore, JS’s narrative of
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>
+persecutions was likely revised in Commerce
+<date from-iso="1839-06-05" to-iso="1839-06-14">between 5 and 14 June</date> or
+<date from-iso="1839-06-27" to-iso="1839-07-12">between 27 June and 12
+July</date>.<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s journal records that he was “dictating
+History” <date from-iso="1839-06-10" to-iso="1839-06-14">10–14 June</date> and
+<date from-iso="1839-07-03" to-iso="1839-07-05">3–5 July 1839</date>, which may
+have included the historical narrative in the “<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>”
+along with his ongoing work on a complete history of the church. (JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e67502">10–14 June</ref> and
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e68943">3–5 July 1839</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:340, 345-->.)</note>
+The first issue of the <title>Times and Seasons</title> was probably published
+within a few days of <date when-iso="1839-07-12">12 July</date>, the day
+Wilford Woodruff helped check the proof sheet.</p> <p rend="indent">The first
+two-thirds of the “Extract” was based closely on “<ref pm:link-pointer-type="relatedDocument" target="x462">Bill of Damages</ref>,”
+with only minor editorial changes. The changes softened some of the
+manuscript’s more strident rhetoric, omitted particulars regarding
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s personal losses, and added details to
+emphasize the suffering of the Saints. Significant differences between the two
+documents are explained in footnotes herein. The final section of the article,
+which did not come from the bill of damages, may have been dictated or written
+by JS, perhaps with help from clerical assistants
+<ref pm:link-pointer-type="person" target="x4461" n="Thompson, Robert Blashel">Robert B. Thompson</ref>,
+<ref pm:link-pointer-type="person" target="per51" n="Mulholland, James">James
+Mulholland</ref>, and
+<ref pm:link-pointer-type="person" target="per217" n="Robinson, George W.">George W. Robinson</ref>. The published “Extract” was
+disseminated to Saints throughout the nation via the newspaper, and the
+document shaped their memory of the persecution in
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>
+and their pattern for rehearsing it. JS clearly intended to reach not only the
+Latter-day Saints subscribing to the church newspaper but also the greater
+American public. As part of JS’s effort to gain sympathy in the court of public
+opinion, this document became part of the broadening agenda of gaining redress
+for grievances suffered in Missouri.</p> </div3> </div2> <div2 type="docbody"> 
+<p rend="center"><handShift resp="seniels" scribe="per5137"/>Extract,</p> 
+<p rend="center"><hi rend="small-caps">from the private journal of</hi></p> 
+<p rend="center"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JOSEPH SMITH JR.</ref></p>
+<note type="formatting-note" resp="RES" pm:link-target-type="text">extra
+leading here</note> <p> </p><p rend="indent">On the <date when-iso="1838-03-14">fourteenth day of March, in <lb/>the year of our Lord one
+thousand <lb/>eight hundred and thirty eight</date>, I with <lb/>my family,
+arrived in
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>, Cald<lb/>well county Missouri, after a journey <lb/>of more than
+one thousand miles, in <lb/>the winter season, and being about <lb/>eight weeks
+on our Journey; during <lb/>which we suffered great affliction, and <lb/>met
+with considerable persecution on <lb/>the road.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+notes that expenditures for the journey amounted to “about two hundred
+dollars.” JS later recounted that tavern keepers in
+<ref pm:link-pointer-type="place" target="x5095" n="Paris, Edgar County, Illinois">Paris</ref>, Illinois, had combined to deny
+the Latter-day Saints lodging, which JS and others secured for their families
+only after threatening the use of force. (JS, Journal,
+<ref pm:link-pointer-type="text" target="X18CC7325-9BCD-4304-9A01-1322C15E5C14">29 Dec. 1842</ref><!--,
+                                in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title>
+                                    J2:196–197-->; see also JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e47042">29 Mar. 1838</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title>
+                                J1:245–246-->.)</note> However, the prospect of
+<lb/>meeting my friends in the west, and <lb/>anticipating the pleasure of
+dwelling <lb/>in peace, and enjoying the blessings <lb/>thereof, buoyed me up
+under the diffi<lb/>culties and trials which I had then to <lb/>endure.<note type="editorial-footnote" pm:link-target-type="text">The previous sentence does
+not appear in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>. On the conditions attending JS’s departure from
+<ref pm:link-pointer-type="place" target="x5092" n="Ohio">Ohio</ref>, see <ref pm:link-pointer-type="relatedDocument" target="X3705">Historical
+Introduction</ref> to Journal, Mar.–Sept. 1838<!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:228–229-->.</note>
+However, I had not been <lb/>there long before I was given to un<lb/>derstand
+that plots were laid, by wick<lb/>ed and designing men, for my
+destruc<lb/>tion, who sought every opportunity to <lb/>take my life; and that a
+company on <lb/>the Grindstone forks of
+<ref pm:link-pointer-type="place" target="x5069" n="Grand River">Grand
+river</ref>, <lb/>in the county of
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess</ref>, had offered <lb/>the sum of one
+thousand dollars for <lb/>my scalp: persons of whom I had no <lb/>knowledge
+whatever, and who, I sup<lb/>pose, were entire strangers to me; and <lb/>in
+order to accomplish their wicked <lb/>design, I was frequently waylaid &amp;c.;
+<lb/>consequently, my life was continually <lb/>in jeopardy.</p> 
+<p rend="indent">I could hardly have given credit to <lb/>such statements, had
+they not been <lb/>corroborated by testimony, the most <lb/>strong and
+convincing; as shortly af<lb/>ter my arrival at
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>, while wat<lb/>ering my horse in
+<ref pm:link-pointer-type="place" target="x8217" n="Shoal Creek, Missouri">Shoal Creek</ref>, I dis<lb/>tinctly heard three or
+four guns snap, <lb/>which were undoubtedly intended for <lb/>my destruction;
+however, I was mer<lb/>cifully preserved from those who <lb/>sought to destroy
+me, by their lurking <lb/>in the woods and hiding places, for <lb/>this
+purpose<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">In
+the <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>, this sentence ends at “intended for my destruction.”</note></p> 
+<p rend="indent">My enemies were not confined alone, <lb/>to the ignorant and
+obscure, but men <lb/>in office, and holding situations under <lb/>the
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor</ref> of the
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">State</ref>,<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Lilburn W. Boggs</ref>.</note> proclaimed <lb/>themselves
+my enemies, and gave en<lb/>couragement to others to destroy me; <lb/>amongst
+whom, was
+<ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Judge <supplied resp="Nathan Waite">Austin
+A.</supplied> King</ref>, of <lb/>the fifth Judicial circuit,<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>’s
+fifth judicial circuit covered the western counties north of the
+<ref pm:link-pointer-type="place" target="x5198" n="Missouri River">Missouri
+River</ref>. (<ref target="X5793" pm:link-pointer-type="source"><title>History
+of Ray County, Mo.,</title> 260–261</ref>.)</note> who has fre<lb/>quently been
+heard to say, that I <lb/>ought to be beheaded on account of my
+<lb/>religion<supplied resp="Nathan Waite">.</supplied> Expressions such as
+these, <lb/>from individuals holding such impor<lb/>tant offices as
+<ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Judge King</ref>’s, could not <lb/>fail to produce,
+and encourage perse<lb/>cution against me, and the people with <lb/>whom I was
+connected. And in con<lb/>sequence of the prejudice which existed <lb/>in the
+mind of this
+<ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Judge</ref>, which he <lb/>did not endeavor to keep
+secret, but <lb/>made it as public as he could, the peo<lb/>ple took every
+advantage they possibly <lb/>could, in abusing me, and threatening <lb/>my
+life;<note type="editorial-footnote" resp="NNW" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+notes here that he was subjected to “vexatious law suits.”</note> regardless of
+the laws, which <pb type="present" n="2" facs="6549_44475-LIBR-88_TS_002.jpg"/>
+promise protection to every religious <lb/>society, without distinction.<note type="editorial-footnote" resp="a" pm:link-target-type="text">Both
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>’s
+constitution and the Constitution of the
+<ref pm:link-pointer-type="place" target="x5117" n="United States of America">United States</ref> included religious protection
+clauses. (Missouri Constitution of 1820, art. 13, sec. 4–5; U.S. Constitution,
+amend. 1.)</note></p> <p rend="indent">During this state of things, I do not
+<lb/>recollect that either myself, or the peo<lb/>ple with whom I was
+associated, had <lb/>done any thing to deserve such treat<lb/>ment, but felt a
+desire to live at peace, <lb/>and on friendly terms, with the citizens <lb/>of
+that, and the adjoining counties, as <lb/>well as with all men; and I can truly
+<lb/>say, “for my love they were my ene<lb/>mies,” and “sought to slay me
+without <lb/>any cause,”<note type="editorial-footnote" pm:link-target-type="text">See Psalm 109:3, 4.</note> or the least shadow of a
+<lb/>pretext.</p> <p rend="indent">My family was kept in a continual <lb/>state
+of alarm, not knowing, when I <lb/>went from home, that I should ever
+re<lb/>turn again; or what would befall me <lb/>from day to day.<note type="editorial-footnote" pm:link-target-type="text">The
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+does not include the remainder of this paragraph.</note> But notwithstanding
+<lb/>these manifestations of enmity, I hoped <lb/>that the citizens would
+eventually cease <lb/>from their abusive and murderous pur<lb/>poses, and would
+reflect with sorrow <lb/>upon their conduct in endeavoring to <lb/>destroy me,
+whose only crime was in <lb/>worshiping the God of heaven, and <lb/>keeping his
+commandments; and that <lb/>they would soon desist from harrassing <lb/>a
+people, who were as good citizens as <lb/>the majority of this vast republic—
+who <lb/>labored almost night and day, to culti<lb/>vate the ground; and whose
+industry, <lb/>during the time they were in tha<supplied resp="Nathan Waite">t</supplied><note type="editorial-footnote-text" resp="RES" pm:link-target-type="text">In this and other instances where one or two
+characters are supplied in the transcript, the characters were not set or did
+not get inked in the original; text is supplied based on the reprint of this
+article in <ref target="X8296" pm:link-pointer-type="source"><title>Times and
+Seasons,</title> Nov. 1839, 1:2–9</ref>.</note> <lb/>neighborhood, was
+proverbial.<note type="editorial-footnote" resp="a" pm:link-target-type="text">Tensions between the Latter-day Saints and other
+Missourians stretched back over several years. (See
+<ref target="X5126" pm:link-pointer-type="source">LeSueur, <title>1838 Mormon
+War in Missouri,</title> chap. 2</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,” chap.
+2</ref>; and <ref target="X5641" pm:link-pointer-type="source">Anderson,
+“Clarifications of Boggs’s Order,” 30–36</ref>.)</note></p> <p rend="indent">In
+the <date from-iso="1838-09-15" to-iso="1838-09-30">latter part of September,
+A. <lb/>D. 1838</date>, I took a journey, in compa<lb/>ny with some
+others,<note type="editorial-footnote" pm:link-target-type="text">The
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+does not specify that
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> journeyed with others.</note> to the lower part
+<lb/>of the county of
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref>, for the pur<lb/>pose of selecting
+a location for a <lb/>Town. While on my journey, I was <lb/>met by one of our
+brethren from
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De<lb/>witt</ref>,
+in Carroll county, who stated that <lb/>our people, who had settled in that
+<lb/>place, were, and had been for some <lb/>time, surrounded by a mob, who had
+<lb/>threatened their lives, and had shot at <lb/>them several times;<note type="editorial-footnote" pm:link-target-type="text">The remainder of this paragraph is not found in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>.</note> and that he was <lb/>on his way to
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>, to inform the <lb/>brethren there, of the facts. I was
+<lb/>surprised on receiving this intelligence, <lb/>although there had,
+previous to this <lb/>time, been some manifestations of <lb/>mobs, but I had
+hoped that the good <lb/>sense of the ma<supplied resp="Nathan Waite">j</supplied>ority of the people, <lb/>and their respect for
+the constitution, <lb/>would have put down any spirit of <lb/>persecution,
+which might have been <lb/>manifested in that neighborhood.<note type="editorial-footnote" pm:link-target-type="text">Church leaders purchased
+134 of
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref>’s 304 lots in <date when-iso="1838-06">June 1838</date>, and
+<date notAfter-iso="1838-10">by October</date> there were seventy to eighty
+Mormon families living there. As early as <date when-iso="1838-07">July</date>,
+however, the Saints in De Witt were confronted with ultimatums to leave
+<ref pm:link-pointer-type="place" target="x7298" n="Carroll County, Missouri">Carroll County</ref>. When the
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>
+militia disbanded anti-Mormon vigilantes gathered in
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>, many regrouped in Carroll
+County, where they laid siege to the Saints in De Witt. (<ref target="X6369" pm:link-pointer-type="source">Murdock, Journal, 23 June 1838</ref>; see also
+<ref target="X5126" pm:link-pointer-type="source">LeSueur, <title>1838 Mormon
+War in Missouri,</title> 101–107</ref>; and
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,” chap.
+6</ref>.)</note></p> <p rend="indent">Immediately on receiving this
+intell<lb/>igence, I made preparations to go to <lb/>that place, and endeavor,
+if possible, <lb/>to allay the feelings of the citizens,<note type="editorial-footnote" pm:link-target-type="text">The remainder of this
+sentence was modified from the
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>, which continues as follows: “if not to make arrangements with
+those individuals of whom we had made purchases and to whom I was responsible
+and holden for part of the purchase money.”</note> <lb/>and save the lives of
+my brethren who <lb/>were thus exposed to their wrath.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>
+apparently returned to
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref> to raise a relief force.
+<ref pm:link-pointer-type="person" target="per332" n="Rockwood, Albert Perry">Albert Rockwood</ref> recorded that word of the
+siege at
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref> arrived on <date when-iso="1838-10-04">4 October</date>. Soon
+thereafter,
+<ref pm:link-pointer-type="person" target="per920" n="Brunson, Seymour">Seymour
+Brunson</ref> and JS led groups of men to De Witt. (<ref target="X7021" pm:link-pointer-type="source">Rockwood, Journal, 14 Oct. 1838</ref>; see also
+<ref target="X2852" pm:link-pointer-type="source">Reed Peck, Quincy, IL, to
+“Dear Friends,” 18 Sept. 1839, p. 73, Henry E. Huntington Library, San Marino,
+CA</ref>.) </note> I <lb/>arrived at
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">Dewitt</ref>,
+about the <date when-iso="1838-10-01">first <lb/>of October</date>,<note type="editorial-footnote" pm:link-target-type="text">For “about the
+<date when-iso="1838-10-01">first of October</date>” the
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+reads “on the [<hi rend="italic">blank</hi>] day.” As
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was still in
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref> around ten o’clock on the morning of <date when-iso="1838-10-05">5
+October</date>, he could not have arrived in
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref>, over fifty miles to the east, before <date when-iso="1838-10-06">6
+October</date>. In <date when-iso="1845">1845</date>,
+<ref pm:link-pointer-type="person" target="per507" n="Bullock, Thomas">Thomas
+Bullock</ref> wrote in JS’s history that JS arrived in De Witt on
+<date when-iso="1838-10-06">6 October</date>. (JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e65356">5 Oct. 1838</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:330-->;
+<ref target="X0029" pm:link-pointer-type="source">JS History, vol. B-1,
+<ref pm:link-pointer-type="text" target="X6CFC3DB7-B6DE-4C56-95B7-23DD469C160F">833</ref></ref>.) </note> and
+found that the <lb/>accounts of the situation of that place, <lb/>were correct;
+for it was with much <lb/>difficulty, and by travelling unfrequen<lb/>ted
+roads, that I was able to get there; <lb/>all the principal roads being
+strongly <lb/>guarded by the mob, who refused all <lb/>ingress as well as
+egress.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">This description of
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s journey to
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref> is not found in the
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>.</note> I found my <lb/>brethren, (who were only a handfull,
+<lb/>in comparison to the mob, by which <lb/>they were surrounded,) in this
+situa<lb/>tion, and their provisions nearly ex<lb/>hausted, and no prospect of
+obtaining <lb/>any more.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+does not note the Mormon settlers’ numerical disadvantage. Brigadier General
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">Hiram Parks</ref> estimated two or three hundred
+militiamen under arms against the Latter-day Saints. He noted that the
+anti-Mormon forces hoped to number five hundred within a few days but surmised
+that even with those numbers the Mormons would probably win out if there were a
+battle. In fact, the number of Saints under arms was about one hundred thirty.
+Their commander,
+<ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">George
+M. Hinkle</ref>, may have inflated their numbers in representing them to
+outsiders. (<ref target="X9264" pm:link-pointer-type="source">Hiram Parks,
+“five miles from De Witt,” MO, to David R. Atchison, [Boonville, MO], 7 Oct.
+1838, Mormon War Papers, MSA</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,”
+173</ref>; see also <ref target="X9264" pm:link-pointer-type="source">Samuel D.
+Lucas, Boonville, MO, to Lilburn W. Boggs, 4 Oct. 1838, Mormon War
+Papers</ref>.) </note></p> <p rend="indent">We thought it necessary to send
+im<lb/>mediately to the
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor</ref>, to inform <lb/>him of the circumstances;
+hoping, from <lb/>the
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Executive</ref>, to receive the protection <lb/>which we
+needed, and which was <lb/>guaranteed to us, in common with oth<lb/>er
+citizens. Several Gentlemen of <lb/>standing and respectability, who lived
+<lb/>in the immediate vicinity, (who were <lb/>not in any wise connected with
+the <lb/>church of Latter Day Saints,) who <lb/>had witnessed the proceedings
+of our <lb/>enemies; came forward and made affi<lb/>davits to the treatment we
+had receiv<lb/>ed, and concerning our perilous situa<lb/>tion; and offered
+their services to go <lb/>and present the case to the
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor</ref> <lb/>themselves.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">The previous
+sentence does not appear in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>.</note> A messenger was ac<lb/>cordingly despatched to his
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Excellen<lb/>cy</ref>, who made known to him our
+situa<lb/>tion. But instead of receiving any aid <lb/>whatever, or even
+sympathy from his <lb/><ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Excellency</ref>, we were told that “the <lb/>quarrel was
+between the Mormons and <lb/>the mob,” and that “we might fight it
+<lb/>out.”<note type="editorial-footnote" pm:link-target-type="text">Longtime
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>
+citizen <persName>A. L. Caldwell</persName> had departed
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref> about <date from-iso="1838-10-02" to-iso="1838-10-03">2 or 3
+October</date> (prior to
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s arrival), appealed to Governor
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Lilburn W. Boggs</ref>, and returned with this report on
+<date from-iso="1838-10-09" to-iso="1838-10-10">9 or 10 October</date>. (<ref target="X5824" pm:link-pointer-type="source">John Murdock, Affidavit, Adams
+Co., IL, 10 Jan. 1840, photocopy, Material Relating to Mormon Expulsion from
+Missouri, 1839–1843, CHL</ref>;
+<ref target="X0029" pm:link-pointer-type="source">JS History, vol. B-1,
+<ref pm:link-pointer-type="text" target="XC1845F78-AE45-4605-91E5-09082E3AE94F">834–835</ref></ref>.)</note> In
+the mean time, we had peti<lb/>tioned the Judges to protect us.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+specifies that the Saints petitioned circuit judge
+<ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Austin A. King</ref>. They may also have petitioned
+the
+<ref pm:link-pointer-type="place" target="x7298" n="Carroll County, Missouri">Carroll County</ref> judges: <persName>William
+Crockett</persName>, <persName>Thomas Arnold</persName>, and <persName>John
+Standley</persName>. (<ref target="X7E1C" pm:link-pointer-type="source"><title>History of Carroll County,
+Missouri,</title> 387</ref>.)</note> They <lb/>sent out about one hundred of
+the mili<lb/>tia, under the command of
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">Brigadier <lb/>General <supplied resp="Nathan Waite">Hiram</supplied> Parks</ref>; but almost immediate<lb/>ly
+on their arrival,
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">General Parks</ref> in<lb/>formed us that the greater
+part of his <lb/>men under
+<ref pm:link-pointer-type="person" target="x4891" n="Bogart, Samuel">Capt.
+<supplied resp="Nathan Waite">Samuel</supplied> Bogart</ref> had mutinied,
+<lb/>and that he should be obliged to draw <lb/>them off from the place, for
+fear they <lb/>would <supplied resp="Nathan Waite">j</supplied>oin the mob;
+consequently he <lb/>could afford us no assistance.<note type="editorial-footnote" pm:link-target-type="text">Attempting to defuse the
+confrontation at
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref>, Major General
+<ref pm:link-pointer-type="person" target="per582" n="Atchison, David Rice">David R. Atchison</ref> ordered Brigadier General
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">Hiram Parks</ref> to disperse both Mormon and
+anti-Mormon vigilantes who had come to De Witt from other counties and to
+suggest that local Mormons sell out to local anti-Mormons. Atchison also wrote
+to <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor Boggs</ref> suggesting he come personally to De
+Witt to restore peace there. In a report to Atchison, Parks neglected to
+mention <ref pm:link-pointer-type="person" target="x4891" n="Bogart, Samuel">Bogart</ref>’s actions. Bogart later complained to Governor
+Boggs that Parks had not allowed Bogart and his men to intercept Mormon
+reinforcements arriving from
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell County</ref>. (<ref target="X9264" pm:link-pointer-type="source">David R. Atchison, Boonville, MO, to Lilburn W.
+Boggs, [St. Louis, MO], 9 Oct. 1838</ref>;
+<ref target="X9264" pm:link-pointer-type="source">Hiram Parks, “five miles from
+De Witt,” MO, to David R. Atchison, [Boonville, MO], 7 Oct. 1838</ref>;
+<ref target="X9264" pm:link-pointer-type="source">Samuel Bogart, Elk Horn, MO,
+to Lilburn W. Boggs, 13 Oct. 1838, Mormon War Papers, MSA</ref>.) </note>
+<pb type="present" n="3" facs="6549_44475-LIBR-88_TS_003.jpg"/></p> 
+<p rend="indent">We had now, no hopes whatever, of <lb/>successfully resisting
+the mob, who <lb/>kept constantly increasing: our pro<lb/>visions were entirely
+exhausted and <lb/>we being wearied out, by continu<lb/>ally standing on guard,
+and watching <lb/>the movements of our enemies; who, <lb/>during the time I was
+there, fired at us <lb/>a great many times.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">The previous
+sentence does not appear in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>.</note> Some of the <lb/>brethren died, for want of the
+com<lb/>mon necessaries of life, and perished <lb/>from starvation; and for
+once in my <lb/>life, I had the pain of beholding some <lb/>of my fellow
+creatures fall victims to <lb/>the spirit of persecution, which did <lb/>then,
+and has since prevailed to such <lb/>an extent in Upper
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>—men too, <lb/>who were virtuous, and against whom,
+<lb/>no legal process could for one moment, <lb/>be sustained; but who, in
+consequence <lb/>of their love to God—attachment to his <lb/>cause—and their
+determination to keep <lb/>the <hi rend="italic">faith</hi>, were thus brought
+to an un<lb/>timely grave.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+does not specifically note starvation as a cause of death among the
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref> Saints, nor does it include the sentiments expressed here following
+“the spirit of persecution.”</note></p> <p rend="indent">Many houses, belonging
+to my <lb/>brethren, were burned; their cattle d<supplied resp="Nathan Waite">r</supplied>iv<lb/>en away, and a great quantity of their
+<lb/>property destroyed by the mob. See<lb/>ing no prospect of relief, the
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Gover<lb/>nor</ref> having turned a deaf ear to our
+<lb/>entreaties, the militia having mutinied, <lb/>and the greater part of them
+ready to <lb/>join the mob; the brethren came to the <lb/>conclusion to leave
+that place, and <lb/>seek a shelter elsewhere; they conse<lb/>quently took
+their departure, with a<lb/>bout seventy waggons, with the rem<lb/>nant of the
+property they had been able <lb/>to save from their matchless foes, <lb/>and
+proceeded to
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref>.<note type="editorial-footnote" pm:link-target-type="text">The evacuation from
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref> began on <date when-iso="1838-10-11">11 October 1838</date>. (<ref target="X5824" pm:link-pointer-type="source">John Murdock, Affidavit, Adams
+Co., IL, 10 Jan. 1840, photocopy, Material Relating to Mormon Expulsion from
+Missouri, 1839–1843, CHL</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,”
+179–181</ref>.) </note> During <lb/>our journey, we were continually
+har<lb/>rassed and threatened by the mob, who <lb/>shot at us several times;
+whilst sever<lb/>al of our brethren died from the fatigue <lb/>and privations
+which they had to en<lb/>dure, and we had to inter them by the <lb/>wayside,
+without a coffin, and under <lb/>circumstances the most distressing.<note type="editorial-footnote" pm:link-target-type="text">Other eyewitnesses
+reported deaths that occurred during the evacuation of
+<ref pm:link-pointer-type="place" target="x5055" n="De Witt, Grand River (now in De Witt) Township, Carroll County, Missouri">De
+Witt</ref>. (See <ref target="X0CBE" pm:link-pointer-type="source">Judd,
+<title>Autobiography of Zadoc Knapp Judd,</title> 9</ref>;
+<ref target="X65AE" pm:link-pointer-type="source">Tarlton Lewis, Statement, 20
+May 1879, p. 1, Historian’s Office, History of the Persecutions, 1879–1880,
+CHL</ref>; and <ref target="X5824" pm:link-pointer-type="source">Arza Judd Jr.,
+Petition, 6 Jan. 1840, photocopy, Material Relating to Mormon Expulsion from
+Missouri, 1839–1843, CHL</ref>.)</note></p> <p rend="indent" n="4">On my
+arrival in
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref> I was in<lb/>formed by
+<ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">General <supplied resp="Nathan Waite">Alexander</supplied> Doniphan</ref> of
+<ref pm:link-pointer-type="place" target="plc91" n="Clay County, Missouri">Clay
+<lb/>county</ref>, that a company of mobbers<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+does not call the company “mobbers.”</note> <lb/>eight hundred strong, were
+marching <lb/>towards a settlement of our people’s in <lb/><ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess county</ref>.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>
+was evidently already aware that anti-Mormon forces were on their way to
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>, as he had called for an
+armed expedition to Daviess on <date when-iso="1838-10-14">14 October</date>,
+the day before Brigadier General
+<ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Alexander Doniphan</ref> arrived at
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>. Doniphan may have confirmed rumors of the vigilante detachment or
+apprised JS of the size of the force. (See
+<ref target="X3057" pm:link-pointer-type="source">Corrill, <title><ref pm:link-pointer-type="relatedDocument" target="x6552">Brief
+History</ref>,</title> 36–37</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:176–177-->;
+and <ref target="X2953" pm:link-pointer-type="source">[Rigdon], <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American
+People</ref>,</title> 41</ref>.)</note> He ordered out one <lb/>of the officers
+to raise a force and <lb/>march immediately to what he called <lb/><ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Wight</ref>’s
+town<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Lyman
+Wight</ref> spearheaded settlement of
+<ref pm:link-pointer-type="place" target="plc149" n="Adam-ondi-Ahman, Daviess County, Missouri">Adam-ondi-Ahman</ref>, the
+principal Latter-day Saint community in
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>.<note type="toe-note" resp="NNW" pm:link-target-type="text">JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e52608">18 May–1 June</ref>
+and <ref pm:link-pointer-type="text" target="JSPPJ1_d1e53843">4–5 June
+1838</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title>
+                                    J1:270–275-->;
+<ref target="X0533" pm:link-pointer-type="source">Berrett, <title>Sacred
+Places,</title> 4:399–402, 416, 438–444</ref>.</note> Wight was also the leader
+of the Adam-ondi-Ahman contingent of the Danite society, a private Mormon
+militia.<note type="toe-note" resp="NNW" pm:link-target-type="text">JS,
+Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e58467">7–9 Aug.
+1838</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:299-->;
+<ref target="X9595" pm:link-pointer-type="source">Swartzell, <title>Mormonism
+Exposed,</title> 17, 20–23, 32</ref>;
+<ref target="X8406" pm:link-pointer-type="source">“History of Lyman Wight,” 5,
+Historian’s Office, Histories of the Twelve, ca. 1858–1880,
+CHL</ref>.</note></note> and defend our people <lb/>from the attacks of the
+mob, until he <lb/>should raise the militia in his, and the <lb/>adjoining
+counties to put them down.<note type="editorial-footnote" pm:link-target-type="text">While Brigadier General
+<ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Alexander Doniphan</ref> had authority to issue
+orders for
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref> and
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess</ref> counties,
+<ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Sidney
+Rigdon</ref> recounted that Doniphan “advised” and “recommended” that
+Latter-day Saints from Caldwell County help defend their fellow Saints in
+Daviess County. (<ref target="X2953" pm:link-pointer-type="source">[Rigdon],
+<title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the
+American People</ref>,</title> 42</ref>.)</note> <lb/>A small company of
+militia who were <lb/>on their rout to
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess county</ref>, and <lb/>who had passed
+through
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>, he <lb/>ordered back again, stating that they <lb/>were not to be
+depended upon, as many <lb/>of them were disposed to join the mob; <lb/>and to
+use his own expression, were <lb/>“damned rotten hearted.”<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+notes that the company numbered sixty. This was apparently the company of
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>
+militia commanded by Colonel <persName>William Dunn</persName> of
+<ref pm:link-pointer-type="place" target="plc91" n="Clay County, Missouri">Clay
+County</ref> that Brigadier General
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">Hiram Parks</ref> had sent to
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>. Dunn’s company encamped near
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref> awaiting
+<ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Brigadier General Doniphan</ref>’s arrival.
+Doniphan, however, ordered Dunn to dismiss his troops. (<ref target="X9264" pm:link-pointer-type="source">Hiram Parks, Richmond, MO, to David R. Atchison,
+21 Oct. 1838, Mormon War Papers, MSA</ref>.)</note> According <lb/>to orders
+<ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">Lieut.
+Colonel <supplied resp="Nathan Waite">George M.</supplied> Hinkle</ref>
+march<lb/>ed with a number of our people to
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Da<lb/>viess county</ref> to afford what
+assistance <lb/>they could to their brethren.<note type="editorial-footnote" pm:link-target-type="text">Approximately one hundred fifty to three hundred men
+from
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell County</ref> arrived in
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref> on
+<date when-iso="1838-10-16">16 October</date>. (<ref target="X6398" pm:link-pointer-type="source">John Smith, Journal, 16 Oct. 1838</ref>;
+<ref target="X3057" pm:link-pointer-type="source">Corrill, <title><ref pm:link-pointer-type="relatedDocument" target="x6552">Brief
+History</ref>,</title> 37</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:177-->;
+<ref target="XX6764" pm:link-pointer-type="source">Foote, Autobiography, 21
+Oct. 1838</ref>.) </note> Having <lb/>some property in that
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">county</ref> and hav<lb/>ing a house building
+there, I went up at <lb/>the same time.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> remained in
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref> over the next few days to
+oversee Mormon operations there. (<ref target="X5126" pm:link-pointer-type="source">LeSueur, <title>1838 Mormon War in
+Missouri,</title> 112–128</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,”
+185–210</ref>.)</note> While I was there a <lb/>number of houses belonging to
+our peo<lb/>ple were burned by the mob, who com<lb/>mitted many other
+depredations, such <lb/>as driving off horses, sheep, cattle, hogs <lb/>&amp;c.
+A number, whose houses were <lb/>burned down as well as those who lived <lb/>in
+scattered and lonely situations, fled <lb/>into the town for safety, and for
+shelter <lb/>from the inclemency of the weather, as <lb/>a considerable snow
+storm had taken <lb/>place just about that time; women and <lb/>children, some
+in the most delicate sit<lb/>uations were thus obliged to leave their
+<lb/>homes, and travel several miles in or<lb/>der to effect their escape. My
+feelings <lb/>were such as I cannot describe when <lb/>I saw them flock into
+the village, al<lb/>most entirely destitu<supplied resp="Nathan Waite">t</supplied>e of clothes, and <lb/>only escaping with their
+lives.<note type="editorial-footnote" pm:link-target-type="text"> Mormon
+victims of these vigilante depredations included
+<ref pm:link-pointer-type="person" target="x4591" n="Pickett, Agnes Moulton Coolbrith">Agnes Coolbrith Smith</ref>, wife of
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s brother
+<ref pm:link-pointer-type="person" target="per493" n="Smith, Don Carlos">Don
+Carlos</ref>. Her husband was away from home on a church mission. (<ref target="X2953" pm:link-pointer-type="source">[Rigdon], <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American
+People</ref>,</title> 43</ref>;
+<ref target="XED5F" pm:link-pointer-type="source">Hyrum Smith, Testimony,
+Nauvoo, IL, 1 July 1843, p. 6, Nauvoo, IL, Records, CHL</ref>.)</note> During
+<lb/>this state of affairs
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">General Parks</ref> ar<lb/>rived at
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess county</ref>,<note type="editorial-footnote" pm:link-target-type="text">Brigadier General
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">Hiram Parks</ref> arrived <date when-iso="1838-10-18">18 October</date>. (<ref target="X9264" pm:link-pointer-type="source">Hiram Parks, Richmond, MO, to David R. Atchison,
+21 Oct. 1838, Mormon War Papers, MSA</ref>.) </note> and was at the <lb/>house
+of Colonel <ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Lyman Wight</ref>, when <lb/>the intelligence was brought,
+that the <lb/>mob were burning houses; and also <lb/>when women and children
+were fleeing <lb/>for safety.
+<ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Colonel
+Wight</ref> who held a <lb/>commission in the 59th regiment under <lb/>his
+(<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">General Parks</ref>) command, asked <lb/>what was to
+be done. He told him <lb/>that he must immediately, call out his <lb/>men and
+go and put them down.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Wight</ref> had been commissioned as the
+colonel of the
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell County</ref> regiment of the state
+militia when he resided there, prior to moving to
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>.
+<ref pm:link-pointer-type="person" target="x4595" n="Peniston, William P.">William Peniston</ref>, an antagonist to the Mormons,
+held the office of colonel in Daviess County.<note type="toe-note" resp="NNW" pm:link-target-type="text"><ref target="X8406" pm:link-pointer-type="source">“History of Lyman Wight,” 5, Historian’s Office,
+Histories of the Twelve, ca. 1858–1880, CHL</ref>; see also
+<ref target="X9264" pm:link-pointer-type="source">William Peniston, Daviess
+Co., MO, to Lilburn W. Boggs, 21 Oct. 1838, Mormon War Papers,
+MSA</ref>.</note> Wight directed Mormon forces at
+<ref pm:link-pointer-type="place" target="plc149" n="Adam-ondi-Ahman, Daviess County, Missouri">Adam-ondi-Ahman</ref> as leader
+of the church’s private militia there.<note type="toe-note" resp="NNW" pm:link-target-type="text">JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e58467">7–9 Aug. 1838</ref><!--,
+                                    in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title>
+                                    J1:299-->;
+<ref target="X1832" pm:link-pointer-type="source">Sampson Avard, Testimony,
+Richmond, MO, Nov. 1838, in State of Missouri, “Evidence”</ref>;
+<ref target="X9595" pm:link-pointer-type="source">Swartzell, <hi rend="italic">Mormonism Exposed,</hi> 17, 20–23, 32</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,”
+385</ref>.</note></note> Ac<lb/>cordingly, a force was immediately rais<lb/>ed
+for the purpose of quelling the mob, <lb/>and in a short time were on their
+<lb/>march with a determination to drive the <lb/>mob, or die in the
+attempt;<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+does not include “or die in the attempt.”</note> as they <lb/>could bear such
+treatment no longer.<note type="editorial-footnote" pm:link-target-type="text">According to
+<ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">Parks</ref>, the Latter-day Saints began their attack
+before he arrived. (<ref target="X9264" pm:link-pointer-type="source">Hiram
+Parks, Richmond, MO, to David R. Atchison, 21 Oct. 1838, Mormon War Papers,
+MSA</ref>.)</note> <lb/>The mob having learned the orders of <lb/><ref pm:link-pointer-type="person" target="x4608" n="Parks, Hiram Gartrell">general
+Parks</ref>, and likewise being <lb/>aware of the determination of the
+op<lb/>pressed, they broke up their encamp<lb/>ments and fled. The mob seeing
+that <lb/>they could not succeed by force, now
+<pb type="present" n="4" facs="6549_44475-LIBR-88_TS_004.jpg"/> resorted to
+str<supplied resp="Nathan Waite">a</supplied>tagem; and after remov<lb/>ing
+their property out of their houses, <lb/>which were nothing but log cabins,
+they <lb/>actually set fire to their own houses, <lb/>and then reported to the
+authorities of <lb/>the state that the Mormons were burn<lb/>ing and destroying
+all before them.<note type="editorial-footnote" resp="W" pm:link-target-type="text">Several Mormons later stated that non-Mormons burned
+their own homes and then blamed the Mormons in order to provoke state action
+against them. Other accounts added that non-Mormons burned their own homes
+after selling their property to the Mormons. In many instances, however, the
+Mormons did burn non-Mormon homes, as well as some stores. Soon not only the
+vigilantes but most of the non-Mormon population of
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess</ref> fled the county. (<ref target="X2953" pm:link-pointer-type="source">[Rigdon], <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American
+People</ref>,</title> 44</ref>;
+<ref target="XED5F" pm:link-pointer-type="source">Hyrum Smith, Testimony,
+Nauvoo, IL, 1 July 1843, p. 7, Nauvoo, IL, Records, CHL</ref>;
+<ref target="X3C97" pm:link-pointer-type="source">Pulsipher, “Zerah
+Pu[l]siphers History,” 8</ref>;
+<ref target="X5126" pm:link-pointer-type="source">LeSueur, <title>1838 Mormon
+War in Missouri,</title> 117–124</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,” chap.
+7</ref>.)</note></p> <p rend="indent">On the retreat of the mob from <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Da<lb/>viess</ref>, I returned to <ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref>, hoping to <lb/>have
+                            some respite from our enemies, at <lb/>least for a short time; but upon
+                            my arri<lb/>val there, I was informed that a mob <lb/>had commenced
+                            hostilities on the bor<lb/>ders of that county, adjoining to <ref pm:link-pointer-type="place" target="plc226" n="Ray County, Missouri">Ray <lb/>co.</ref> and that they had taken
+                            some of our <lb/>brethren prisoners, burned some houses, <lb/>and had
+                            committed depredations on the <lb/>peaceable inhabitants.<note type="editorial-footnote" pm:link-target-type="text">Responding to
+                                rumors of Mormon intentions to raid <ref pm:link-pointer-type="place" target="plc226" n="Ray County, Missouri">Ray County</ref>, Captain <ref pm:link-pointer-type="person" target="x4891" n="Bogart, Samuel">Samuel Bogart</ref> of the Ray County militia mobilized a
+                                company, including militiamen and volunteers, to patrol the border
+                                area between Ray County and <ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell
+                                    County</ref> and to guard against potential attacks. He then
+                                wrote to <ref pm:link-pointer-type="person" target="per582" n="Atchison, David Rice">David R. Atchison</ref>, a major
+                                general in the state militia, for authorization. Atchison not only
+                                granted Bogart’s request for permission to “range the line between
+                                Caldwell &amp; Ray County” but also charged him “to enquire into the
+                                state of things in <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>.” On <date when-iso="1838-10-24">24 October</date>, Bogart’s rangers began
+                                harassing Saints living on both sides of the Ray-Caldwell border and
+                                took three prisoners: <persName>Addison Green</persName>,
+                                    <persName>Nathan Pinkham Jr.</persName>, and <persName>William
+                                    Seely</persName>. Green, and possibly Pinkham, belonged to a
+                                group of Mormon scouts reconnoitering the border. <ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Sidney Rigdon</ref> later testified that a messenger reported
+                                Bogart’s men burned one house. (<ref target="X9264" pm:link-pointer-type="source">Samuel Bogart, Elk Horn, MO, to
+                                    David R. Atchison, 23 Oct. 1838, Mormon War Papers, MSA</ref>;
+                                    <ref target="X1832" pm:link-pointer-type="source">Samuel Bogart,
+                                    Testimony, Richmond, MO, Nov. 1838, in State of Missouri,
+                                    “Evidence”</ref>; <ref target="X7021" pm:link-pointer-type="source">Rockwood, Journal, 25 Oct.
+                                    1838</ref>; <ref target="XED5F" pm:link-pointer-type="source">Sidney Rigdon, Testimony, Nauvoo, IL, 1 July 1843, p. [12],
+                                    photocopy, Nauvoo, IL, Records, CHL</ref>; see also <ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to
+                                    Arms,” 219–225</ref>.)</note> A company un<lb/>der the command
+                            of <ref pm:link-pointer-type="person" target="per609" n="Patten, David Wyman">Capt. <supplied resp="Nathan Waite">David
+                                    W.</supplied> Patten</ref>, was <lb/>ordered out by <ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">Lieutenant Col. Hinck<lb/>le</ref> to go against them, and stop
+                            their <lb/>depredations, and drive them out of the <lb/>county.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref> also notes that “about day light next morning,”
+                                    <ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">Hinkle</ref> “came up with them.” <ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker">Parley P. Pratt</ref>, a participant in
+                                the expedition, recounted that “<ref pm:link-pointer-type="person" target="per824" n="Killian, John">Captain <supplied resp="seniels">John</supplied> Killian</ref> (to whom Col.
+                                Hincle had committed the command of the troops in <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref>, when he himself was not present) sent out a
+                                detachment.… This company, consisting of about sixty men, was sent
+                                to see what the matter was on the lines; and who was committing
+                                depredations, and if necessary, to protect or move in the families
+                                and property; and if possible, effect the release of the
+                                    prisoners.”<note type="toe-note" resp="NNW" pm:link-target-type="text"><ref target="X82E0" pm:link-pointer-type="source">Pratt, <title><ref pm:link-pointer-type="relatedDocument" target="X7206">History of the Late
+                                            Persecution</ref>,</title> 33</ref>.</note> Although the
+                                company’s commission may have included all the elements listed by JS
+                                and Pratt, other accounts focus on the mission of rescuing the men
+                                taken prisoner.<note type="toe-note" resp="NNW" pm:link-target-type="text">See, for example, <ref target="X93E5" pm:link-pointer-type="source">Charles C. Rich, Statement,
+                                        ca. Feb. 1845, Historian’s Office, JS History Documents, ca.
+                                        1839–1856, CHL</ref>; and <ref target="X1A5C" pm:link-pointer-type="source">Greene, <title>Facts Relative
+                                            to the Expulsion,</title> 21</ref>.</note> In an effort
+                                to free the Mormon prisoners held by <ref pm:link-pointer-type="person" target="x4891" n="Bogart, Samuel">Bogart</ref>, the company crossed over the <ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell County</ref> line early
+                                on the morning of <date when-iso="1838-10-25">25 October</date> and
+                                attacked Bogart at his camp on <ref pm:link-pointer-type="place" target="x8209" n="Crooked River, Missouri">Crooked River</ref>
+                                in the noncounty area attached to <ref pm:link-pointer-type="place" target="plc226" n="Ray County, Missouri">Ray County</ref>.<note type="toe-note" resp="NNW" pm:link-target-type="text"><ref target="X0533" pm:link-pointer-type="source">Berrett,
+                                            <title>Sacred Places,</title>
+                                4:267–268</ref>.</note></note> Upon the approach of our <lb/>people,
+                            the mob fired upon them, and <lb/>after discharging their pieces, fled
+                            with <lb/>great precipitation, with the loss of one <lb/>killed and
+                            several wounded.<note type="editorial-footnote" pm:link-target-type="text"><persName>Moses Rowland</persName> was
+                                killed in the encounter, and at least six others of the <ref pm:link-pointer-type="place" target="plc226" n="Ray County, Missouri">Ray County</ref> militia were wounded.
+                                    (<ref target="X1832" pm:link-pointer-type="source">Wyatt
+                                    Cravens, Testimony, Richmond, MO, Nov. 1838, in State of
+                                    Missouri, “Evidence”</ref>.) </note> In the <lb/>engagement <ref pm:link-pointer-type="person" target="per609" n="Patten, David Wyman">Capt. Patten</ref>, (a man be<lb/>loved by
+                            all who had the pleasure of <lb/>his acquaintance,) was wounded and
+                            <lb/>died shortly after.<note type="editorial-footnote" pm:link-target-type="text">In his <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref>, <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> states before <ref pm:link-pointer-type="person" target="per609" n="Patten, David Wyman">Patten</ref> died, he “sent for me to
+                                pray for him, which request I complied with.”</note> Two others were
+                            <lb/>likewise killed and several wounded.<note type="editorial-footnote" pm:link-target-type="text">Besides <ref pm:link-pointer-type="person" target="per609" n="Patten, David Wyman">Patten</ref>, <ref pm:link-pointer-type="person" target="per850" n="Carter, Gideon Hayden">Gideon Carter</ref> was killed in
+                                    battle<note type="toe-note" resp="NNW" pm:link-target-type="text" xml:id="XCE3EE834-1C66-4D12-B9ED-4B05CF0344A4"><ref target="X7021" pm:link-pointer-type="source">Rockwood,
+                                        Journal, 28 Oct. 1838</ref>; <ref target="X2953" pm:link-pointer-type="source">[Rigdon], <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American
+                                            People</ref>,</title> 45</ref>.</note> and <ref pm:link-pointer-type="person" target="x4613" n="Obanion, Patrick">Patrick (or Patterson) Obanion</ref> was
+                                fatally wounded.<note type="toe-note" resp="NNW" pm:link-target-type="text" xml:id="X5191C9C1-C2E8-46FB-ABF9-141BEE8773B0"><ref target="X3C41" pm:link-pointer-type="source">Young, “Lorenzo
+                                        Dow Young’s Narrative,” 51</ref>; <ref target="XDADC" pm:link-pointer-type="source">John P. Greene, Affidavit,
+                                        Quincy, IL, 17 Mar. 1840, Mormon Redress Petitions,
+                                        1839–1845, CHL</ref>; <ref target="X1832" pm:link-pointer-type="source">John L. Lockhart, Testimony,
+                                        Richmond, MO, Nov. 1838, in State of Missouri,
+                                        “Evidence.”</ref></note> Seven other Mormons were
+                                    wounded.<note type="toe-note" resp="NNW" pm:link-target-type="text" xml:id="X187F281C-4667-4B1F-A41E-70886854A3F2"><ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to
+                                        Arms,” 238–240</ref>.</note></note>
+                            <lb/>Great excitement now prevailed, and <lb/>mobs were heard of in
+                            every direction <lb/>who seemed determined on our destruc<lb/>tion. They
+                            burned the houses in the <lb/>country and took off all the cattle they
+                            <lb/>could find.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref> notes that “amongst the cattle driven off were Two
+                                cows of mine.”</note> They destroyed cornfields, <lb/>took many
+                            prisoners, and threatened <lb/>death to all the Mormons. On the <date when-iso="1838-10-28">28th <lb/>of Oct.</date> a large company of
+                            armed sol<lb/>diery were seen approaching <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref>,<note type="editorial-footnote" resp="CPL" pm:link-target-type="text">Eighteen hundred militiamen under the
+                                command of <ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Samuel D. Lucas</ref> arrived at
+                                    <placeName>Goose Creek</placeName>, one mile south of <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref>, on <date when-iso="1838-10-30">30
+                                    October</date>. (<ref target="X9264" pm:link-pointer-type="source">Samuel D. Lucas, “near Far West,”
+                                    MO, to Lilburn W. Boggs, 2 Nov. 1838, Mormon War Papers,
+                                    MSA</ref>.)</note>
+                            <lb/>They came up near to the town and <lb/>then drew back about a mile
+                            and en<lb/>camped for the night.<note type="editorial-footnote" pm:link-target-type="text">The following three sentences do not
+                                appear in the <ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>, which resumes with “The
+                                next day I was waited upon by <ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">Colonel Hinckle</ref>.”
+                                The soldiers encamped on <placeName>Goose Creek</placeName>. (<ref target="X0533" pm:link-pointer-type="source">Berrett,
+                                        <title>Sacred Places,</title> 4:300–301</ref>.)</note> We
+                            were in<lb/>formed that they were Militia, ordered <lb/>out by the <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Govornor</ref> for the purpose of <lb/>stopping our proceedings; it
+                            having <lb/>been represented to his <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">excellency</ref>, by
+                            <lb/>wicked and designing men from <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Da<lb/>viess</ref>,
+                            that we were the aggressors, and <lb/>had committed outrages in <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess</ref>
+                            <lb/>&amp;c.<note type="editorial-footnote" pm:link-target-type="text">The “designing men from <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Da<lb/>viess</ref>”
+                                were later identified as <persName>William Morgan</persName>, <ref pm:link-pointer-type="person" target="x4891" n="Bogart, Samuel">Samuel Bogart</ref> (actually from <ref pm:link-pointer-type="place" target="plc226" n="Ray County, Missouri">Ray County</ref>), <ref pm:link-pointer-type="person" target="x4595" n="Peniston, William P.">William Peniston</ref>,
+                                    <persName>Samuel Venable</persName>, <persName>Jonathan J.
+                                    Dryden</persName>, <persName>James Stone</persName>, and
+                                    <persName>Thomas J. Martin</persName>. (<ref target="X0029" pm:link-pointer-type="source">JS History, vol. B-1, <ref pm:link-pointer-type="text" target="X4B401853-006A-458F-AA9B-A97661633576">837</ref></ref>; see also <ref target="X9218" pm:link-pointer-type="source">William Morgan, Affidavit, 21 Oct.
+                                    1838</ref>; <ref target="X9264" pm:link-pointer-type="source">William Peniston, Daviess Co., MO, to Lilburn W. Boggs, 21 Oct.
+                                    1838</ref>; <ref target="X9218" pm:link-pointer-type="source">Samuel Venable, Affidavit, 22 Oct. 1838</ref>; <ref target="X9218" pm:link-pointer-type="source">Jonathan J. Dryden,
+                                    Affidavit, 22 Oct. 1838</ref>; <ref target="X9218" pm:link-pointer-type="source">James Stone, Affidavit, 22 Oct.
+                                    1838</ref>; and <ref target="X9218" pm:link-pointer-type="source">Thomas J. Martin, Affidavit, 22
+                                    Oct. 1838, Mormon War Papers, MSA</ref>.)</note> They had not
+                            yet got the <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Gover<lb/>nor</ref>s orders of <hi rend="italic">extermination</hi>, which I <lb/>believe did not
+                            arrive until the next <lb/>day.<note type="editorial-footnote" pm:link-target-type="text">Acting as commander in chief of the <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> state militia, Governor <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Lilburn W. Boggs</ref> issued orders on
+                                    <date when-iso="1838-10-27">27 October 1838</date> that “the
+                                Mormons must be treated as enemies and must be exterminated or
+                                driven from the state if necessary for the public peace.” <ref pm:link-pointer-type="person" target="x4597" n="Peck, Reed">Reed
+                                    Peck</ref>, who parleyed with the militia on behalf of the
+                                Saints, wrote that the order did not arrive until “an hour or so
+                                before Sun Set.” However, <ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Major General Lucas</ref>
+                                reported to Governor Boggs that he had received a copy of the order
+                                on the previous day, <date when-iso="1838-10-30">30 October</date>,
+                                at the Log Creek crossing on the road to <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref>, and that he postponed meeting with <ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">Hinkle</ref> and the Mormon party on <date when-iso="1838-10-31">31 October</date> until two o’clock in the
+                                afternoon because he was preoccupied with “receiving &amp; encamping
+                                of fresh troops, who were hourly coming in.” (<ref target="X9264" pm:link-pointer-type="source">Lilburn W. Boggs, Jefferson City,
+                                    MO, to John B. Clark, Fayette, MO, 27 Oct. 1838, Mormon War
+                                    Papers, MSA</ref>; <ref target="X2852" pm:link-pointer-type="source">Reed Peck, Quincy, IL, to “Dear
+                                    Friends,” 18 Sept. 1838, p. 109, Henry E. Huntington Library,
+                                    San Marino, CA</ref>; <ref target="X9264" pm:link-pointer-type="source">Samuel D. Lucas, “near Far West,”
+                                    MO, to Lilburn W. Boggs, 2 Nov. 1838, Mormon War Papers,
+                                    MSA</ref>.)</note> On the following morning, a flag <lb/>was
+                            sent, which was met by several of <lb/>our people, and it was hoped that
+                            mat<lb/>ters would be satisfactorily arranged <lb/>after the officers
+                            had heard a true state<lb/>ment of all the circumstances.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="x4597" n="Peck, Reed">Reed
+                                    Peck</ref> wrote that Brigadier General <ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Alexander Doniphan</ref> named
+                                him along with <ref pm:link-pointer-type="person" target="per1028" n="Cleminson, John James">John Cleminson</ref>, <ref pm:link-pointer-type="person" target="per504" n="Corrill, John">John Corrill</ref>, and <ref pm:link-pointer-type="person" target="per73" n="Phelps, William Wines">William W. Phelps</ref>
+                                to meet with Doniphan and other members of the militia delegation
+                                and that <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> added <ref pm:link-pointer-type="person" target="per920" n="Brunson, Seymour">Seymour Brunson</ref> and <ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">George M. Hinkle</ref> to the number.
+                                Corrill wrote that the delegation consisted of only himself, Peck,
+                                and Hinkle. According to Corrill, JS had instructed him to “beg like
+                                a dog for peace.” (<ref target="X2852" pm:link-pointer-type="source">Reed Peck, Quincy, IL, to “Dear Friends,” 18 Sept. 1839, pp.
+                                    108–109, Henry E. Huntington Library, San Marino, CA</ref>; <ref target="X3057" pm:link-pointer-type="source">Corrill,
+                                            <title><ref pm:link-pointer-type="relatedDocument" target="x6552">Brief History</ref>,</title>
+                                40–41</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:183-->.)</note>
+                            To<lb/>wards evening, I was waited upon by <lb/><ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">Colonel Hinckle</ref>, who stated that the <lb/>officers of the
+                            Militia desired to have <lb/>an interview with me, and some others,
+                            <lb/>hoping that the difficulties might be set<lb/>tled without having
+                            occasion to carry <lb/>into effect the exterminating orders, <lb/>which
+                            they had received from the <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Gov<lb/>ernor</ref>.<note type="editorial-footnote" pm:link-target-type="text">The Mormon
+                                emissaries reported back to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> the conditions
+                                under which General <ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Samuel D. Lucas</ref> would
+                                forgo extermination. As summarized by <ref pm:link-pointer-type="person" target="per504" n="Corrill, John">Corrill</ref>, they were to surrender certain church leaders,
+                                surrender their arms, give up their property as reparations for
+                                damages, and leave the state. Church leaders surrendered as
+                                prisoners would be allowed to decide whether to abide by those terms
+                                and remain prisoners or return to <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref> to fight. General Lucas’s report to <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor Boggs</ref> specified that the
+                                Mormon prisoners were to be held as hostages to guarantee compliance
+                                with the conditions of surrender.<note type="toe-note" resp="CPL" pm:link-target-type="text"><ref target="X3057" pm:link-pointer-type="source">Corrill, <title><ref pm:link-pointer-type="relatedDocument" target="x6552">Brief History</ref>,</title>
+                                        41–42</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:185–187-->;
+                                        <ref target="X9264" pm:link-pointer-type="source">S. Lucas
+                                        to L. Boggs, 2 Nov. 1838</ref>.</note> Corrill recounted
+                                that JS “said he had rather go to States-prison for twenty years, or
+                                had rather die himself than have the people exterminated.”<note type="toe-note" resp="CPL" pm:link-target-type="text"><ref target="X3057" pm:link-pointer-type="source">Corrill,
+                                                <title><ref pm:link-pointer-type="relatedDocument" target="x6552">Brief History</ref>,</title>
+                                    41</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:183-->.</note>
+                                Colonel <ref pm:link-pointer-type="person" target="per908" n="Hinkle, George M.">George M. Hinkle</ref> later maintained
+                                that he left to JS the decision whether to surrender and that JS
+                                sent word the following morning to agree to the terms.<note type="toe-note" resp="CPL" pm:link-target-type="text"><ref target="XCF4D" pm:link-pointer-type="source">George M.
+                                        Hinkle, Buffalo, Iowa Territory, to William W. Phelps,
+                                        Nauvoo, IL, 14 Aug. 1844, <title>The Ensign,</title> Aug.
+                                        1844, 30–32</ref>.</note>
+                            </note> I immediately complied with the <lb/>request, and in company
+                            with elders <lb/><ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney"><supplied resp="Nathan Waite">Sidney</supplied>
+                                Rigdon</ref> and <ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker"><supplied resp="Nathan Waite">Parley
+                                    P.</supplied> Pratt</ref>, <ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Colonel Wight</ref>, and <lb/><ref pm:link-pointer-type="person" target="per217" n="Robinson, George W.">Geo. W. Robinson</ref>, went into the camp
+                            <lb/>of the militia. But judge of my sur<lb/>prise, when instead of
+                            being treated <lb/>with that respect which is due from <lb/>one citizen
+                            to another, we were taken, <lb/>as prisoners of war, and were treated
+                            <lb/>with the utmost contempt.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was taken
+                                prisoner on Wednesday, <date when-iso="1838-10-31">31 October
+                                    1838</date>. (<ref target="X9264" pm:link-pointer-type="source">S. Lucas to L. Boggs, 2 Nov. 1838</ref>.)</note> The
+                            offi<lb/>cers would not converse with us, and <lb/>the soldiers, almost
+                            to a man, insulted <lb/>us as much as they felt disposed, breath<lb/>ing
+                            out threats against me and my com<lb/>panions.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">The
+                                previous sentence is not in <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref>.</note> I cannot begin to tell the <lb/>scene
+                            which I there witnessed. The <lb/>loud cries and yells of more than one
+                            <lb/>thousand voices, which rent the air and <lb/>could be heard for
+                            miles; and the hor<lb/>rid and blasphemous threats and curses <lb/>which
+                            were poured upon us in torrents, <lb/>were enough to appal the stoutest
+                            heart. <lb/>In the evening we had to lie down on the <lb/>cold ground
+                            surrounded by a strong <lb/>guard, who were only kept back by the
+                            <lb/>power of God from depriving us of life.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">The
+                                phrase “who were only kept back by the power of God from depriving
+                                us of life” is not found in <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref>.</note>
+                            <lb/>We petitioned the officers to know why <lb/>we were thus treated,
+                            but they utterly <lb/>refused to give us any answer, or to <lb/>converse
+                            with us. The next day they <lb/>held a court martial, and sentenced us
+                            <lb/>to be shot, on Friday morning, on the <lb/>puplic square, as an
+                            ensample to the <lb/>Mormons. However notwithstanding <lb/>their
+                            sentence, and determination, they <lb/>were not permitted to carry their
+                            mur<lb/>derous sentence into <ref pm:link-pointer-type="topic" target="x41896" n="Execution">execution</ref>.<note type="editorial-footnote" pm:link-target-type="text">A plan to
+                                execute <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was prevented by the
+                                intervention of Brigadier General <ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Alexander
+                                    Doniphan</ref>, who was also one of JS’s attorneys. (<ref target="XX9140" pm:link-pointer-type="source">Burnett,
+                                        <title>Recollections and Opinions,</title> 63</ref>; see
+                                also <ref target="X5886" pm:link-pointer-type="source">Maynard,
+                                        “<ref pm:link-pointer-type="web" target="http://byustudies.byu.edu/content/alexander-william-doniphan-man-justice">Alexander William Doniphan, Man of Justice</ref>,”
+                                    462–472</ref>; and <ref target="d2e40312" pm:link-pointer-type="source">Launius, “Alexander William
+                                    Doniphan and the 1838 Mormon War,” 67, 90–93</ref>.)</note></p>
+<p rend="indent">Having an opportunity of speaking <lb/>to
+<ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">General <supplied resp="Nathan Waite">Moses</supplied>
+Wilson</ref>,<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Major General Lucas</ref> committed
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and the other prisoners to the charge of
+<ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">Brigadier General Wilson</ref>. (<ref target="X9264" pm:link-pointer-type="source">S. Lucas to L. Boggs, 2 Nov. 1838</ref>.)</note>
+I inquired of him <lb/>the cause why I was thus treated, I <lb/>told him I was
+not sensible of having <lb/>done any thing worthy of such treat<lb/>ment; that
+I<note type="editorial-footnote" pm:link-target-type="text">The
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+here identifies
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> as “a Democrat.”</note> had always been a
+suppor<lb/>ter of the constitution and of Democra<lb/>cy. His answer was “I
+know it, and <lb/>that is the reason why I want to kill <lb/>you, or have you
+killled.”<note type="internal-note" resp="RES" pm:link-target-type="text">Three
+l’s in preceding term are correct.</note> The militia <lb/>then went into the
+town and without <lb/>any restraint whatever, plunderd the
+<pb type="present" n="5" facs="6549_44475-LIBR-88_TS_005.jpg"/> houses, and
+abused the innocent and <lb/>unoffending inhabitants. They went <lb/>to my
+house and drove my family out <lb/>of doors.<note type="editorial-footnote" resp="NNW" pm:link-target-type="text">According to the
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>, this was done “under sanction of general Clark.” Major General
+<ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock">John B. Clark</ref>, to whom
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor Boggs</ref> had assigned overall command of the
+expedition against the Mormons, did not arrive at
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref> until <date when-iso="1838-11-04">4 November</date>, after General
+<ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">Moses
+Wilson</ref> had left for
+<ref pm:link-pointer-type="place" target="plc41" n="Independence, Jackson County, Missouri">Independence</ref> with
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and other Mormon prisoners as directed by
+<ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Major
+General Lucas</ref>. (<ref target="X9264" pm:link-pointer-type="source">John B.
+Clark, Richmond, MO, to Lilburn W. Boggs, 10 Nov. 1838</ref>;
+<ref target="X9264" pm:link-pointer-type="source">Samuel D. Lucas,
+Independence, MO, to Lilburn W. Boggs, 5 Nov. 1838, Mormon War Papers,
+MSA</ref>.)</note> They carried away most of <lb/>my property and left many
+destitute.—<note type="editorial-footnote" resp="a" pm:link-target-type="text">
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of damages</ref>
+lists stolen horses, harnesses, cattle, hogs, books, and store goods. Mormon
+exiles from <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> later reported tremendous losses in plundered
+property. (See redress petitions in
+<ref target="X379D" pm:link-pointer-type="source">Material Relating to Mormon
+Expulsion from Missouri, 1839–1843, CHL</ref> and in
+<ref target="XDADC" pm:link-pointer-type="source">Mormon Redress Petitions,
+1839–1845, CHL</ref>.)</note> <lb/>We were taken to the town, into the
+<lb/>public square; and before our departure <lb/>from
+<ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far
+West</ref>, we, after much entrea<lb/>ties, were suffered to see our families,
+<lb/>being attended all the while with a strong <lb/>guard; I found my
+<ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">wife</ref> and children <lb/>in tears, who expected we
+were shot <lb/>by those who had sworn to take our <lb/>lives, and that they
+should see <lb/>me no more.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s mother,
+<ref pm:link-pointer-type="person" target="x4507" n="Smith, Lucy Mack">Lucy
+Mack Smith</ref>, later recalled that when JS was taken prisoner she and
+<ref pm:link-pointer-type="person" target="per58" n="Smith, Joseph, Sr.">Joseph
+Smith Sr.</ref> heard several gunshots and concluded that JS had been murdered.
+(<ref target="X7868" pm:link-pointer-type="source">Lucy Mack Smith, History,
+1844–1845,
+<ref pm:link-pointer-type="text" target="X28AD2C82-2BA7-4426-8D95-FD08AEA33791">bk. 16</ref>, [2]</ref>.)
+</note> When I entered my <lb/>house, they clung to my garments, <lb/>their
+eyes streaming with tears, while <lb/>mingled emotions of joy and sorrow
+<lb/>were manifest in their countenances. <lb/>I requested to have a private
+interview <lb/>with them a few minutes, but this privi<lb/>lege was denied me,
+I was then oblig<lb/>ed to take my departure, but who can <lb/>realize my
+feelings which I experien<lb/>ced at that time; to be torn from my <lb/><ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">companion</ref>, and leaving her surrounded <lb/>with
+monsters in the shape of men, and <lb/>my children too, not knowing how their
+<lb/>wants would be supplied; to be taken <lb/>far from them in order that my
+ene<lb/>mies might destroy me when they <lb/>thought proper to do so. My
+<ref pm:link-pointer-type="person" target="per86" n="Smith, Emma Hale">partner</ref> <lb/>wept, my children clung to me and
+<lb/>were only thrust from me by the swords <lb/>of the guard who guarded me. I
+felt <lb/>overwhelmed while I witnessed the <lb/>scene, and could only
+reccomend them <lb/>to the care of that God, whose kind<lb/>ness had followed
+me to the present <lb/>time; and who alone could protect them, <lb/>and deliver
+me from the hands of my <lb/>enemies and restore me to my family<note type="editorial-footnote" pm:link-target-type="text">The description of
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> bidding farewell to his family was expanded
+from the <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>. The three sentences that follow are also an expansion of the
+bill’s text, which reads only, “We were then removed to
+<ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">Jackson County</ref>.”</note></p> <p rend="indent">I was then taken back to the camp <lb/>and then I with the rest of my brethren,
+                            <lb/>viz: <ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Sidney Rigdon</ref>, <ref pm:link-pointer-type="person" target="per66" n="Smith, Hyrum">Hyram
+                                    <supplied resp="Nathan Waite">Hyrum</supplied> Smith</ref>,
+                                <lb/><ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker">Parley P. Pratt</ref>, <ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Lyman
+                                Wight</ref>, <ref pm:link-pointer-type="person" target="per934" n="Lyman, Amasa Mason">Amasa <lb/>Lyman</ref>, and <ref pm:link-pointer-type="person" target="per217" n="Robinson, George W.">George W. Robinson</ref>, <lb/>were removed
+                            to <ref pm:link-pointer-type="place" target="plc41" n="Independence, Jackson County, Missouri">Independence</ref>,
+                            Jack<lb/>son county. They did not make <lb/>known what their intention
+                            or designs <lb/>were in taking us there; but knowing <lb/>that some of
+                            our most bitter enemies <lb/>resided in that <ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">county</ref>, we came to the
+                            <lb/>conclusion that their design was to <lb/>shoot us, which from the
+                            testimony of <lb/>others. I do think was a correct conclu<lb/>sion.<note type="editorial-footnote" pm:link-target-type="text">On <date when-iso="1838-11-02">2 November</date>
+                                <ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock">Clark</ref> sent orders to <ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Lucas</ref> to hold the seven prisoners
+                                until Clark arrived at <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref>. Lucas apparently did not receive those orders
+                                before departing with the prisoners for <ref pm:link-pointer-type="place" target="plc41" n="Independence, Jackson County, Missouri">Independence</ref>.
+                                Clark then sent orders on <date when-iso="1838-11-03">3
+                                    November</date> for Lucas to take the prisoners to <ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref>. Lucas explained to <ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Governor Boggs</ref> that he refused to
+                                comply with Clark’s <date when-iso="1838-11-03">3 November</date>
+                                order because Clark, being junior to Lucas in appointment as a major
+                                general in the <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> militia, was not entitled to issue
+                                such a command to Lucas. By returning from the field of operations
+                                to his division headquarters in Independence and bringing the
+                                prisoners with him, Lucas maintained jurisdictional control over the
+                                situation. He reported to Boggs that he “march[ed] them to my head
+                                Quarters at Independence to await your further Orders.” (<ref target="X9264" pm:link-pointer-type="source">John B. Clark,
+                                    Jefferson City, MO, to Lilburn W. Boggs, 29 Nov. 1838</ref>;
+                                    <ref target="X9264" pm:link-pointer-type="source">Samuel D.
+                                    Lucas, Independence, MO, to Lilburn W. Boggs, 5 Nov. 1838,
+                                    Mormon War Papers, MSA</ref>; see also <ref target="XEFB5" pm:link-pointer-type="source">JS, Independence, MO, to Emma
+                                    Smith, Far West, MO, <ref pm:link-pointer-type="relatedDocument" target="x418">4 Nov. 1838</ref>, JS, Materials,
+                                CCLA</ref>.)</note> While there, we were under the <lb/>care of
+                            Generals <ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D."><supplied resp="Nathan Waite">Samuel
+                                    D.</supplied> Lucas</ref> and <ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">Wilson</ref>, <lb/>we had to
+                            find our own board, and had <lb/>to sleep on the floor with nothing but
+                            <lb/>a mantle for our covering, and a stick <lb/>of wood for our
+                                pillow.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per117" n="Pratt, Parley Parker">Parley P. Pratt</ref> recalled that the
+                                prisoners were initially kept in a vacant house and then moved to a
+                                hotel. (<ref target="X82E0" pm:link-pointer-type="source">Pratt,
+                                            <title><ref pm:link-pointer-type="relatedDocument" target="X7206">History of the Late
+                                        Persecution</ref>,</title> 46–47</ref>.)</note> After
+                            remain<lb/>ing there a few days we were ordered <lb/>by General <ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock"><supplied resp="Nathan Waite">John
+                                    B.</supplied> Clark</ref> to return; we were <lb/>accordingly
+                            taken back as far as <ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Rich<lb/>mond</ref>, and there we were thrust into <lb/>prison and
+                            our feet bound with fetters.<note type="editorial-footnote" resp="a" pm:link-target-type="text">According to <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref>, “While we were in <ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">Jackson</ref>, <ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock">General Clark</ref> with his troops
+                                arrived in <ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref> and sent an order
+                                for our return—holding out the inducement that we were to be
+                                reinstated to our former priviledges: but instead of being taken to
+                                Caldwell we were taken to <ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref>.” Before arriving at <ref pm:link-pointer-type="place" target="plc137" n="Far West, Rockford Township (now in Mirabile Township), Caldwell County, Missouri">Far West</ref>, Clark twice sent orders to <ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Lucas</ref> to incarcerate the prisoners in
+                                the jail at Richmond. There is no indication in Clark’s
+                                correspondence that he ordered them returned to Far West. The
+                                prisoners were kept in <ref pm:link-pointer-type="place" target="plc41" n="Independence, Jackson County, Missouri">Independence</ref>
+                                <date from-iso="1838-11-04" to-iso="1838-11-08">4–8 November
+                                    1838</date>. They were moved from Independence to Richmond <date from-iso="1838-11-08" to-iso="1838-11-09">8–9 November</date>.
+                                    (<ref target="X9264" pm:link-pointer-type="source">John B.
+                                    Clark, Jefferson City, MO, to Lilburn W. Boggs, 29 Nov. 1838,
+                                    Mormon War Papers, MSA</ref>; <ref target="X2953" pm:link-pointer-type="source">[Rigdon], <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American People</ref>,</title>
+                                    62–65</ref>.)</note>
+                            <lb/>While in <ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref>, we were under the <lb/>charge of <ref pm:link-pointer-type="person" target="x4579" n="Price, Sterling">colonel <supplied resp="Nathan Waite">Sterling</supplied>
+                                Price</ref> from <ref pm:link-pointer-type="place" target="plc59" n="Chariton County, Missouri">Chariton <lb/>county</ref>, who
+                            suffered all manner of <lb/>abuse to be heaped upon us.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="x4579" n="Price, Sterling">Lieutenant Colonel Price</ref> served in Brigadier General <ref pm:link-pointer-type="person" target="x4404" n="Wilson, Robert">Robert Wilson</ref>’s second brigade in Major General <ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock">John B. Clark</ref>’s first division of
+                                the state militia. (See <ref target="X9264" pm:link-pointer-type="source">John B. Clark, Richmond, MO, to
+                                    Lilburn W. Boggs, 10 Nov. 1838</ref>; and <ref target="X9264" pm:link-pointer-type="source">Robert Wilson, Adam-ondi-Ahman,
+                                    MO, to John B. Clark, 12 Nov. 1838, Mormon War Papers,
+                                MSA</ref>.)</note> During <lb/>this time my afflictions were great,
+                            and <lb/>our situation was truly painful. After <lb/>remaining there a
+                            few days we were <lb/>taken before the court of inquiry,<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Austin A. King</ref>, judge of <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>’s fifth judicial circuit, presided over a
+                                preliminary court of inquiry for sixty-four Latter-day Saint
+                                defendants at <ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref> on <date from-iso="1838-11-12" to-iso="1838-11-29">12–29 November 1838</date>. (<ref target="X6517" pm:link-pointer-type="source">Madsen, “<ref pm:link-pointer-type="web" target="https://byustudies.byu.edu/article/joseph-smith-and-the-missouri-court-of-inquiry-austin-a-kings-quest-for-hostages/">Joseph Smith and the Missouri Court of Inquiry</ref>,”
+                                    97–98</ref>; see also <ref target="X1832" pm:link-pointer-type="source">State of Missouri,
+                                    “Evidence.”</ref>) </note> but <lb/>were not prepared with
+                            witnesses, in <lb/>consequence of the eruelty <supplied resp="Nathan Waite">cruelty</supplied> of the mob, <lb/>who
+                            threatend destruction to all who <lb/>had any thing to say in our favor:
+                            but <lb/>notwithstanding their threats there <lb/>were a few who did not
+                            think their lives <lb/>dear so that they might testify to the
+                            <lb/>truth, and in our behalf, knowing we <lb/>were unlawfully confined;
+                            but the court <lb/>who was prejudiced against us, would <lb/>not suffer
+                            them to be examined accor<lb/>ding to law, but suffered the State’s
+                                At<lb/>torney<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="x4247" n="Burch, Thomas C.">Thomas C. Burch</ref>. (<ref target="X2953" pm:link-pointer-type="source">[Rigdon],
+                                            <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American
+                                        People</ref>,</title> 29, 66</ref>; <ref target="X0029" pm:link-pointer-type="source">JS History, vol. C-1, <ref pm:link-pointer-type="text" target="XE1EF2916-E1B1-4C4E-9888-25A032D3B234">858</ref></ref>.)</note> to abuse them as he thought
+                                <lb/>proper.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Sidney Rigdon</ref> claimed
+                                that some of the witnesses for <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and his
+                                codefendants were intimidated and fled the county before the hearing
+                                began, while those who did attend the hearing “were sworn at bayonet
+                                point.” Rigdon’s account of the hearing also claimed that Judge <ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Austin A. King</ref> never allowed the
+                                defense attorneys to cross-examine the witnesses for the
+                                prosecution. King charged JS with “overt acts of Treason in <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess county</ref>” and charged
+                                several other Latter-day Saints with treason, murder, larceny, and
+                                other crimes. (<ref target="X2953" pm:link-pointer-type="source">[Rigdon], <title><ref pm:link-pointer-type="relatedDocument" target="X8158">Appeal to the American
+                                        People</ref>,</title> 66–67</ref>; <ref target="X3768" pm:link-pointer-type="source"><title>Document Containing the
+                                        Correspondence,</title> 150</ref>; see also <ref target="X6517" pm:link-pointer-type="source">Madsen, “<ref pm:link-pointer-type="web" target="https://byustudies.byu.edu/article/joseph-smith-and-the-missouri-court-of-inquiry-austin-a-kings-quest-for-hostages/">Joseph Smith and the Missouri Court of Inquiry</ref>,”
+                                    98–101</ref>.)</note> We were then removed to <lb/><ref pm:link-pointer-type="place" target="plc167" n="Liberty Jail, Clay County, Missouri">Liberty jail</ref> in Clay
+                            county, and there <lb/>kept in close confinement in that place <lb/>for
+                            more than four months.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was transported
+                                from <ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref>, Daviess County, to <ref pm:link-pointer-type="place" target="plc83" n="Liberty, Liberty Township, Clay County, Missouri">Liberty</ref>, Clay County, on <date when-iso="1838-11-30">30
+                                    November</date> and <date when-iso="1838-12-01">1
+                                    December</date>, along with <ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Sidney Rigdon</ref>, <ref pm:link-pointer-type="person" target="per66" n="Smith, Hyrum">Hyrum Smith</ref>, <ref pm:link-pointer-type="person" target="per294" n="Wight, Lyman">Lyman Wight</ref>, <ref pm:link-pointer-type="person" target="per1113" n="McRae, Alexander">Alexander McRae</ref>, and <ref pm:link-pointer-type="person" target="per1109" n="Baldwin, Caleb">Caleb Baldwin</ref>. Some Mormon prisoners
+                                were transferred to other facilities. (<ref target="X253B" pm:link-pointer-type="source">Mittimus, 29 Nov. 1838, State of
+                                    Missouri v. JS et al. for Treason [Daviess Co. Cir. Ct. 1839],
+                                    copy, JS Collection, CHL</ref>; <ref target="X6401" pm:link-pointer-type="source">Hyrum Smith, Diary, [9]</ref>; see
+                                also <ref target="XC571" pm:link-pointer-type="source">Jessee,
+                                    “Prison Experience,” 24–25</ref>.)</note> while <lb/>there, we
+                            petitioned <ref pm:link-pointer-type="person" target="x4448" n="Turnham, Joel">Judge <supplied resp="Nathan Waite">Joel</supplied> Turnham</ref> for <lb/>a writ of <ref pm:link-pointer-type="topic" target="x41899" n="Habeas corpus">habeas corpus</ref>, but on ac<lb/>count of the prejudice of the
+                            jailor all <lb/>communication was cut off;<note type="editorial-footnote" resp="a" pm:link-target-type="text">The
+                                    <ref pm:link-pointer-type="place" target="plc91" n="Clay County, Missouri">Clay County</ref> jailer was Sheriff
+                                    <persName>Samuel Hadley</persName>. (<ref target="X253B" pm:link-pointer-type="source">State of Missouri, Mittimus, 29
+                                    Nov. 1838, State of Missouri v. JS et al. for Treason [Daviess
+                                    Co. Cir. Ct. 1839], copy, JS Collection, CHL</ref>.)</note> at
+                            length <lb/>however, we succeeded iin getting a <lb/>petition conveyed
+                            to him, but for four<lb/>teen days we received no answer. We
+                            <lb/>likewise petitioned the other Judges but <lb/>with no success.
+                            After the expiration <lb/>of fourteen days <ref pm:link-pointer-type="person" target="x4448" n="Turnham, Joel">Judge
+                                Turnham</ref> or<lb/>dered us to appear before him, we <lb/>went and
+                            took a number of witnesses, <lb/>which caused us considerable expense
+                            <lb/>and trouble; but he altogether refused <lb/>to hear any of our
+                            witnesses. The <lb/>lawyers which we had employed re<lb/>fused to act;
+                            being afraid of the people.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s <ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+                                    damages</ref> also states, “We likewise petitioned to <ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Judge King</ref> and to the Judges of
+                                the supreme Court but they utterly refused.”</note>
+                            <lb/>This being the case, we of course could <lb/>not succeed, and were
+                            consequently <lb/><supplied resp="Nathan Waite">re</supplied>manded back
+                            to our prison house.—<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Alexander
+                                    Doniphan</ref> and <persName>Peter Burnett</persName>
+                                represented the prisoners at the <date when-iso="1839-01-25">25
+                                    January 1839</date>
+                                <ref pm:link-pointer-type="topic" target="x41899" n="Habeas corpus">habeas corpus</ref> hearing in <ref pm:link-pointer-type="place" target="plc91" n="Clay County, Missouri">Clay County</ref>. No record of the
+                                proceedings has been found. Burnett later recounted that Doniphan
+                                made a spirited defense of the prisoners at this time. <ref pm:link-pointer-type="person" target="x4448" n="Turnham, Joel">Judge Turnham</ref> released <ref pm:link-pointer-type="person" target="per75" n="Rigdon, Sidney">Rigdon</ref>, finding
+                                insufficient proof of his culpability in the record of the <date when-iso="1838-11">November 1838</date> court of inquiry over
+                                which Judge <ref pm:link-pointer-type="person" target="per1097" n="King, Austin Augustus">Austin A. King</ref> presided.
+                                (Fearing for his safety, Rigdon remained in the prison until <date when-iso="1839-02-05">5 February</date>.) <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and the other prisoners were
+                                returned to jail pending a hearing before a <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref> grand jury,
+                                scheduled for <date when-iso="1839-04">April 1839</date>. (<ref target="XC571" pm:link-pointer-type="source">Jessee, “Prison
+                                    Experience,” 29</ref>; <ref target="XX9140" pm:link-pointer-type="source">Burnett, <title>Recollections and
+                                        Opinions,</title> 53–55</ref>; <ref target="XED5F" pm:link-pointer-type="source">Sidney Rigdon, Testimony, Nauvoo,
+                                    IL, 1 July 1843, pp. [23]–[24], Nauvoo, IL, Records,
+                                CHL</ref>.)</note>
+                            <lb/>We were sometimes visited by our <lb/>friends whose kindness and
+                            attention, <lb/><supplied resp="Nathan Waite">I</supplied> shall ever
+                            remember with feelings of <lb/><supplied resp="Nathan Waite">li</supplied>vely gratitude, but frequently we <lb/>were not
+                            sufiered to have that privi<lb/>lege. Our vituals were of the coarsest
+                                <pb type="present" n="6" facs="6549_44475-LIBR-88_TS_006.jpg"/>
+                            kind, and served up in a manner which <lb/>was disgusting. We continued
+                            in this <lb/>situation, bearing up under the injuries <lb/>and cruelties
+                            we suffered as well as we <lb/>could, until we were removed to <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Da<lb/>viess county</ref>, where we
+                            were taken in <lb/>order to be tried for the crimes with <lb/>which we
+                            had been charged.<note type="editorial-footnote" resp="a" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> and his fellow
+                                prisoners were moved <date from-iso="1839-04-06" to-iso="1839-04-08">6–8 April 1839</date>. (<ref target="X6401" pm:link-pointer-type="source">Hyrum Smith, Diary, [12],
+                                    [21]–[22]</ref>; <ref target="XFF8D" pm:link-pointer-type="source">Baugh, “We Took Our Change of
+                                    Venue,” 61–62</ref>.)</note> The <lb/>grand jury (who were
+                            mostly intoxica<lb/>ted,) indibted <supplied resp="Nathan Waite">indicted</supplied> us for treason, etc. etc.—<note type="editorial-footnote" pm:link-target-type="text">The hearing
+                                before the grand jury was held <date from-iso="1839-04-09" to-iso="1839-04-11">9–11 April</date> at <ref pm:link-pointer-type="place" target="x5066" n="Gallatin, Honey Creek (now in Union) Township, Daviess County, Missouri">Gallatin</ref>, Daviess County, Missouri. <ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref> was indicted for treason, riot,
+                                arson, larceny, and receiving stolen goods. (See the indictments
+                                issued during the <date when-iso="1839-04">April 1839</date> term of
+                                the <ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>, Missouri,
+                                Circuit Court in the following cases: <ref target="XFA9F" pm:link-pointer-type="source">State of Missouri v. JS et al. for
+                                    Treason, photocopy, Max H. Parkin, Collected Missouri Court
+                                    Documents, CHL</ref>; <ref target="X4080" pm:link-pointer-type="source">State of Missouri v. JS et al. for
+                                    Riot</ref>; <ref target="X4080" pm:link-pointer-type="source">State of Missouri v. Caleb Baldwin et al. for Arson</ref>; <ref target="X4080" pm:link-pointer-type="source">State of Missouri
+                                    v. Jacob Gates et al. for Arson, Historical Department,
+                                    Nineteenth-Century Legal Documents Collection, CHL</ref>; <ref target="XD82A" pm:link-pointer-type="source">State of Missouri
+                                    v. James Worthington et al. for Larceny, Daviess Co., MO,
+                                    Courthouse, Gallatin, MO</ref>; and <ref target="XFA9F" pm:link-pointer-type="source">State of Missouri v. JS for
+                                    Receiving Stolen Goods, photocopy, Max H. Parkin, Collected
+                                    Missouri Court Documents, CHL</ref>; see also <ref target="XFF8D" pm:link-pointer-type="source">Baugh, “We Took Our
+                                    Change of Venue,” 63–65</ref>.)</note></p> <p rend="indent">While there, we got a change
+of ve<lb/>nue to
+<ref pm:link-pointer-type="place" target="plc227" n="Boone County, Missouri">Boon<supplied resp="Nathan Waite">e</supplied>
+county</ref>,<note type="editorial-footnote" pm:link-target-type="text">Defense
+counsel initially sought a change of venue based on a newly enacted statute
+that allowed such a request to be supported by affidavits from the requesting
+parties. Judge
+<ref pm:link-pointer-type="person" target="x4247" n="Burch, Thomas C.">Thomas
+Burch</ref> denied this request. A second motion to change venue was then made
+based on another <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> statute that precluded an interested party from
+serving as a judge in the case. Because Judge Burch served as prosecuting
+attorney at the <date from-iso="1838-11-12" to-iso="1838-11-19">12–19
+November</date> court of inquiry at
+<ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref>, this
+statute specifically required disqualification. Burch granted this motion and
+the case was transferred to
+<ref pm:link-pointer-type="place" target="plc227" n="Boone County, Missouri">Boone County</ref>. (<ref target="X2CDF" pm:link-pointer-type="source">An Act to Amend an Act concerning Criminal
+Proceedings [13 Feb. 1839], <title>Laws of the State of Missouri</title>
+[1838–1839], 98</ref>; <ref target="X2E31" pm:link-pointer-type="source">Daviess Co., MO, Circuit Court Record, Apr. 1839,
+vol. A, pp. 66–70, Daviess Co., Courthouse, Gallatin, MO</ref>;
+<ref target="X0299" pm:link-pointer-type="source">Snow, Journal, 1838–1841,
+47–49</ref>.)</note> and were conduct<lb/>ed on our way to that place by a
+strong <lb/>guard.<note type="editorial-footnote" resp="CPL" pm:link-target-type="text"><persName>William Morgan</persName>, sheriff of
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>, summoned <persName>William
+Bowman</persName>, <persName>Wilson McKinney</persName>,
+<ref pm:link-pointer-type="person" target="per1117" n="Brassfield, John">John
+Brassfield</ref>, and <persName>John Pogue</persName> as his guard to escort
+the prisoners. (<ref target="XF038" pm:link-pointer-type="source">William
+Morgan, Certificate, 1 July 1839</ref>;
+<ref target="XD90E" pm:link-pointer-type="source">“Preamble,” William Morgan,
+Papers, CHL</ref>.)</note> The second evening after our <lb/>departure the
+guard got intoxicated<supplied resp="Nathan Waite">,</supplied> <lb/>we thought
+it a favorable opportunity <lb/>to make our escape; knowing that the <lb/>only
+object of our enemies was our de<lb/>struction;<note type="editorial-footnote" pm:link-target-type="text">The next several lines are additions not found in
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>, which resumes at “Accordingly we took the advantage.”</note> and
+likewise knowing that a <lb/>number of our brethren had been mas<lb/>sacred by
+them on
+<ref pm:link-pointer-type="place" target="x8217" n="Shoal Creek, Missouri">Shoal creek</ref>, <lb/>amongst whom were two
+children;<note type="editorial-footnote" pm:link-target-type="text">On
+<date when-iso="1838-10-30">30 October</date>,
+<ref pm:link-pointer-type="place" target="x5086" n="Livingston County, Missouri">Livingston County</ref> colonel
+<persName>Thomas Jennings</persName> led two to three hundred men in an attack
+on the small Latter-day Saint settlement of
+<ref pm:link-pointer-type="place" target="x7022" n="Hawn’s Mill, Caldwell County, Missouri">Hawn’s Mill</ref>. The attackers
+shot at men, women, and children. Seventeen were killed, including
+<persName>Charles Merrick</persName> (age nine) and <persName>Sardius
+Smith</persName> (age ten). At least fourteen were wounded. (See
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,” chap.
+9</ref>; and <ref target="X8296" pm:link-pointer-type="source">“<ref pm:link-pointer-type="relatedDocument" target="x6553">A History, of the
+Persecution</ref>,” <title>Times and Seasons,</title> Aug. 1840,
+1:145–150</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> H2:259–271-->.)</note>
+and <lb/>that they sought every opportunity to <lb/>abuse others who were left
+in that <lb/>state; and that they were never brought <lb/>to an account for
+their barbarious pro<lb/>ceedings, but were wincked at, and en<lb/>couraged, by
+those in authority. We <lb/>thought that it was necessary for us, <lb/>inasmuch
+as we loved our lives, and <lb/>did not wish to die by the hand of
+mur<lb/>derers and assasins; and inasmuch, as <lb/>we loved our families and
+friends, to <lb/>deliver ourselves from our enemies, <lb/>and from that land of
+tyrany and op<lb/>pression, and again take our stand <lb/>amongst a people in
+whose bosoms dwell <lb/>those feelings of republicanism and lib<lb/>erty which
+gave rise to our nation:— <lb/>Feelings which the inhabitants of the <lb/>state
+of <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> were strangers to. Ac<lb/>cordingly we took the
+advantage of the <lb/>situation of our guard and took our de<lb/>parture,<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>
+and his fellow prisoners escaped <date when-iso="1839-04-16">16 April
+1839</date> while at <placeName>Yellow Creek</placeName> in
+<ref pm:link-pointer-type="place" target="plc59" n="Chariton County, Missouri">Chariton County</ref>. The prisoners departed
+<ref pm:link-pointer-type="place" target="x5066" n="Gallatin, Honey Creek (now in Union) Township, Daviess County, Missouri">Gallatin</ref>
+on <date when-iso="1839-04-12">12 April</date>, four days earlier, but did not
+leave the confines of
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess County</ref>—the county in which they had
+been charged—until <date when-iso="1839-04-15">15 April</date>.
+<ref pm:link-pointer-type="person" target="per66" n="Smith, Hyrum">Hyrum
+Smith</ref> later testified that Daviess County sheriff <persName>William
+Morgan</persName> informed the prisoners that
+<ref pm:link-pointer-type="person" target="x4247" n="Burch, Thomas C.">Judge
+Burch</ref> had privately instructed him not to escort the prisoners as far as
+<ref pm:link-pointer-type="place" target="plc227" n="Boone County, Missouri">Boone County</ref>. One of the guards sold two
+horses to the prisoners for their escape, and he later collected payment in
+<ref pm:link-pointer-type="place" target="plc12" n="Nauvoo, Nauvoo Township, Hancock County, Illinois">Nauvoo</ref>. (JS,
+Journal, <ref pm:link-pointer-type="text" target="JSPPJ1_d1e66346">16 Apr.
+1839</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title> J1:336-->;
+<ref target="XED5F" pm:link-pointer-type="source">Lyman Wight, Testimony,
+Nauvoo, IL, 1 July 1843, p. 32, Nauvoo, IL, Records, CHL</ref>;
+<ref target="XFF8D" pm:link-pointer-type="source">Baugh, “We Took Our Change of
+Venue,” 65–71</ref>; <ref target="XED5F" pm:link-pointer-type="source">Hyrum
+Smith, Testimony, Nauvoo, IL, 1 July 1843, pp. 25–26, Nauvoo, IL, Records,
+CHL</ref>; <ref target="X5179" pm:link-pointer-type="source">JS to John
+Brassfield, Promissory note, 16 Apr. 1839, JS Collection, CHL</ref>.)</note>
+and that night we travelled a <lb/>cons<supplied resp="Nathan Waite">i</supplied>derable distance. We continued <lb/>on our
+journey both by night and by <lb/>day, and after suffering much fatigue
+<lb/>and hunger, I arrived in
+<ref pm:link-pointer-type="place" target="plc103" n="Quincy, Adams County, Illinois">Quincy</ref> Illinois, <lb/>amidst the
+congratulations of my friends <lb/>and the embraces of my family.<note type="editorial-footnote" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>
+arrived at
+<ref pm:link-pointer-type="place" target="plc103" n="Quincy, Adams County, Illinois">Quincy</ref>, Illinois,
+<date when-iso="1839-04-22">22 April</date>. (JS, Journal,
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e66346">16</ref> and
+<ref pm:link-pointer-type="text" target="JSPPJ1_d1e66419">22–23 Apr. 1839</ref><!--, in <title xmlns="http://www.tei-c.org/ns/1.0" xmlns:pm="https://xmlref.com/local/pm" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:lds="https://ldsc.xmlref.com/local/ldschurch">JSP,</title>
+                                J1:336-->.)</note></p> <p rend="indent">I have
+now resided in this neighbor<lb/>hood for several weeks as it is known <lb/>to
+thousands of the citizens of
+<ref pm:link-pointer-type="place" target="x6189" n="Illinois">Illinois</ref>,
+<lb/>as well as of the State of
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>,
+but <lb/>the authorities of
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Mo.</ref>,
+knowing that <lb/>they had no justice in their crusade <lb/>against me, and the
+people with whom <lb/>I was associated, have not yet to my <lb/>knowledge,
+taken the first step towards <lb/>having me arrested.<note type="editorial-footnote" pm:link-target-type="text"> The remainder of the text
+is not based on
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s
+<ref pm:link-pointer-type="relatedDocument" target="x462">bill of
+damages</ref>, which here terminates with a paragraph listing JS’s claims
+against <ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref> for losses sustained in
+<ref pm:link-pointer-type="place" target="plc57" n="Jackson County, Missouri">Jackson</ref>,
+<ref pm:link-pointer-type="place" target="plc161" n="Daviess County, Missouri">Daviess</ref>, and
+<ref pm:link-pointer-type="place" target="plc148" n="Caldwell County, Missouri">Caldwell</ref> counties for “Lands: Houses
+Horses: Harness Cattle Hogs &amp; Books &amp; store Goods Expences while in
+Bonds: of moneys paid out expences of moving out of the State &amp; damages
+sustained by False imprisonment threatnings: intimidation Exposure &amp;c
+&amp;c &amp;c &amp;c &amp;c.” JS calculated the total value lost at
+$100,000.</note></p> <p rend="indent">Amongst those who have been the
+<lb/>chief instruments, and leading charac<lb/>ters, in the unparallelled
+persecutions <lb/>against the church of Latter Day <lb/>Saints; the following
+stand conspicu<lb/>ous, viz: Generals
+<ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock">Clark</ref>,
+<ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">Wilson</ref>, and <lb/><ref pm:link-pointer-type="person" target="x4934" n="Lucas, Samuel D.">Lucas</ref>,
+<ref pm:link-pointer-type="person" target="x4579" n="Price, Sterling">Colonel
+Price</ref>, and
+<ref pm:link-pointer-type="person" target="per578" n="Gilliam, Cornelius">Cornelius <lb/>Guilliam <supplied resp="Nathan Waite">Gilliam</supplied></ref>.<note type="editorial-footnote" resp="W" pm:link-target-type="text"><ref pm:link-pointer-type="person" target="per578" n="Gilliam, Cornelius">Gilliam</ref> led one of the vigilante
+groups that harassed and plundered the Saints. (<ref target="X5126" pm:link-pointer-type="source">LeSueur, <title>1838 Mormon War in
+Missouri,</title> 128–129, 192</ref>;
+<ref target="X0651" pm:link-pointer-type="source">Baugh, “Call to Arms,”
+300–302</ref>.)</note>
+<ref pm:link-pointer-type="person" target="x4891" n="Bogart, Samuel">Captain
+Bogart</ref> also, whose <lb/>zeal in the cause of oppression and
+in<lb/>justlce, was unequalled, and whose de<lb/>light has been to rob, murder,
+and <lb/>spread devastation amongst the Saints. <lb/>He stole a valuable horse,
+saddle and <lb/>bridle from me; which cost two hun<lb/>dred dollars, and then
+sold the same to <lb/><ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">General Wilson</ref>. On understanding <lb/>this I
+applied to
+<ref pm:link-pointer-type="person" target="x4405" n="Wilson, Moses Greer">General Wilson</ref> for the <lb/>horse, who assured
+me, upon the hon<lb/>or of a gentleman, and an officer, that <lb/>I should have
+the horse returned to me; <lb/>but this promise has not been fulfilled.</p> 
+<p rend="indent">All the threats, murders, and rob<lb/>beries which these
+officers have been <lb/>guilty of, are entirely looked over by <lb/>the
+<ref pm:link-pointer-type="person" target="per1336" n="Boggs, Lilburn W.">Executive</ref> of the
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">state</ref>;
+who, to hide <lb/>his own iniquity, must of course shield <lb/>and protect
+those whom he employed, <lb/>to carry into effect his murderous
+pur<lb/>poses.</p> <p rend="indent">I was in their hands as a prisoner
+a<lb/>bout six months, but notwtihstanding <lb/>their determination to destroy
+me, <lb/>with the rest of my brethren who were <lb/>with me; and although at
+three differ<lb/>ent times (as I was informed) we were <lb/>sentenced to be
+shot, without the least <lb/>shadow of law, (as we were not milita<lb/>ry men,)
+and had the time, and place <lb/>apointed for that purpose;<note type="editorial-footnote" pm:link-target-type="text">As noted previously,
+<ref pm:link-pointer-type="person" target="per583" n="Doniphan, Alexander William">Alexander Doniphan</ref> intervened to prevent
+<ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JS</ref>’s execution shortly after he was taken
+prisoner. JS’s brother
+<ref pm:link-pointer-type="person" target="per66" n="Smith, Hyrum">Hyrum
+Smith</ref> later testified that
+<ref pm:link-pointer-type="person" target="per970" n="Grant, Jedediah Morgan">Jedediah M. Grant</ref>, a Latter-day Saint,
+overheard a conversation between
+<ref pm:link-pointer-type="person" target="per1063" n="Clark, John Bullock">General Clark</ref> and militiamen at
+<ref pm:link-pointer-type="place" target="plc154" n="Richmond, Richmond Township, Ray County, Missouri">Richmond</ref> that
+indicated Clark’s intention to have JS and fellow prisoners executed on
+<date when-iso="1838-11-12">12 November</date>. According to Smith, Clark
+abandoned that plan after learning that military law made no provision for a
+court-martial for civilians. (<ref target="XED5F" pm:link-pointer-type="source">Hyrum Smith, Testimony, Nauvoo, IL, 1 July 1843,
+p. 17, Nauvoo, IL, Records, CHL</ref>.)</note> yet, through <lb/>the mercy of
+God, in answer to the <lb/>prayers of the saints, I have been pre<lb/>served,
+and delivered out of their hands, <lb/>and can again enjoy the society of my
+<lb/>friends and brethren, whom I love; and <lb/>to whom I feel united in bonds
+that <lb/>are stronger than death: and in a state <lb/>where I believe the laws
+are respected, <lb/>and whose citizens, are humane and <lb/>charitable.</p> 
+<p rend="indent">During the time I was in the hands <lb/>of my enemies; I must
+say, that al<lb/>though I felt great anxiety, respecting <lb/>my family and
+friends, who were so <lb/>inhumanly treated and abused; and <lb/>who had to
+mourn the loss of their hus<lb/>bands and children, who had been <lb/>slain;
+and after having been robbed of
+<pb type="present" n="7" facs="6549_44475-LIBR-88_TS_007.jpg"/> nearly all that
+they possessed be driven <lb/>from their homes, and forced to wan<lb/>der as
+strangers in a strange country,<note type="editorial-footnote" resp="a" pm:link-target-type="text">See Exodus 2:22.</note> <lb/>in order, that they
+might save them<lb/>selves and their little ones, from the <lb/>destructions
+they were threatened with <lb/>in
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>:
+yet, as far as I was con<lb/>cerned, I felt perfectly calm, and re<lb/>signed
+to the will of my heavenly <lb/>Father. I knew my innocency, as <lb/>well as
+that of the saints; and that we <lb/>had done nothing to deserve such
+treat<lb/>ment from the hands of our oppressors: <lb/>consequently, I could
+look to that God, <lb/>who has the hearts of all men in his <lb/>hands, and who
+had saved me frequent<lb/>ly from the gates of death, for deliver<lb/>ance: and
+notwithstanding that every <lb/>avenue of escape seemed to be entirely
+<lb/>closed, and death stared me in the face, <lb/>and that my destruction was
+determin<lb/>ed upon, as far as man was concerned; <lb/>yet, from my first
+entrance into the <lb/>camp, I felt an assurance, that I with <lb/>my brethren
+and our families should <lb/>be delivered. Yes, that still small <lb/>voice,
+which has so often whispered <lb/>consolation to my soul, in the depth of
+<lb/>sorrow and distress, bade me be of good <lb/>cheer,<note type="editorial-footnote" resp="a" pm:link-target-type="text">See 1 Kings
+19:12; Acts 23:11; and <ref target="X5294-37" pm:link-pointer-type="source">Book of Mormon, 1837 ed., 49 [1 Nephi
+17:45]</ref>.</note> and promised deliverance, which <lb/>gave me great
+comfort: and although <lb/>the heathen raged, and the people im<lb/>agined vain
+things,<note type="editorial-footnote" pm:link-target-type="text">See Psalm
+2:1; and Acts 4:25.</note> yet the Lord of <lb/>hosts, the God of Jacob, was my
+re<lb/>fuge;<note type="editorial-footnote" resp="a" pm:link-target-type="text">See Psalm 46:7, 11.</note> and when I cried unto him
+in the <lb/>day of trouble, he delivered me; for <lb/>which I call upon my
+soul, and and all <lb/>that is within me, to bless and praise <lb/>his holy
+name:<note type="editorial-footnote" resp="a" pm:link-target-type="text">See
+Psalms 50:15; 103:1.</note> For although I was <lb/>“troubled on every side,
+yet not distress<lb/>ed; perplexed, but not in despair; per<lb/>secuted, but
+not forsaken; cast down, <lb/>but not destroyed.”<note type="editorial-footnote" pm:link-target-type="text">See 2 Corinthians
+4:8–9.</note></p> <p rend="indent">The conduct of the saints under <lb/>their
+accumulated wrongs and suffer<lb/>ings, has been praise-worthy; their
+<lb/>courage, in defending their brethren <lb/>from the ravages of mobs; their
+attach<lb/>ment to the cause of truth, under cir<lb/>cumstances the most trying
+and dis<lb/>tressing, which humanity can possibly <lb/>endure; their love to
+each other; their <lb/>readiness to afford assistance to me, <lb/>and my
+brethren who were confined in <lb/>a dungeon; their sacrifices in leaving
+<lb/>the state of
+<ref pm:link-pointer-type="place" target="plc140" n="Missouri">Missouri</ref>,
+and assisting the <lb/>poor widows and orphans, and securing <lb/>them houses
+in a more hospitable land; <lb/>all conspire to raise them in the
+estima<lb/>tion of all good and virtuous men; and <lb/>has secured them the
+favor and appro<lb/>bation of Jehovah; and a name, as im<lb/>perishable as
+eternity. And their vir<lb/>tuous deeds, and heroic actions, while <lb/>in
+defence of truth and their brethren: <lb/>will be fresh and blooming; when the
+<lb/>names of their oppressors shall either <lb/>be entirely forgotten, or only
+remem<lb/>bered, for their barbarity and cruelty. <lb/>Their attention and
+affection to me, <lb/>while in prison, will ever be remem<lb/>bered by me; and
+when I have seen <lb/>them thrust away, and abused by the <lb/>jailor and
+guard, when they came to do <lb/>any kind offices, and to cheer our <lb/>minds
+while we were in the gloomy <lb/>prison house, gave me feellings, which <lb/>I
+cannot describe, while those who <lb/>wished to insult and abuse us, by their
+<lb/>threats and blasphemous language, <lb/>were applauded and had every
+encour<lb/>agement given them.</p> <p rend="indent">However, thank God, we have
+been <lb/>deliverd; and although, some of our <lb/>beloved brethren, have had
+to seal their <lb/>testimony with their blood; and have <lb/>died martyrs to
+the cause of truth; yet,</p>
+<note type="formatting-note" resp="RES" pm:link-target-type="text">Extra
+leading here; block following two lines of verse</note> <p> </p>
+<floatingText xml:id="XD377B190-9B6E-46CE-9C5F-55CA3DF7CAB6"><body>
+<p rend="indent">Short, though bitter was their pain;</p> <p rend="indent">Everlasting is their joy.<note type="editorial-footnote" pm:link-target-type="text">Quoted inexactly from <persName>Hannah
+More</persName> (<date from-iso="1745" to-iso="1833">1745–1833</date>), “The
+True Heroes: or, The Noble Army of Martyrs.” The original lines are “Short tho’
+bitter were their woes / Everlasting is their joy.” (<ref target="X7182" pm:link-pointer-type="source"><title>Works of Hannah
+More,</title>1:187</ref>.)</note></p></body></floatingText>
+<note type="formatting-note" resp="RES" pm:link-target-type="text">extra
+leading here</note> <p> </p><p rend="noindent">Let us not sorrow as “those
+without <lb/>hope,” the time is fast approaching, <lb/>when we shall see them
+again; and re<lb/>joice together, without being affraid of <lb/>wicked men:
+Yes, those who have <lb/>slept in Christ, shall he bring with him,<note type="editorial-footnote" pm:link-target-type="text">See 1 Thessalonians
+4:13–14.</note> <lb/>when he shall come to be glorified in <lb/>his saints, and
+admired by all those who <lb/>believe: but to take vengeance upon his
+<lb/>enemies, and all those who obey not <lb/>the gospel. At that time, the
+hearts <lb/>of the widow and fatherless shall be <lb/>comforted; and every tear
+shall be <lb/>wiped from off their faces.</p> <p rend="indent">The trials they
+have had to pass <lb/>through, shall work together for their <lb/>good,<note type="editorial-footnote" pm:link-target-type="text">See Romans 8:28; see also
+<ref target="X8FDE" pm:link-pointer-type="source">JS et al., Liberty, MO, to
+the church members and Edward Partridge, Quincy, IL,
+<ref pm:link-pointer-type="relatedDocument" target="x430">20 Mar. 1839</ref>,
+in Revelations Collection, CHL [D&amp;C 122:7]</ref>.</note> and prepare them
+for the society <lb/>of those, who have come up out of <lb/>great tribulation;
+and have washed <lb/>their robes, and made them white in <lb/>the blood of the
+Lamb.<note type="editorial-footnote" pm:link-target-type="text">See Revelation
+7:14. </note> Marvel not <lb/>then, if you are persecuted, but re<lb/>member
+the words of the Savior, “The <lb/>servant is not above his Lord, if they
+<lb/>have persecuted me, they will perse<lb/>cute you also;”<note type="editorial-footnote" pm:link-target-type="text">See John 15:20.</note> and
+that all the afflic<lb/>tions through which the saints have to <lb/>pass, are
+in fulfillment of the words of
+<pb type="present" n="8" facs="6549_44475-LIBR-88_TS_008.jpg"/> the prophets,
+which have spoken since <lb/>the world began. We shall therefore <lb/>do well
+to discern the signs of the times, <lb/>as we pass along, that the day of the
+<lb/>Lord may not “overtake us as a thief <lb/>in the night.”<note type="editorial-footnote" pm:link-target-type="text">See
+<ref target="X5433" pm:link-pointer-type="source"><ref pm:link-pointer-type="relatedDocument" target="x3007">Revelation, 25 Nov.
+1834</ref>, in Doctrine and Covenants 99:2, 1835 ed. [D&amp;C 106:4]</ref>;
+compare 2 Peter 3:10.</note> Afflictions, persecu<lb/>tions, imprisonments and
+deaths, we <lb/>must expect according to the scriptures, <lb/>which tell us,
+that the blood of those <lb/>whose souls were under the altar, could <lb/>not
+be avenged on them that dwell on <lb/>the earth, until their brethren should
+<lb/>be slain, as they were.<note type="editorial-footnote" pm:link-target-type="text">See Revelation
+6:9–11.</note></p> <p rend="indent">If these transactions had taken place
+<lb/>among barbarians, under the authority <lb/>of a despot; or in a nation,
+where a <lb/>certain religion is established accord<lb/>ing to law, and all
+others proscribed; <lb/>then there might have been some shad<lb/>ow of defence
+offered. But can we <lb/>realize, that in a land which is the cra<lb/>dle of
+Liberty and equal rights; and <lb/>where the voice of the conquerors, who
+<lb/>had vanquished our foes, had scarcely <lb/>died away upon our ears, where
+we <lb/>frequently mingled with those who had <lb/>stood amidst the “battle and
+the breeze;”<note type="editorial-footnote" pm:link-target-type="text">Phrase
+taken from <persName>Thomas Campbell</persName> (<date from-iso="1777" to-iso="1844">1777–1844</date>), “Ye Mariners of England: A Naval Ode.” </note>
+<lb/>and whose arms have been nerved in <lb/>the defence of their country and
+liber<lb/>ty: whose institutions are the theme of <lb/>philosophers and poets,
+and held up to <lb/>the admiration of the whole civilized <lb/>world. In the
+midst of all these scenes, <lb/>with which we were surrounded, a
+per<lb/>secution, the most unwarrantable, was <lb/>commenced; and a tragedy,
+the most <lb/>dreadful, was enacted, by a large por<lb/>tion of the
+inhabitants, of one of those <lb/>free and independent States, which
+<lb/>comprise this vast republic; and a <lb/>deadly blow was struck at the
+institu<lb/>tions, for which our Fathers had fought <lb/>many a hard battle,
+and for which, <lb/>many a Patriot had shed his blood; and <lb/>suddenly, was
+heard, amidst the voice <lb/>of joy and gratitude for our national
+<lb/>liberty, the voice of mourning, lamen<lb/>tation and woe. Yes, in this
+land, a <lb/>mob, regardless of those laws, for <lb/>which so much blood had
+been spilled, <lb/>dead to every feeling of virtue and pa<lb/>triotism, which
+animate the bosom of <lb/>freemen; fell upon a people whose reli<lb/>gious
+faith was different from their own; <lb/>and not only destroyed their homes,
+<lb/>drove them away, and carried off their <lb/>property, but murderd many a
+free <lb/>born son of
+<ref pm:link-pointer-type="place" target="x5117" n="United States of America">America</ref>. A tragedy, <lb/>which has no
+parrallel in modern, and <lb/>hardly in ancient times; even the face <lb/>of
+the Red man would be ready to turn <lb/>pale at the recital of it.</p> 
+<p rend="indent">It would have been some consolation, <lb/>if the authorities
+of the <ref pm:link-pointer-type="place" target="plc140" n="Missouri">State</ref> had been <lb/>innocent in this affair, but they are
+in<lb/>volved in the guilt thereof; and the <lb/>blood of innocence, even of
+<hi rend="italic">children</hi>, <lb/>cry for vengeance upon them. I ask
+<lb/>the citizens of this vast republic, wheth<lb/>er such a state of things is
+to be suff<lb/>ered to pass unnoticed, and the hearts <lb/>of widows, orphans
+and patriots, to be <lb/>broken, and their wrongs left without <lb/>redress?
+No! I invoke the genius of our <lb/>constitution, I appeal to the patriotism
+<lb/>of Americans, to stop this unlawful <lb/>and unholy proceedure; and pray
+that <lb/>God may defend this nation from the <lb/>dreadful effects of such
+outrages. Is <lb/>there not virtue in the body politic? <lb/>Will not the
+people rise up in their <lb/>majesty, and with that promptitude and <lb/>zeal,
+which is so characteristic of them, <lb/>discountenance such proceedings, by
+<lb/>bringing the offenders to that purnish<lb/>ment which they so richly
+deserve; <lb/>and save the nation from that disgrace <lb/>and ultimate ruin,
+which otherwise <lb/>must inevitably fall upon it?</p> <p rend="right"><ref pm:link-pointer-type="person" target="per46" n="Smith, Joseph, Jr.">JOSEPH
+SMITH JR.</ref> <pb type="present" n="9" facs="6549_44475-LIBR-88_TS_009.jpg"/><note type="formatting-note">Riley:
+Delete this page indicator in print edition</note></p> </div2> </div1> </body>
+</text> </TEI>
