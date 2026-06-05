@@ -30,10 +30,10 @@ def write_markdown_table(rows: list[dict], output_path: str, title: str, source:
         f.write("| Date | Principle | Type | Audience | Source Document | Recorded By |\n")
         f.write("|------|-----------|------|----------|----------------|-------------|\n")
         for row in rows:
-            principle = row["principle_statement"].replace("|", "\\|")
-            audience = (row["audience"] or "Not specified").replace("|", "\\|")
+            principle = row["principle_statement"].replace("|", "\\|").replace("\n", " ")
+            audience = (row["audience"] or "Not specified").replace("|", "\\|").replace("\n", " ")
             ptype = row["explicit_or_inferred"] or "unknown"
-            doc_title = (row.get("doc_title") or "Unknown").replace("|", "\\|")
+            doc_title = (row.get("doc_title") or "Unknown").replace("|", "\\|").replace("\n", " ")
             date = row["event_date_edtf"] or "unknown"
             f.write(f"| {date} | {principle} | {ptype} "
                     f"| {audience} | {doc_title} | Joseph Smith Jr. |\n")
